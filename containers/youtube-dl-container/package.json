@@ -1,0 +1,22 @@
+{
+  "name": "@xielyng/youtube-dl-container",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && tsc-alias",
+    "dev": "ts-node -r tsconfig-paths/register src/index.ts"
+  },
+  "dependencies": {
+    "@xielyng/youtube-dl-service": "workspace:^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.6.3",
+    "tsc-alias": "^1.7.0",
+    "tsconfig-paths": "^4.0.0",
+    "typescript": "^4.7.4"
+  }
+}

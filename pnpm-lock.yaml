@@ -63,6 +63,29 @@ importers:
       vite-plugin-eslint: 1.7.0_eslint@8.21.0+vite@3.0.4
       vue-eslint-parser: 9.0.3_eslint@8.21.0
 
+  containers/youtube-dl-container:
+    specifiers:
+      '@types/cors': ^2.8.12
+      '@types/express': ^4.17.13
+      '@types/node': ^18.6.3
+      '@xielyng/youtube-dl-service': workspace:^1.0.0
+      cors: ^2.8.5
+      express: ^4.17.2
+      tsc-alias: ^1.7.0
+      tsconfig-paths: ^4.0.0
+      typescript: ^4.7.4
+    dependencies:
+      '@xielyng/youtube-dl-service': link:../../packages/youtube-dl-service
+      cors: 2.8.5
+      express: 4.18.1
+    devDependencies:
+      '@types/cors': 2.8.12
+      '@types/express': 4.17.13
+      '@types/node': 18.6.3
+      tsc-alias: 1.7.0
+      tsconfig-paths: 4.0.0
+      typescript: 4.7.4
+
   functions/hanzi-pinyin-captions-function:
     specifiers:
       '@google-cloud/functions-framework': ^3.1.2
@@ -77,6 +100,32 @@ importers:
       pnpm-isolate-workspace: 0.0.9
       tsc-alias: 1.7.0
       typescript: 4.7.4
+
+  functions/hanzi-pinyin-captions-function/_isolated_:
+    specifiers:
+      '@google-cloud/functions-framework': ^3.1.2
+      '@xielyng/hanzi-pinyin-captions': file:./workspaces/packages/hanzi-pinyin-captions
+      pnpm-isolate-workspace: ^0.0.9
+      tsc-alias: ^1.7.0
+      typescript: ^4.7.4
+    dependencies:
+      '@google-cloud/functions-framework': 3.1.2
+      '@xielyng/hanzi-pinyin-captions': file:functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/hanzi-pinyin-captions
+    devDependencies:
+      pnpm-isolate-workspace: 0.0.9
+      tsc-alias: 1.7.0
+      typescript: 4.7.4
+
+  functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/hanzi-pinyin-captions:
+    specifiers:
+      '@elyse0/hanzi-tools': ^1.0.9
+      '@xielyng/youtube-api': file:../youtube-api
+    dependencies:
+      '@elyse0/hanzi-tools': 1.0.9
+      '@xielyng/youtube-api': file:functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/youtube-api
+
+  functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/youtube-api:
+    specifiers: {}
 
   packages/caption-merger:
     specifiers:
@@ -171,6 +220,21 @@ importers:
       tsc-alias: ^1.7.0
       typescript: ^4.7.4
     devDependencies:
+      tsc-alias: 1.7.0
+      typescript: 4.7.4
+
+  packages/youtube-dl-service:
+    specifiers:
+      '@types/node': ^18.6.3
+      '@xielyng/youtube-api': workspace:^1.0.0
+      ts-results-es: ^3.5.0
+      tsc-alias: ^1.7.0
+      typescript: ^4.7.4
+    dependencies:
+      '@xielyng/youtube-api': link:../youtube-api
+      ts-results-es: 3.5.0
+    devDependencies:
+      '@types/node': 18.6.3
       tsc-alias: 1.7.0
       typescript: 4.7.4
 
@@ -632,13 +696,15 @@ packages:
     dependencies:
       '@types/connect': 3.4.35
       '@types/node': 18.6.3
-    dev: false
 
   /@types/connect/3.4.35:
     resolution: {integrity: sha512-cdeYyv4KWoEgpBISTxWvqYsVy444DOqehiF3fM3ne10AmJ62RSyNkUnxMJXHQWRQQX2eR94m5y1IZyDwBjV9FQ==}
     dependencies:
       '@types/node': 18.6.3
-    dev: false
+
+  /@types/cors/2.8.12:
+    resolution: {integrity: sha512-vt+kDhq/M2ayberEtJcIN/hxXy1Pk+59g2FV/ZQceeaTyCtCucjL2Q7FXlFjtWn4n15KCr1NE2lNNFhp0lEThw==}
+    dev: true
 
   /@types/eslint/8.4.5:
     resolution: {integrity: sha512-dhsC09y1gpJWnK+Ff4SGvCuSnk9DaU0BJZSzOwa6GVSg65XtTugLBITDAAzRU5duGBoXBHpdR/9jHGxJjNflJQ==}
@@ -657,7 +723,6 @@ packages:
       '@types/node': 18.6.3
       '@types/qs': 6.9.7
       '@types/range-parser': 1.2.4
-    dev: false
 
   /@types/express/4.17.13:
     resolution: {integrity: sha512-6bSZTPaTIACxn48l50SR+axgrqm6qXFIxrdAKaG6PaJk3+zuUr35hBlgT7vOmJcum+OEaIBLtHV/qloEAFITeA==}
@@ -666,7 +731,6 @@ packages:
       '@types/express-serve-static-core': 4.17.30
       '@types/qs': 6.9.7
       '@types/serve-static': 1.15.0
-    dev: false
 
   /@types/json-schema/7.0.11:
     resolution: {integrity: sha512-wOuvG1SN4Us4rez+tylwwwCV1psiNVOkJeM3AUWUNWg/jDQY2+HE/444y5gc+jBmRqASOm2Oeh5c1axHobwRKQ==}
@@ -688,7 +752,6 @@ packages:
 
   /@types/mime/3.0.0:
     resolution: {integrity: sha512-fccbsHKqFDXClBZTDLA43zl0+TbxyIwyzIzwwhvoJvhNjOErCdeX2xJbURimv2EbSVUGav001PaCJg4mZxMl4w==}
-    dev: false
 
   /@types/node/17.0.45:
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
@@ -703,18 +766,15 @@ packages:
 
   /@types/qs/6.9.7:
     resolution: {integrity: sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw==}
-    dev: false
 
   /@types/range-parser/1.2.4:
     resolution: {integrity: sha512-EEhsLsD6UsDM1yFhAvy0Cjr6VwmpMWqFBCb9w07wVugF7w9nfajxLuVmngTIpgS6svCnm6Vaw+MZhoDCKnOfsw==}
-    dev: false
 
   /@types/serve-static/1.15.0:
     resolution: {integrity: sha512-z5xyF6uh8CbjAu9760KDKsH2FcDxZ2tFCsA4HIMWE6IkiYMXfVoa+4f9KX+FN0ZLsaMw1WNG2ETLA6N+/YA+cg==}
     dependencies:
       '@types/mime': 3.0.0
       '@types/node': 18.6.3
-    dev: false
 
   /@types/youtube-player/5.5.6:
     resolution: {integrity: sha512-RcWWUEuAZZX24dG55Xk558/HHCZxYf798/xPnV6wTwDlUF8HZNAmqyXyi+4QgN2l9juP9GRjCwILxXLSPKQBBw==}
@@ -1353,6 +1413,14 @@ packages:
   /core-js/3.24.1:
     resolution: {integrity: sha512-0QTBSYSUZ6Gq21utGzkfITDylE8jWC9Ne1D2MrhvlsZBI1x39OdDIVbzSqtgMndIy6BlHxBXpMGqzZmnztg2rg==}
     requiresBuild: true
+    dev: false
+
+  /cors/2.8.5:
+    resolution: {integrity: sha512-KIHbLJqu73RGr/hnbrO9uBeixNGuvSQjul/jdFvS/KFSIH1hWVd1ng7zOHx+YrEfInLG7q4n6GHQ9cDtxv/P6g==}
+    engines: {node: '>= 0.10'}
+    dependencies:
+      object-assign: 4.1.1
+      vary: 1.1.2
     dev: false
 
   /cross-spawn/7.0.3:
@@ -3707,6 +3775,14 @@ packages:
       strip-bom: 3.0.0
     dev: true
 
+  /tsconfig-paths/4.0.0:
+    resolution: {integrity: sha512-SLBg2GBKlR6bVtMgJJlud/o3waplKtL7skmLkExomIiaAtLGtVsoXIqP3SYdjbcH9lq/KVv7pMZeCBpLYOit6Q==}
+    dependencies:
+      json5: 2.2.1
+      minimist: 1.2.6
+      strip-bom: 3.0.0
+    dev: true
+
   /tslib/1.14.1:
     resolution: {integrity: sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==}
     dev: true
@@ -4200,6 +4276,24 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
     dev: true
+
+  file:functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/hanzi-pinyin-captions:
+    resolution: {directory: functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/hanzi-pinyin-captions, type: directory}
+    name: '@xielyng/hanzi-pinyin-captions'
+    version: 1.0.0
+    dependencies:
+      '@elyse0/hanzi-tools': 1.0.9
+      '@xielyng/youtube-api': file:functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/youtube-api
+    transitivePeerDependencies:
+      - encoding
+      - supports-color
+    dev: false
+
+  file:functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/youtube-api:
+    resolution: {directory: functions/hanzi-pinyin-captions-function/_isolated_/workspaces/packages/youtube-api, type: directory}
+    name: '@xielyng/youtube-api'
+    version: 1.0.0
+    dev: false
 
   github.com/sampotts/plyr/d434c9af16e641400aaee93188594208d88f2658:
     resolution: {tarball: https://codeload.github.com/sampotts/plyr/tar.gz/d434c9af16e641400aaee93188594208d88f2658}
