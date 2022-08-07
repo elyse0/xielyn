@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc && tsc-alias",
+    "build:package": "sh build-gcp-function.sh",
     "dev": "pnpx @google-cloud/functions-framework --source=dist/ --target=main"
   },
   "dependencies": {
@@ -13,7 +14,7 @@
     "@xielyng/hanzi-pinyin-captions": "workspace:^1.0.0"
   },
   "devDependencies": {
-    "pnpm-isolate-workspace": "^0.0.9",
+    "pnpm-bundle-workspace-package": "^1.0.0",
     "tsc-alias": "^1.7.0",
     "typescript": "^4.7.4"
   }
