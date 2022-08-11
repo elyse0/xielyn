@@ -1,4 +1,4 @@
-import { getHanziSegments } from '@/segmentation'
+import { getHanziSegments } from '@/utils/segmentation'
 
 describe('hanzi segmentation', () => {
 
