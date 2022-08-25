@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@napi-rs/pinyin": "^1.7.0",
-    "@node-rs/jieba": "^1.6.1",
-    "pinyin": "3.0.0-alpha.5"
+    "@node-rs/jieba": "^1.6.1"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",
