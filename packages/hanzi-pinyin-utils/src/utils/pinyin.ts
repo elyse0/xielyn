@@ -42,11 +42,11 @@ const getSegments = (hanzi: string): Segments => {
 }
 
 const getPinyin = (hanzi: string): string => {
-    const hanziSegments = getSegments(hanzi)
+    const segments = getSegments(hanzi)
 
     const pinyinSegments: string[] = [];
-    hanziSegments.pinyin.forEach((hanziSegment, index) => {
-        if (shouldPutSpaceBetween(hanziSegments.hanzi[ index ], hanziSegments.hanzi[ index + 1 ])) {
+    segments.pinyin.forEach((hanziSegment, index) => {
+        if (shouldPutSpaceBetween(segments.hanzi[ index ], segments.hanzi[ index + 1 ])) {
             pinyinSegments.push(`${hanziSegment} `);
         } else {
             pinyinSegments.push(hanziSegment);
