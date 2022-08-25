@@ -1,7 +1,8 @@
 import { getHanziSegments } from '@/utils/segmentation'
-import { getPinyin } from '@/utils/pinyin'
+import { getPinyin, getSegments } from '@/utils/pinyin'
 
 export {
     getHanziSegments,
     getPinyin,
+    getSegments,
 }

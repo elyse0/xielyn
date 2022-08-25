@@ -56,4 +56,4 @@ const getPinyin = (hanzi: string): string => {
     return pinyinSegments.join('').trim()
 }
 
-export { getPinyin }
+export { getPinyin, getSegments }
