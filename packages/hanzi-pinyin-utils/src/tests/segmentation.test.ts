@@ -1,3 +1,4 @@
+import { getSegments } from '@/utils/pinyin'
 import { getHanziSegments } from '@/utils/segmentation'
 
 describe('hanzi segmentation', () => {
@@ -82,4 +83,16 @@ describe('hanzi segmentation', () => {
 
         expect(segmentation).toEqual(expectedSegmentation);
     });
+
+    it('should not split english words', () => {
+        const hanzi = '这是我在Amazon上面买的灯'
+
+        const segments = getSegments(hanzi)
+        const expectedSegments = {
+            hanzi: ['这', '是', '我', '在', 'Amazon', '上面', '买', '的', '灯'],
+            pinyin: ['zhè', 'shì', 'wǒ', 'zài', 'Amazon', 'shàng​miàn', 'mǎi', 'de', 'dēng'],
+        }
+
+        expect(segments).toEqual(expectedSegments)
+    })
 })
