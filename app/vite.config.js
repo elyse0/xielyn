@@ -13,6 +13,7 @@ export default defineConfig({
       fix: true,
       exclude: [
         '**/node_modules/**',
+        '**/xielyng/packages/**',
       ]
     }),
   ],
