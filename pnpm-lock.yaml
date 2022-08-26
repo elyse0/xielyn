@@ -16,6 +16,7 @@ importers:
     specifiers:
       '@oruga-ui/oruga-next': ^0.5.5
       '@oruga-ui/theme-bulma': ^0.2.6
+      '@types/file-saver': ^2.0.5
       '@types/node': ^17.0.8
       '@types/youtube-player': ^5.5.5
       '@typescript-eslint/parser': ^5.31.0
@@ -23,6 +24,7 @@ importers:
       core-js: ^3.6.5
       eslint: ^8.20.0
       eslint-plugin-vue: ^7.20.0
+      file-saver: ^2.0.5
       hanzi-writer: ^3.3.0
       pinyin-utils: ^2.32.0
       plyr: ^3.6.12
@@ -41,6 +43,7 @@ importers:
       '@oruga-ui/oruga-next': 0.5.5_vue@3.2.37
       '@oruga-ui/theme-bulma': 0.2.6
       core-js: 3.24.1
+      file-saver: 2.0.5
       hanzi-writer: 3.3.0
       pinyin-utils: 2.32.0
       plyr: 3.7.2
@@ -51,6 +54,7 @@ importers:
       vue-plyr: 7.0.0
       vue-router: 4.1.3_vue@3.2.37
     devDependencies:
+      '@types/file-saver': 2.0.5
       '@types/node': 17.0.45
       '@types/youtube-player': 5.5.6
       '@typescript-eslint/parser': 5.32.0_qugx7qdu5zevzvxaiqyxfiwquq
@@ -1459,6 +1463,10 @@ packages:
       '@types/express-serve-static-core': 4.17.30
       '@types/qs': 6.9.7
       '@types/serve-static': 1.15.0
+
+  /@types/file-saver/2.0.5:
+    resolution: {integrity: sha512-zv9kNf3keYegP5oThGLaPk8E081DFDuwfqjtiTzm6PoxChdJ1raSuADf2YGCVIyrSynLrgc8JWv296s7Q7pQSQ==}
+    dev: true
 
   /@types/graceful-fs/4.1.5:
     resolution: {integrity: sha512-anKkLmZZ+xm4p8JWBf4hElkM4XR+EZeA2M9BAkkTldmcyDY4mbdIJnRghDJH3Ov5ooY7/UAoENtmdMSkaAd7Cw==}
@@ -3042,6 +3050,10 @@ packages:
     dependencies:
       flat-cache: 3.0.4
     dev: true
+
+  /file-saver/2.0.5:
+    resolution: {integrity: sha512-P9bmyZ3h/PRG+Nzga+rbdI4OEpNDzAVyy74uVO9ATgzLK6VtAsYybF/+TOCvrc0MO793d6+42lLyZTw7/ArVzA==}
+    dev: false
 
   /fill-range/7.0.1:
     resolution: {integrity: sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ==}

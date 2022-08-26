@@ -1,3 +1,5 @@
+import { saveAs } from 'file-saver'
+
 const getContentAsString = async (file: File): Promise<string | null> => {
     return new Promise((resolve, reject) => {
         const reader = new FileReader();
@@ -17,4 +19,12 @@ const getContentAsString = async (file: File): Promise<string | null> => {
     });
 }
 
-export { getContentAsString }
+const createJsonDownload = (jsonObject: Object, filename: string) => {
+    const fileToSave = new Blob([JSON.stringify(jsonObject)], {
+        type: 'application/json'
+    });
+
+    saveAs(fileToSave, filename)
+}
+
+export { createJsonDownload, getContentAsString }
