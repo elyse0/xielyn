@@ -12,6 +12,7 @@
   "dependencies": {
     "@oruga-ui/oruga-next": "^0.5.5",
     "@oruga-ui/theme-bulma": "^0.2.6",
+    "@xielyng/caption-merger": "workspace:^1.0.0",
     "core-js": "^3.6.5",
     "file-saver": "^2.0.5",
     "hanzi-writer": "^3.3.0",

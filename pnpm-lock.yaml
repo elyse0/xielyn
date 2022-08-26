@@ -21,6 +21,7 @@ importers:
       '@types/youtube-player': ^5.5.5
       '@typescript-eslint/parser': ^5.31.0
       '@vitejs/plugin-vue': ^3.0.1
+      '@xielyng/caption-merger': workspace:^1.0.0
       core-js: ^3.6.5
       eslint: ^8.20.0
       eslint-plugin-vue: ^7.20.0
@@ -42,6 +43,7 @@ importers:
     dependencies:
       '@oruga-ui/oruga-next': 0.5.5_vue@3.2.37
       '@oruga-ui/theme-bulma': 0.2.6
+      '@xielyng/caption-merger': link:../packages/caption-merger
       core-js: 3.24.1
       file-saver: 2.0.5
       hanzi-writer: 3.3.0
