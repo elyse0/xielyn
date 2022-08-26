@@ -7,7 +7,7 @@ const Verbs = () => import('@/pages/Verbs.vue');
 const Videos = () => import('@/pages/Videos.vue');
 const Vocabulary = () => import('@/pages/Vocabulary.vue');
 const YoutubeVideoViewer = () => import('@/pages/YoutubeVideoViewer.vue');
-const CaptionsDownloader = () => import('@/pages/CaptionsDownloader.vue');
+const CaptionsMerger = () => import('@/pages/CaptionsMerger.vue');
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -39,9 +39,9 @@ const routes: Array<RouteRecordRaw> = [
     component: YoutubeVideoViewer,
   },
   {
-    path: '/captions/youtube',
-    name: 'CaptionsDownloader',
-    component: CaptionsDownloader,
+    path: '/captions-merger',
+    name: 'CaptionsMerger',
+    component: CaptionsMerger,
   },
 ];
 

@@ -1,7 +1,7 @@
 <template>
   <AppLayout>
-    <div class="caption-downloader">
-      Caption downloader
+    <div class="captions-merger">
+      Caption merger
 
       <div class="hanzi">
         English
