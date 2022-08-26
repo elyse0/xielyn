@@ -166,11 +166,13 @@ importers:
   packages/hanzi-pinyin-captions:
     specifiers:
       '@elyse0/hanzi-tools': ^1.0.9
+      '@xielyng/hanzi-pinyin-utils': workspace:^1.0.0
       '@xielyng/youtube-api': workspace:^1.0.0
       tsc-alias: ^1.7.0
       typescript: ^4.7.4
     dependencies:
       '@elyse0/hanzi-tools': 1.0.9
+      '@xielyng/hanzi-pinyin-utils': link:../hanzi-pinyin-utils
       '@xielyng/youtube-api': link:../youtube-api
     devDependencies:
       tsc-alias: 1.7.0

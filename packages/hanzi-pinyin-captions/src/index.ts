@@ -1,4 +1,4 @@
-import { HanziTools, pinyinify } from '@elyse0/hanzi-tools'
+import { getSegments } from '@xielyng/hanzi-pinyin-utils'
 
 import { Caption, VideoCaptions } from '@xielyng/youtube-api'
 
@@ -10,16 +10,16 @@ const getHanziPinyinCaptions = (videoCaptions: VideoCaptions): VideoCaptions[] =
             continue
         }
 
-        const pinyinDetailed = pinyinify(caption.text, true) as HanziTools.PinyinDetailed;
+        const segments = getSegments(caption.text)
 
         hanziCaptions.push({
-            text: pinyinDetailed.segments,
+            text: segments.hanzi,
             start: caption.start,
             end: caption.end,
         })
 
         pinyinCaptions.push({
-            text: pinyinDetailed.pinyinSegments,
+            text: segments.pinyin,
             start: caption.start,
             end: caption.end,
         })
