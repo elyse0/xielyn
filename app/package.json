@@ -10,8 +10,8 @@
     "css": "npx node-sass --watch src/css-customization/sass -o src/css-customization/css"
   },
   "dependencies": {
-    "@oruga-ui/oruga-next": "^0.4.8",
-    "@oruga-ui/theme-bulma": "^0.1.5",
+    "@oruga-ui/oruga-next": "^0.5.5",
+    "@oruga-ui/theme-bulma": "^0.2.6",
     "core-js": "^3.6.5",
     "hanzi-writer": "^3.3.0",
     "pinyin-utils": "^2.32.0",

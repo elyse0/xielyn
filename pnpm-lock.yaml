@@ -14,8 +14,8 @@ importers:
 
   app:
     specifiers:
-      '@oruga-ui/oruga-next': ^0.4.8
-      '@oruga-ui/theme-bulma': ^0.1.5
+      '@oruga-ui/oruga-next': ^0.5.5
+      '@oruga-ui/theme-bulma': ^0.2.6
       '@types/node': ^17.0.8
       '@types/youtube-player': ^5.5.5
       '@typescript-eslint/parser': ^5.31.0
@@ -38,8 +38,8 @@ importers:
       vue-plyr: ^7.0.0
       vue-router: ^4.0.0-0
     dependencies:
-      '@oruga-ui/oruga-next': 0.4.8_vue@3.2.37
-      '@oruga-ui/theme-bulma': 0.1.5
+      '@oruga-ui/oruga-next': 0.5.5_vue@3.2.37
+      '@oruga-ui/theme-bulma': 0.2.6
       core-js: 3.24.1
       hanzi-writer: 3.3.0
       pinyin-utils: 2.32.0
@@ -1073,18 +1073,18 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@oruga-ui/oruga-next/0.4.8_vue@3.2.37:
-    resolution: {integrity: sha512-gIN26oHacUcJTeNfQEmgnDWSa0EKOAzGfBqLslFnHpTIHvow/NIiO5raI7N6SqNOvw0q+BU5PKw7AYC2ecAQRw==}
+  /@oruga-ui/oruga-next/0.5.5_vue@3.2.37:
+    resolution: {integrity: sha512-LmieX0fo0hbhJQRaKf4rfUlyDUwGVYkjGmSNfbontRKfKrEmmr1w1mxraF2Orxc894gkwi64NQh/SRSm4pIE5g==}
     peerDependencies:
       vue: ^3.0.0
     dependencies:
       vue: 3.2.37
     dev: false
 
-  /@oruga-ui/theme-bulma/0.1.5:
-    resolution: {integrity: sha512-bcOl7zl8fZNqw3m8i+IWrOKQiFe1xt/L5kP+X+asOSV0qj0TSUuKuCQS+AQMpy0iYusMm2Kv0hW7DiQUNKHglw==}
+  /@oruga-ui/theme-bulma/0.2.6:
+    resolution: {integrity: sha512-ywHBHIyE9hGJx5Qxc/ishFXXa+Gwnv9l68LygoxhPFQRsH0FHjZO/bKTwPefuy0+Utdxzh+Hm5YLsw1TKnzqQw==}
     dependencies:
-      bulma: 0.9.3
+      bulma: 0.9.4
     dev: false
 
   /@pnpm/cli-meta/3.0.6:
@@ -2097,8 +2097,8 @@ packages:
     resolution: {integrity: sha512-E+XQCRwSbaaiChtv6k6Dwgc+bx+Bs6vuKJHHl5kox/BaKbhiXzqQOwK4cO22yElGp2OCmjwVhT3HmxgyPGnJfQ==}
     dev: true
 
-  /bulma/0.9.3:
-    resolution: {integrity: sha512-0d7GNW1PY4ud8TWxdNcP6Cc8Bu7MxcntD/RRLGWuiw/s0a9P+XlH/6QoOIrmbj6o8WWJzJYhytiu9nFjTszk1g==}
+  /bulma/0.9.4:
+    resolution: {integrity: sha512-86FlT5+1GrsgKbPLRRY7cGDg8fsJiP/jzTqXXVqiUZZ2aZT8uemEOHlU1CDU+TxklPEZ11HZNNWclRBBecP4CQ==}
     dev: false
 
   /bytes/3.1.2:
