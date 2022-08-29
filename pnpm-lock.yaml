@@ -188,6 +188,21 @@ importers:
       tsc-alias: 1.7.0
       typescript: 4.7.4
 
+  packages/hanzi-pinyin-captions-service:
+    specifiers:
+      '@xielyng/http-service': workspace:^1.0.0
+      '@xielyng/youtube-api': workspace:^1.0.0
+      ts-results-es: ^3.5.0
+      tsc-alias: ^1.7.0
+      typescript: ^4.7.4
+    dependencies:
+      '@xielyng/http-service': link:../http-service
+      '@xielyng/youtube-api': link:../youtube-api
+      ts-results-es: 3.5.0
+    devDependencies:
+      tsc-alias: 1.7.0
+      typescript: 4.7.4
+
   packages/hanzi-pinyin-utils:
     specifiers:
       '@node-rs/jieba': ^1.6.1

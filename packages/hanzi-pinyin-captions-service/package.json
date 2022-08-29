@@ -1,0 +1,19 @@
+{
+  "name": "@xielyng/hanzi-pinyin-captions-service",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && tsc-alias"
+  },
+  "dependencies": {
+    "@xielyng/http-service": "workspace:^1.0.0",
+    "@xielyng/youtube-api": "workspace:^1.0.0",
+    "ts-results-es": "^3.5.0"
+  },
+  "devDependencies": {
+    "tsc-alias": "^1.7.0",
+    "typescript": "^4.7.4"
+  }
+}
