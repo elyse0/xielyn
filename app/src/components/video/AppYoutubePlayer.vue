@@ -1,19 +1,30 @@
 <template>
   <div class="youtube-player">
-
-    <vue-plyr ref="plyr" @ready="onReady" @timeupdate="onVideoTimeUpdate" @seeking="onSeeking">
+    <vue-plyr
+      ref="plyr"
+      @ready="onReady"
+      @timeupdate="onVideoTimeUpdate"
+      @seeking="onSeeking"
+    >
       <div class="plyr__video-embed">
         <iframe
           :src="youtubeUrl"
           allowfullscreen
           allowtransparency
           allow="autoplay"
-        ></iframe>
+        />
       </div>
     </vue-plyr>
-    <div v-if="player" style="display: none">
-      <o-button @click="play">Botoooooooooooon</o-button>
-      <o-button @click="time">Timee</o-button>
+    <div
+      v-if="player"
+      style="display: none"
+    >
+      <o-button @click="play">
+        Botoooooooooooon
+      </o-button>
+      <o-button @click="time">
+        Timee
+      </o-button>
     </div>
   </div>
 </template>
