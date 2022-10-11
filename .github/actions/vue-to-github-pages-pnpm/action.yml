@@ -34,7 +34,7 @@ runs:
         npm install -g pnpm
         pnpm install
         pnpx turbo run build
-        cd app/dist
+        cd apps/client/dist
         ln -s index.html 404.html
         git config --global user.email "${{ inputs.gitemail }}"
         git config --global user.name "${{ inputs.gitname }}"
