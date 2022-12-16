@@ -61,6 +61,8 @@ importers:
       '@xielyng/caption-merger': workspace:^1.0.0
       '@xielyng/caption-service': workspace:^1.0.0
       '@xielyng/hanzi-pinyin-captions-service': workspace:^1.0.0
+      '@xielyng/http-service': workspace:^1.0.0
+      '@xielyng/youtube-api': workspace:^1.0.0
       core-js: ^3.26.1
       eslint: ^8.29.0
       eslint-plugin-vue: ^9.8.0
@@ -86,6 +88,8 @@ importers:
       '@xielyng/caption-merger': link:../../packages/caption-merger
       '@xielyng/caption-service': link:../../packages/caption-service
       '@xielyng/hanzi-pinyin-captions-service': link:../../packages/hanzi-pinyin-captions-service
+      '@xielyng/http-service': link:../../packages/http-service
+      '@xielyng/youtube-api': link:../../packages/youtube-api
       core-js: 3.26.1
       file-saver: 2.0.5
       hanzi-writer: 3.4.0
