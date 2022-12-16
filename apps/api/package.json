@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc && tsc-alias",
-    "dev": "ts-node -r tsconfig-paths/register src/index.ts"
+    "dev": "ts-node -r tsconfig-paths/register src/index.ts",
+    "bundle": "pnpm-bundle-workspace-package ."
   },
   "dependencies": {
     "@xielyng/hanzi-pinyin-captions": "workspace:^1.0.0",
