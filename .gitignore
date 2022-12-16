@@ -2,7 +2,7 @@
 **/**/node_modules
 **/**/dist
 **/**/bundled
-
+**/**/.turbo
 
 **/**/gcp-function*.zip
 
