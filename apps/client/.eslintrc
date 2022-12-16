@@ -22,6 +22,7 @@
     "vue/no-v-model-argument": "off",
     "class-methods-use-this": "off",
     "no-console": "off",
-    "max-len": "off"
+    "max-len": "off",
+    "vue/multi-word-component-names": "off"
   }
 }
