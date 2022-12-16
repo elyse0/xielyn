@@ -5,7 +5,7 @@
 **/**/.turbo
 
 **/**/gcp-function*.zip
-
+packages/**/**/captions*.json
 
 # local env files
 .env.local
