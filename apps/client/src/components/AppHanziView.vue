@@ -10,7 +10,7 @@
 </template>
 
 <script setup lang="ts">
-import { defineProps, onMounted } from 'vue';
+import { onMounted } from 'vue';
 
 import HanziWriter from 'hanzi-writer';
 import { getOnlyLettersUuid } from '@/util/uuid';

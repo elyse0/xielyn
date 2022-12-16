@@ -13,7 +13,6 @@
 </template>
 
 <script setup lang="ts">
-import { defineProps } from 'vue';
 import { TranslationItem } from '@/types/translation';
 
 import { getLanguageDefaultCountry } from '@/util/languages';

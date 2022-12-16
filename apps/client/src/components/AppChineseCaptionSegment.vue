@@ -8,7 +8,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, defineProps } from 'vue';
+import { computed } from 'vue';
 // @ts-ignore
 import { useProgrammatic } from '@oruga-ui/oruga-next';
 

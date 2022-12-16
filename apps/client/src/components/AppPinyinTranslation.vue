@@ -9,7 +9,6 @@
 </template>
 
 <script setup lang="ts">
-import { defineProps } from 'vue';
 import { TranslationItem } from '@/types/translation';
 
 import AppTranslationItem from '@/components/AppTranslationItem.vue';

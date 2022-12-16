@@ -29,8 +29,6 @@
 </template>
 
 <script setup lang="ts">
-import { defineProps } from 'vue';
-
 import { VocabularyItem } from '@/types/vocabulary';
 
 import AppCard from '@/components/ui/AppCard.vue';
