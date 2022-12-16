@@ -13,7 +13,7 @@
     "@xielyng/youtube-api": "workspace:^1.0.0"
   },
   "devDependencies": {
-    "tsc-alias": "^1.7.0",
-    "typescript": "^4.7.4"
+    "tsc-alias": "^1.8.2",
+    "typescript": "^4.9.4"
   }
 }
