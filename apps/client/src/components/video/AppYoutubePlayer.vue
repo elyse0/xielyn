@@ -1,5 +1,8 @@
 <template>
-  <div class="youtube-player">
+  <div
+    v-if="youtubeUrl"
+    class="youtube-player"
+  >
     <vue-plyr
       ref="plyr"
       @ready="onReady"
@@ -44,7 +47,7 @@ export default class AppYoutubePlayer extends Vue {
 
   videoId!: string
 
-  youtubeUrl = `https://www.youtube.com/embed/${this.videoId}?amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1`;
+  youtubeUrl: string | null = null;
 
   player: Plyr | null = null;
 
@@ -80,6 +83,7 @@ export default class AppYoutubePlayer extends Vue {
   }
 
   created(): void {
+    this.youtubeUrl = `https://www.youtube.com/embed/${this.videoId}?amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1`
     this.$watch('currentTime', () => {
       this.$emit('timeUpdate', this.currentTime);
     });
