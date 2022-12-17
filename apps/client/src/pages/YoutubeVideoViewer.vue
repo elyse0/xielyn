@@ -14,7 +14,7 @@
             class="caption-chinese"
           >
             <AppChineseCaption
-              :chinese="currentSubtitle.captions['zh-Hans']"
+              :chinese="currentSubtitle.captions.hanzi"
               :pinyin="currentSubtitle.captions.pinyin"
             />
           </div>

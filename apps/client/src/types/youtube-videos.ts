@@ -4,7 +4,7 @@ export interface Caption {
   captions: {
     en?: string
     pinyin?: string[],
-    'zh-Hans'?: string[],
+    hanzi?: string[],
   }
 }
 
