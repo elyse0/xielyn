@@ -1,0 +1,1819 @@
+[
+  {
+    "start": 49823,
+    "end": 53760,
+    "captions": {
+      "en": "I’d like the roast pork chop with spicy fried rice",
+      "hanzi": ["我", "要", "烤", "猪扒", "麻辣", "炒饭"],
+      "pinyin": ["wǒ", "yào", "kǎo", "zhū​pá", "má​là", "chǎo​fàn"]
+    }
+  },
+  {
+    "start": 54705,
+    "end": 56640,
+    "captions": {
+      "en": "You're hilarious",
+      "hanzi": ["我", "快", "被", "你", "笑", "死"],
+      "pinyin": ["wǒ", "kuài", "bèi", "nǐ", "xiào", "sǐ"]
+    }
+  },
+  {
+    "start": 58168,
+    "end": 59164,
+    "captions": {
+      "en": "Is it pricey?",
+      "hanzi": ["很", "贵", "吗", "？"],
+      "pinyin": ["hěn", "guì", "ma", "?"]
+    }
+  },
+  {
+    "start": 59164,
+    "end": 61824,
+    "captions": {
+      "en": "Well… $13.95",
+      "hanzi": ["嗯", "…", "13", ".", "95", "元"],
+      "pinyin": ["ēn", "…", "13", ".", "95", "yuán"]
+    }
+  },
+  {
+    "start": 62838,
+    "end": 64320,
+    "captions": {
+      "en": "We’re ready to order",
+      "hanzi": ["可以", "点", "餐", "了"],
+      "pinyin": ["kě​yǐ", "diǎn", "cān", "le"]
+    }
+  },
+  {
+    "start": 64482,
+    "end": 67563,
+    "captions": {
+      "en": "I‘d like a shrimp shumai",
+      "hanzi": ["要", "一个", "虾", "烧卖"],
+      "pinyin": ["yào", "yī gè", "xiā", "shāo​mài"]
+    }
+  },
+  {
+    "start": 70895,
+    "end": 77182,
+    "captions": {
+      "en": "And then pitaya berry oolong tea",
+      "hanzi": ["然后", "火龙果", "莓", "乌龙茶"],
+      "pinyin": ["rán​hòu", "huǒ​lóng​guǒ", "méi", "wū​lóng​chá"]
+    }
+  },
+  {
+    "start": 80699,
+    "end": 82112,
+    "captions": {
+      "en": "What would you like?",
+      "hanzi": ["你", "要", "什么", "？"],
+      "pinyin": ["nǐ", "yào", "shén​me", "?"]
+    }
+  },
+  {
+    "start": 82112,
+    "end": 84992,
+    "captions": {
+      "en": "A Vietnamese coffee",
+      "hanzi": ["一个", "越南", "咖啡"],
+      "pinyin": ["yī gè", "Yuè​nán", "kā​fēi"]
+    }
+  },
+  {
+    "start": 86355,
+    "end": 88156,
+    "captions": {
+      "en": "Okay, thanks",
+      "hanzi": ["好", "，", "谢谢"],
+      "pinyin": ["hǎo", ",", "xiè​xie"]
+    }
+  },
+  {
+    "start": 93029,
+    "end": 96128,
+    "captions": {
+      "en": "This is pitaya berry oolong tea",
+      "hanzi": ["这", "是", "火龙果", "莓", "乌龙茶"],
+      "pinyin": ["zhè", "shì", "huǒ​lóng​guǒ", "méi", "wū​lóng​chá"]
+    }
+  },
+  {
+    "start": 96504,
+    "end": 101292,
+    "captions": {
+      "en": "Their portions are a bit more than I expected",
+      "hanzi": [
+        "他们",
+        "餐点",
+        "的",
+        "份量",
+        "比",
+        "我",
+        "想",
+        "的",
+        "还",
+        "大",
+        "一些"
+      ],
+      "pinyin": [
+        "tā​men",
+        "cān​diǎn",
+        "de",
+        "fèn​liang",
+        "bǐ",
+        "wǒ",
+        "xiǎng",
+        "de",
+        "hái",
+        "dà",
+        "yī​xiē"
+      ]
+    }
+  },
+  {
+    "start": 126504,
+    "end": 128384,
+    "captions": {
+      "en": "Finished!",
+      "hanzi": ["吃", "完", "了", "！"],
+      "pinyin": ["chī", "wán", "le", "!"]
+    }
+  },
+  {
+    "start": 128680,
+    "end": 130624,
+    "captions": {
+      "en": "So full now",
+      "hanzi": ["吃", "得", "好", "饱"],
+      "pinyin": ["chī", "de", "hǎo", "bǎo"]
+    }
+  },
+  {
+    "start": 142347,
+    "end": 145642,
+    "captions": {
+      "en": "Do I tip with cash?",
+      "hanzi": [
+        "付",
+        "小费",
+        "的话",
+        "是",
+        "直接",
+        "（",
+        "付",
+        "）",
+        "现金",
+        "吗",
+        "？"
+      ],
+      "pinyin": [
+        "fù",
+        "xiǎo​fèi",
+        "de​huà",
+        "shì",
+        "zhí​jiē",
+        "(",
+        "fù",
+        ")",
+        "xiàn​jīn",
+        "ma",
+        "?"
+      ]
+    }
+  },
+  {
+    "start": 145642,
+    "end": 147242,
+    "captions": {
+      "en": "Or…… ?",
+      "hanzi": ["还是", "可以", "…", "…", "?"],
+      "pinyin": ["hái​shi", "kě​yǐ", "…", "…", "?"]
+    }
+  },
+  {
+    "start": 147242,
+    "end": 149760,
+    "captions": { "en": "Cash will do, or credit card" }
+  },
+  {
+    "start": 147242,
+    "end": 149994,
+    "captions": {
+      "hanzi": ["现金", "也", "可以", "，", "你", "用", "刷卡", "也", "可以"],
+      "pinyin": [
+        "xiàn​jīn",
+        "yě",
+        "kě​yǐ",
+        ",",
+        "nǐ",
+        "yòng",
+        "shuā​kǎ",
+        "yě",
+        "kě​yǐ"
+      ]
+    }
+  },
+  { "start": 149760, "end": 151139, "captions": { "en": "Got it" } },
+  {
+    "start": 149994,
+    "end": 151139,
+    "captions": { "hanzi": ["好"], "pinyin": ["hǎo"] }
+  },
+  {
+    "start": 163264,
+    "end": 165123,
+    "captions": {
+      "en": "42. ?",
+      "hanzi": ["42", ".", "多少"],
+      "pinyin": ["42", ".", "duō​shǎo"]
+    }
+  },
+  {
+    "start": 165529,
+    "end": 167238,
+    "captions": { "en": "6?", "hanzi": ["6", "吗"], "pinyin": ["6", "ma"] }
+  },
+  {
+    "start": 171656,
+    "end": 173207,
+    "captions": {
+      "en": "Did you pay it with the card?",
+      "hanzi": ["已经", "刷", "了", "吗", "？"],
+      "pinyin": ["yǐ​jīng", "shuā", "le", "ma", "?"]
+    }
+  },
+  {
+    "start": 173207,
+    "end": 174500,
+    "captions": {
+      "en": "I'm not sure",
+      "hanzi": ["不", "知道"],
+      "pinyin": ["bù", "zhī​dào"]
+    }
+  },
+  {
+    "start": 177955,
+    "end": 181128,
+    "captions": {
+      "en": "We need to sign it, right?",
+      "hanzi": ["我们", "要", "签名", "，", "对", "不", "对", "？"],
+      "pinyin": ["wǒ​men", "yào", "qiān​míng", ",", "duì", "bù", "duì", "?"]
+    }
+  },
+  {
+    "start": 196025,
+    "end": 198025,
+    "captions": {
+      "en": "Let’s go!",
+      "hanzi": ["走", "吧", "！"],
+      "pinyin": ["zǒu", "ba", "!"]
+    }
+  },
+  {
+    "start": 205227,
+    "end": 208397,
+    "captions": {
+      "en": "There’s a Starbucks, and it has its name in Chinese (on the sign)",
+      "hanzi": ["前面", "有", "Starbucks", "，", "而且", "它", "写", "星巴克"],
+      "pinyin": [
+        "qián​miàn",
+        "yǒu",
+        "Starbucks",
+        ",",
+        "ér​qiě",
+        "tā",
+        "xiě",
+        "Xīng​bā​kè"
+      ]
+    }
+  },
+  {
+    "start": 208397,
+    "end": 210752,
+    "captions": {
+      "en": "The stores here also have Chinese names",
+      "hanzi": ["这里", "（", "的", "店", "）", "都", "会", "加", "中文"],
+      "pinyin": [
+        "zhè​lǐ",
+        "(",
+        "de",
+        "diàn",
+        ")",
+        "dōu",
+        "huì",
+        "jiā",
+        "Zhōng​wén"
+      ]
+    }
+  },
+  {
+    "start": 215977,
+    "end": 219177,
+    "captions": {
+      "en": "I think the weather in Chicago is really nice",
+      "hanzi": ["我", "觉得", "芝加哥", "天气", "真的", "非常", "好"],
+      "pinyin": [
+        "wǒ",
+        "jué​de",
+        "Zhī​jiā​gē",
+        "tiān​qì",
+        "zhēn de",
+        "fēi​cháng",
+        "hǎo"
+      ]
+    }
+  },
+  {
+    "start": 219177,
+    "end": 221920,
+    "captions": { "en": "Make the most of it and film a bit more now" }
+  },
+  {
+    "start": 219411,
+    "end": 221824,
+    "captions": {
+      "hanzi": ["你", "快", "趁现在", "多", "拍", "一点"],
+      "pinyin": ["nǐ", "kuài", "chèn xiàn zài", "duō", "pāi", "yī​diǎn"]
+    }
+  },
+  {
+    "start": 221920,
+    "end": 224649,
+    "captions": { "en": "Where are we going next?" }
+  },
+  {
+    "start": 222144,
+    "end": 225036,
+    "captions": {
+      "hanzi": ["我们", "接下来", "要", "往", "哪", "走", "啊", "？"],
+      "pinyin": ["wǒ​men", "jiē​xià​lái", "yào", "wǎng", "nǎ", "zǒu", "a", "?"]
+    }
+  },
+  {
+    "start": 224649,
+    "end": 226325,
+    "captions": { "en": "Are we just hanging around?" }
+  },
+  {
+    "start": 225036,
+    "end": 226582,
+    "captions": {
+      "hanzi": ["我们", "在", "鬼混", "吗", "？"],
+      "pinyin": ["wǒ​men", "zài", "guǐ​hùn", "ma", "?"]
+    }
+  },
+  {
+    "start": 226325,
+    "end": 227470,
+    "captions": { "en": "Yup, we're just hanging around" }
+  },
+  {
+    "start": 226582,
+    "end": 227540,
+    "captions": {
+      "hanzi": ["对", "，", "我们", "现在", "在", "鬼混"],
+      "pinyin": ["duì", ",", "wǒ​men", "xiàn​zài", "zài", "guǐ​hùn"]
+    }
+  },
+  {
+    "start": 227470,
+    "end": 228906,
+    "captions": { "en": "Then we can just go wherever we want" }
+  },
+  {
+    "start": 227540,
+    "end": 229093,
+    "captions": {
+      "hanzi": ["那", "就", "乱", "走", "啊"],
+      "pinyin": ["nà", "jiù", "luàn", "zǒu", "a"]
+    }
+  },
+  {
+    "start": 228906,
+    "end": 230687,
+    "captions": {
+      "en": "But there aren't too many places for us to wander around here"
+    }
+  },
+  {
+    "start": 229093,
+    "end": 230687,
+    "captions": {
+      "hanzi": ["可是", "这里", "也", "没有", "什么", "好", "鬼混", "的"],
+      "pinyin": [
+        "kě​shì",
+        "zhè​lǐ",
+        "yě",
+        "méi​yǒu",
+        "shén​me",
+        "hǎo",
+        "guǐ​hùn",
+        "de"
+      ]
+    }
+  },
+  {
+    "start": 230687,
+    "end": 231419,
+    "captions": {
+      "en": "It seems like it",
+      "hanzi": ["好像", "是", "喔"],
+      "pinyin": ["hǎo​xiàng", "shì", "ō"]
+    }
+  },
+  {
+    "start": 231419,
+    "end": 232620,
+    "captions": { "en": "Hey how about over there" }
+  },
+  {
+    "start": 231419,
+    "end": 232480,
+    "captions": { "hanzi": ["欸", "那边"], "pinyin": ["ǎi", "nà​bian"] }
+  },
+  {
+    "start": 232480,
+    "end": 234752,
+    "captions": {
+      "hanzi": ["好", "，", "那", "我们", "去", "那里", "坐", "一下"],
+      "pinyin": ["hǎo", ",", "nà", "wǒ​men", "qù", "nà​li", "zuò", "yī​xià"]
+    }
+  },
+  {
+    "start": 232620,
+    "end": 234752,
+    "captions": { "en": "Okay let‘s go and sit there" }
+  },
+  {
+    "start": 236269,
+    "end": 237728,
+    "captions": { "en": "Aren‘t we going to buy…" }
+  },
+  {
+    "start": 236269,
+    "end": 237845,
+    "captions": {
+      "hanzi": ["欸", "我们", "是不是", "要", "买", "那个", "…"],
+      "pinyin": ["ǎi", "wǒ​men", "shì​bù​shì", "yào", "mǎi", "nà​ge", "…"]
+    }
+  },
+  {
+    "start": 237728,
+    "end": 239276,
+    "captions": { "en": "I‘m going to get some coffee" }
+  },
+  {
+    "start": 237845,
+    "end": 239580,
+    "captions": {
+      "hanzi": ["我", "要", "买", "咖啡"],
+      "pinyin": ["wǒ", "yào", "mǎi", "kā​fēi"]
+    }
+  },
+  {
+    "start": 239276,
+    "end": 240556,
+    "captions": { "en": "Oh right! You still want to buy some" }
+  },
+  {
+    "start": 239580,
+    "end": 240556,
+    "captions": {
+      "hanzi": ["哦", "对", "！", "你", "还要", "买"],
+      "pinyin": ["ó", "duì", "!", "nǐ", "hái yào", "mǎi"]
+    }
+  },
+  {
+    "start": 240556,
+    "end": 241740,
+    "captions": {
+      "en": "Okay let‘s go there first",
+      "hanzi": ["好", "，", "那", "我们", "先", "走"],
+      "pinyin": ["hǎo", ",", "nà", "wǒ​men", "xiān", "zǒu"]
+    }
+  },
+  {
+    "start": 241740,
+    "end": 243881,
+    "captions": {
+      "en": "Yup, so we‘re heading to…",
+      "hanzi": ["对", "，", "所以", "接下来", "就是", "要", "往", "…"],
+      "pinyin": [
+        "duì",
+        ",",
+        "suǒ​yǐ",
+        "jiē​xià​lái",
+        "jiù​shì",
+        "yào",
+        "wǎng",
+        "…"
+      ]
+    }
+  },
+  {
+    "start": 243881,
+    "end": 247170,
+    "captions": {
+      "en": "Why can‘t I zoom in",
+      "hanzi": ["这", "怎么", "没", "办法", "放大"],
+      "pinyin": ["zhè", "zěn​me", "méi", "bàn​fǎ", "fàng​dà"]
+    }
+  },
+  {
+    "start": 247170,
+    "end": 250304,
+    "captions": {
+      "en": "Zoom in!! I give up…",
+      "hanzi": ["放大", "！", " ", "！", "放弃", "…", "…"],
+      "pinyin": ["fàng​dà", "!", " ", "!", "fàng​qì", "…", "…"]
+    }
+  },
+  {
+    "start": 251429,
+    "end": 253824,
+    "captions": {
+      "en": "Let’s go to Starbucks",
+      "hanzi": ["我们", "去", "星巴克", "吧"],
+      "pinyin": ["wǒ​men", "qù", "Xīng​bā​kè", "ba"]
+    }
+  },
+  {
+    "start": 268885,
+    "end": 270869,
+    "captions": { "en": "Thank you", "hanzi": ["谢谢"], "pinyin": ["xiè​xie"] }
+  },
+  {
+    "start": 273740,
+    "end": 275599,
+    "captions": {
+      "en": "Can I get a latte?",
+      "hanzi": ["我", "要", "一杯", "拿", "铁"],
+      "pinyin": ["wǒ", "yào", "yī bēi", "ná", "tiě"]
+    }
+  },
+  {
+    "start": 275599,
+    "end": 276763,
+    "captions": {
+      "en": "What size?",
+      "hanzi": ["什么", "大小"],
+      "pinyin": ["shén​me", "dà​xiǎo"]
+    }
+  },
+  {
+    "start": 277161,
+    "end": 279105,
+    "captions": {
+      "en": "The medium one",
+      "hanzi": ["中", "杯"],
+      "pinyin": ["zhōng", "bēi"]
+    }
+  },
+  {
+    "start": 281913,
+    "end": 282877,
+    "captions": {
+      "en": "That's all?",
+      "hanzi": ["就", "这样", "吗", "？"],
+      "pinyin": ["jiù", "zhè​yàng", "ma", "?"]
+    }
+  },
+  {
+    "start": 282877,
+    "end": 283849,
+    "captions": {
+      "en": "Yup, that's all",
+      "hanzi": ["对", "，", "就", "这样"],
+      "pinyin": ["duì", ",", "jiù", "zhè​yàng"]
+    }
+  },
+  {
+    "start": 299489,
+    "end": 303137,
+    "captions": {
+      "en": "The buildings in Chicago are so tall",
+      "hanzi": ["芝加哥", "这边", "的", "建筑物", "都", "好", "高"],
+      "pinyin": [
+        "Zhī​jiā​gē",
+        "zhè​biān",
+        "de",
+        "jiàn​zhù​wù",
+        "dōu",
+        "hǎo",
+        "gāo"
+      ]
+    }
+  },
+  {
+    "start": 306465,
+    "end": 309481,
+    "captions": {
+      "en": "Now we're going for a walk by the lake",
+      "hanzi": ["现在", "要", "去", "湖边", "散步"],
+      "pinyin": ["xiàn​zài", "yào", "qù", "hú​biān", "sàn​bù"]
+    }
+  },
+  {
+    "start": 313697,
+    "end": 315216,
+    "captions": {
+      "en": "Hi Grace",
+      "hanzi": ["嗨", " ", "Grace"],
+      "pinyin": ["hāi", " ", "Grace"]
+    }
+  },
+  {
+    "start": 315216,
+    "end": 316919,
+    "captions": {
+      "en": "They're super cute!",
+      "hanzi": ["超", "可爱", "的", "！"],
+      "pinyin": ["chāo", "kě​'ài", "de", "!"]
+    }
+  },
+  {
+    "start": 316919,
+    "end": 319219,
+    "captions": { "en": "This is my first time seeing seagulls" }
+  },
+  {
+    "start": 316919,
+    "end": 318892,
+    "captions": {
+      "hanzi": ["我", "第一次", "看", "海鸥", "欸"],
+      "pinyin": ["wǒ", "dì​yī​cì", "kàn", "hǎi​'ōu", "ǎi"]
+    }
+  },
+  {
+    "start": 319403,
+    "end": 320527,
+    "captions": { "en": "Seagulls", "hanzi": ["海鸥"], "pinyin": ["hǎi​'ōu"] }
+  },
+  {
+    "start": 320527,
+    "end": 323889,
+    "captions": {
+      "en": "Yup, first time looking at them this close",
+      "hanzi": ["对", "，", "近距离", "看", "他们"],
+      "pinyin": ["duì", ",", "jìn​jù​lí", "kàn", "tā​men"]
+    }
+  },
+  {
+    "start": 366651,
+    "end": 369165,
+    "captions": {
+      "en": "This fountain is so beautiful",
+      "hanzi": ["这个", "喷泉", "好", "美", "啊"],
+      "pinyin": ["zhè​ge", "pēn​quán", "hǎo", "měi", "a"]
+    }
+  },
+  {
+    "start": 372614,
+    "end": 375616,
+    "captions": { "en": "Came to see the famous bean" }
+  },
+  {
+    "start": 372731,
+    "end": 375616,
+    "captions": {
+      "hanzi": ["来看", "有名", "的", "豆子"],
+      "pinyin": ["lái​kàn", "yǒu​míng", "de", "dòu​zi"]
+    }
+  },
+  {
+    "start": 384584,
+    "end": 387712,
+    "captions": {
+      "en": "Where are we?",
+      "hanzi": ["在", "哪里", "?"],
+      "pinyin": ["zài", "nǎ​lǐ", "?"]
+    }
+  },
+  {
+    "start": 415037,
+    "end": 417920,
+    "captions": {
+      "en": "Yuting(my senior) and I are waiting to open (bank) accounts",
+      "hanzi": ["我", "跟我学", "姐", "现在", "在", "等", "开户"],
+      "pinyin": ["wǒ", "gēn wǒ xué", "jiě", "xiàn​zài", "zài", "děng", "kāi​hù"]
+    }
+  },
+  {
+    "start": 417920,
+    "end": 420299,
+    "captions": {
+      "en": "I slept too late yesterday",
+      "hanzi": ["我们", "昨天", "因为", "我", "睡", "太久"],
+      "pinyin": ["wǒ​men", "zuó​tiān", "yīn​wèi", "wǒ", "shuì", "tài jiǔ"]
+    }
+  },
+  {
+    "start": 420299,
+    "end": 423540,
+    "captions": {
+      "en": "The bank was about to close when we got here",
+      "hanzi": [
+        "所以",
+        "我们",
+        "来",
+        "的",
+        "时候",
+        "银行",
+        "就",
+        "快",
+        "关门",
+        "了"
+      ],
+      "pinyin": [
+        "suǒ​yǐ",
+        "wǒ​men",
+        "lái",
+        "de",
+        "shí​hou",
+        "yín​háng",
+        "jiù",
+        "kuài",
+        "guān​mén",
+        "le"
+      ]
+    }
+  },
+  {
+    "start": 423540,
+    "end": 425203,
+    "captions": {
+      "en": "So we couldn't open (bank) accounts",
+      "hanzi": ["没有", "办法", "开户"],
+      "pinyin": ["méi​yǒu", "bàn​fǎ", "kāi​hù"]
+    }
+  },
+  {
+    "start": 425203,
+    "end": 427700,
+    "captions": {
+      "en": "So we made the earliest appointment today",
+      "hanzi": ["所以", "今天", "我们", "就", "预约", "最早", "的", "时间"],
+      "pinyin": [
+        "suǒ​yǐ",
+        "jīn​tiān",
+        "wǒ​men",
+        "jiù",
+        "yù​yuē",
+        "zuì zǎo",
+        "de",
+        "shí​jiān"
+      ]
+    }
+  },
+  {
+    "start": 427700,
+    "end": 428665,
+    "captions": {
+      "en": "At 9 AM",
+      "hanzi": ["九点", "来", "开户"],
+      "pinyin": ["jiǔ diǎn", "lái", "kāi​hù"]
+    }
+  },
+  {
+    "start": 428665,
+    "end": 431409,
+    "captions": {
+      "en": "But Chase is still closed now",
+      "hanzi": ["现在", "Chase", "还是", "关", "的"],
+      "pinyin": ["xiàn​zài", "Chase", "hái​shi", "guān", "de"]
+    }
+  },
+  {
+    "start": 431409,
+    "end": 432914,
+    "captions": {
+      "en": "Another eight minutes before it opens",
+      "hanzi": ["还有", "八分钟"],
+      "pinyin": ["hái​yǒu", "bā fēn zhōng"]
+    }
+  },
+  {
+    "start": 432914,
+    "end": 434232,
+    "captions": {
+      "en": "We’re really early today",
+      "hanzi": ["我们", "今天", "真的", "太", "早", "了"],
+      "pinyin": ["wǒ​men", "jīn​tiān", "zhēn de", "tài", "zǎo", "le"]
+    }
+  },
+  {
+    "start": 434232,
+    "end": 437271,
+    "captions": {
+      "en": "Yeah I’m really good that I got up just after 6:00 today"
+    }
+  },
+  {
+    "start": 434232,
+    "end": 435000,
+    "captions": {
+      "hanzi": ["欸", "，", "我", "真的", "很棒"],
+      "pinyin": ["ǎi", ",", "wǒ", "zhēn de", "hěn bàng"]
+    }
+  },
+  {
+    "start": 435000,
+    "end": 437669,
+    "captions": {
+      "hanzi": ["我", "今天", "六点", "多", "就", "起来", "了"],
+      "pinyin": ["wǒ", "jīn​tiān", "liù diǎn", "duō", "jiù", "qǐ​lai", "le"]
+    }
+  },
+  { "start": 437271, "end": 438554, "captions": { "en": "She barely slept" } },
+  {
+    "start": 437669,
+    "end": 438788,
+    "captions": {
+      "hanzi": ["她", "根本", "没", "睡觉"],
+      "pinyin": ["tā", "gēn​běn", "méi", "shuì​jiào"]
+    }
+  },
+  {
+    "start": 438554,
+    "end": 440435,
+    "captions": { "en": "So we won't be late" }
+  },
+  {
+    "start": 438788,
+    "end": 440763,
+    "captions": {
+      "hanzi": ["绝对", "不会", "迟到"],
+      "pinyin": ["jué​duì", "bù​huì", "chí​dào"]
+    }
+  },
+  {
+    "start": 440435,
+    "end": 443930,
+    "captions": { "en": "All right, we'll just wait here for a bit. Bye!" }
+  },
+  {
+    "start": 440763,
+    "end": 443930,
+    "captions": {
+      "hanzi": [
+        "好",
+        "啦",
+        "，",
+        "那",
+        "我们",
+        "就",
+        "等",
+        "一下",
+        "开户",
+        "，",
+        "掰掰",
+        "！"
+      ],
+      "pinyin": [
+        "hǎo",
+        "la",
+        ",",
+        "nà",
+        "wǒ​men",
+        "jiù",
+        "děng",
+        "yī​xià",
+        "kāi​hù",
+        ",",
+        "bāi​bāi",
+        "!"
+      ]
+    }
+  },
+  {
+    "start": 456240,
+    "end": 458357,
+    "captions": {
+      "en": "We're done!",
+      "hanzi": ["我们", "办完", "啦", "！"],
+      "pinyin": ["wǒ​men", "bàn wán", "la", "!"]
+    }
+  },
+  {
+    "start": 458357,
+    "end": 461504,
+    "captions": {
+      "en": "How long did it take?",
+      "hanzi": ["我们", "办", "了", "多久", "啊", "？"],
+      "pinyin": ["wǒ​men", "bàn", "le", "duō​jiǔ", "a", "?"]
+    }
+  },
+  {
+    "start": 461504,
+    "end": 463808,
+    "captions": {
+      "en": "Three hours",
+      "hanzi": ["三个", "小时"],
+      "pinyin": ["sān gè", "xiǎo​shí"]
+    }
+  },
+  {
+    "start": 463808,
+    "end": 465639,
+    "captions": { "en": "But there were six people" }
+  },
+  {
+    "start": 463808,
+    "end": 465756,
+    "captions": {
+      "hanzi": ["但", "有", "六个", "人"],
+      "pinyin": ["dàn", "yǒu", "liù gè", "rén"]
+    }
+  },
+  {
+    "start": 465639,
+    "end": 467746,
+    "captions": { "en": "Yeah, he helped six people in three hours" }
+  },
+  {
+    "start": 465756,
+    "end": 468050,
+    "captions": {
+      "hanzi": ["对", "，", "他", "三个", "小时", "办", "了", "六个", "人"],
+      "pinyin": [
+        "duì",
+        ",",
+        "tā",
+        "sān gè",
+        "xiǎo​shí",
+        "bàn",
+        "le",
+        "liù gè",
+        "rén"
+      ]
+    }
+  },
+  { "start": 467746, "end": 468919, "captions": { "en": "Very efficient" } },
+  {
+    "start": 468050,
+    "end": 468919,
+    "captions": { "hanzi": ["很快"], "pinyin": ["hěn kuài"] }
+  },
+  {
+    "start": 468919,
+    "end": 471725,
+    "captions": {
+      "en": "Eric 666",
+      "hanzi": ["Eric", " ", "666"],
+      "pinyin": ["Eric", " ", "666"]
+    }
+  },
+  {
+    "start": 471725,
+    "end": 474143,
+    "captions": { "en": "But we all spoke Chinese" }
+  },
+  {
+    "start": 471725,
+    "end": 474260,
+    "captions": {
+      "hanzi": ["可是", "我们", "全部都是", "讲", "中文", "欸"],
+      "pinyin": [
+        "kě​shì",
+        "wǒ​men",
+        "quán bù dōu shì",
+        "jiǎng",
+        "Zhōng​wén",
+        "ǎi"
+      ]
+    }
+  },
+  { "start": 474143, "end": 474797, "captions": { "en": "Yup" } },
+  {
+    "start": 474260,
+    "end": 474914,
+    "captions": { "hanzi": ["对", "啊"], "pinyin": ["duì", "a"] }
+  },
+  {
+    "start": 474797,
+    "end": 478525,
+    "captions": {
+      "en": "Actually, I think it's really important to understand how to do banking stuff"
+    }
+  },
+  {
+    "start": 474914,
+    "end": 478525,
+    "captions": {
+      "hanzi": [
+        "其实",
+        "我",
+        "觉得",
+        "办",
+        "银行户头",
+        "还是",
+        "很多",
+        "东西",
+        "要",
+        "搞懂"
+      ],
+      "pinyin": [
+        "qí​shí",
+        "wǒ",
+        "jué​de",
+        "bàn",
+        "yín xíng hù tóu",
+        "hái​shi",
+        "hěn duō",
+        "dōng​xi",
+        "yào",
+        "gǎo dǒng"
+      ]
+    }
+  },
+  {
+    "start": 478525,
+    "end": 480587,
+    "captions": { "en": "So we decided to come to Chinatown" }
+  },
+  {
+    "start": 478525,
+    "end": 483040,
+    "captions": {
+      "hanzi": [
+        "所以",
+        "我们",
+        "就",
+        "决定",
+        "要",
+        "来",
+        "Chinatown",
+        "找",
+        "会",
+        "讲",
+        "中文",
+        "的",
+        "专员"
+      ],
+      "pinyin": [
+        "suǒ​yǐ",
+        "wǒ​men",
+        "jiù",
+        "jué​dìng",
+        "yào",
+        "lái",
+        "Chinatown",
+        "zhǎo",
+        "huì",
+        "jiǎng",
+        "Zhōng​wén",
+        "de",
+        "zhuān​yuán"
+      ]
+    }
+  },
+  {
+    "start": 480587,
+    "end": 482923,
+    "captions": { "en": "and find a bank teller who can speak Chinese" }
+  },
+  {
+    "start": 482923,
+    "end": 485639,
+    "captions": {
+      "en": "A friend of mine said that he spent an hour to open his account"
+    }
+  },
+  {
+    "start": 483040,
+    "end": 485639,
+    "captions": {
+      "hanzi": [
+        "之前",
+        "有",
+        "一个",
+        "朋友",
+        "说",
+        "他",
+        "是",
+        "开",
+        "一个",
+        "小时"
+      ],
+      "pinyin": [
+        "zhī​qián",
+        "yǒu",
+        "yī gè",
+        "péng​you",
+        "shuō",
+        "tā",
+        "shì",
+        "kāi",
+        "yī gè",
+        "xiǎo​shí"
+      ]
+    }
+  },
+  {
+    "start": 485639,
+    "end": 486916,
+    "captions": {
+      "en": "An hour to open one account",
+      "hanzi": ["一个", "人", "就", "开", "一个", "小时"],
+      "pinyin": ["yī gè", "rén", "jiù", "kāi", "yī gè", "xiǎo​shí"]
+    }
+  },
+  {
+    "start": 486916,
+    "end": 489209,
+    "captions": {
+      "en": "I don’t know how long people usually take to do this",
+      "hanzi": ["不", "知道", "大家", "都", "开", "多久", "，", "开户", "的话"],
+      "pinyin": [
+        "bù",
+        "zhī​dào",
+        "dà​jiā",
+        "dōu",
+        "kāi",
+        "duō​jiǔ",
+        ",",
+        "kāi​hù",
+        "de​huà"
+      ]
+    }
+  },
+  {
+    "start": 489209,
+    "end": 490843,
+    "captions": {
+      "en": "It's the same in Taiwan",
+      "hanzi": ["在", "台湾", "也", "差不多"],
+      "pinyin": ["zài", "Tái​wān", "yě", "chà​bu​duō"]
+    }
+  },
+  {
+    "start": 490843,
+    "end": 492509,
+    "captions": {
+      "en": "It takes about an hour",
+      "hanzi": ["也", "要", "差不多", "一个", "小时"],
+      "pinyin": ["yě", "yào", "chà​bu​duō", "yī gè", "xiǎo​shí"]
+    }
+  },
+  {
+    "start": 492509,
+    "end": 493596,
+    "captions": {
+      "en": "Yup an hour or so",
+      "hanzi": ["差不多", "一个", "小时"],
+      "pinyin": ["chà​bu​duō", "yī gè", "xiǎo​shí"]
+    }
+  },
+  {
+    "start": 493596,
+    "end": 496451,
+    "captions": {
+      "en": "I spent about two to three hours opening an account before",
+      "hanzi": [
+        "我",
+        "之前",
+        "开",
+        "过",
+        "两",
+        "、",
+        "三个",
+        "小时",
+        "的",
+        "欸"
+      ],
+      "pinyin": [
+        "wǒ",
+        "zhī​qián",
+        "kāi",
+        "guò",
+        "liǎng",
+        "、",
+        "sān gè",
+        "xiǎo​shí",
+        "de",
+        "ǎi"
+      ]
+    }
+  },
+  {
+    "start": 496451,
+    "end": 498609,
+    "captions": {
+      "en": "Why did it take so long?",
+      "hanzi": ["她", "…", "你", "怎么", "了"],
+      "pinyin": ["tā", "…", "nǐ", "zěn​me", "le"]
+    }
+  },
+  {
+    "start": 498609,
+    "end": 500539,
+    "captions": {
+      "en": "It’s because she was a new employee",
+      "hanzi": ["是因为", "她", "是", "新", "的", "员工"],
+      "pinyin": ["shì yīn wèi", "tā", "shì", "xīn", "de", "yuán​gōng"]
+    }
+  },
+  {
+    "start": 500539,
+    "end": 502016,
+    "captions": {
+      "en": "She was learning by doing",
+      "hanzi": ["她", "在", "边", "做", "边", "学"],
+      "pinyin": ["tā", "zài", "biān", "zuò", "biān", "xué"]
+    }
+  },
+  {
+    "start": 502016,
+    "end": 502943,
+    "captions": {
+      "en": "That's right",
+      "hanzi": ["没错"],
+      "pinyin": ["méi​cuò"]
+    }
+  },
+  {
+    "start": 502943,
+    "end": 504802,
+    "captions": { "en": "So when she was helping me open an account" }
+  },
+  {
+    "start": 502943,
+    "end": 504498,
+    "captions": {
+      "hanzi": ["所以", "她", "就是", "常常", "做到", "一半"],
+      "pinyin": ["suǒ​yǐ", "tā", "jiù​shì", "cháng​cháng", "zuò​dào", "yī​bàn"]
+    }
+  },
+  {
+    "start": 504498,
+    "end": 507054,
+    "captions": {
+      "hanzi": [
+        "他",
+        "就",
+        "会",
+        "问",
+        "其他人",
+        "说",
+        "，",
+        "欸",
+        "，",
+        "这个",
+        "部分",
+        "要",
+        "怎么",
+        "做"
+      ],
+      "pinyin": [
+        "tā",
+        "jiù",
+        "huì",
+        "wèn",
+        "qí tā rén",
+        "shuō",
+        ",",
+        "ǎi",
+        ",",
+        "zhè​ge",
+        "bù​fen",
+        "yào",
+        "zěn​me",
+        "zuò"
+      ]
+    }
+  },
+  {
+    "start": 504802,
+    "end": 506914,
+    "captions": { "en": "She often asked others for help" }
+  },
+  {
+    "start": 506914,
+    "end": 507924,
+    "captions": { "en": "So it took quite a long time" }
+  },
+  {
+    "start": 507054,
+    "end": 507924,
+    "captions": {
+      "hanzi": ["就", "特别", "久"],
+      "pinyin": ["jiù", "tè​bié", "jiǔ"]
+    }
+  },
+  {
+    "start": 507924,
+    "end": 509596,
+    "captions": {
+      "en": "Now we are waiting for the bus",
+      "hanzi": ["我们", "现在", "在", "等", "公车"],
+      "pinyin": ["wǒ​men", "xiàn​zài", "zài", "děng", "gōng​chē"]
+    }
+  },
+  {
+    "start": 509596,
+    "end": 513640,
+    "captions": {
+      "en": "Are we going back to… have a rest?",
+      "hanzi": ["等", "一下", "要", "回去", "…", "休息", "吗", "？"],
+      "pinyin": ["děng", "yī​xià", "yào", "huí​qu", "…", "xiū​xi", "ma", "?"]
+    }
+  },
+  {
+    "start": 513640,
+    "end": 515000,
+    "captions": {
+      "en": "We’re going to have some cake later",
+      "hanzi": ["我们", "等", "一下", "要", "去", "吃", "蛋糕"],
+      "pinyin": ["wǒ​men", "děng", "yī​xià", "yào", "qù", "chī", "dàn​gāo"]
+    }
+  },
+  {
+    "start": 515000,
+    "end": 516106,
+    "captions": { "en": "Yup, in a bit we're going to have some cake" }
+  },
+  {
+    "start": 515000,
+    "end": 516012,
+    "captions": {
+      "hanzi": ["等", "一下", "要", "吃", "蛋糕", "，", "对"],
+      "pinyin": ["děng", "yī​xià", "yào", "chī", "dàn​gāo", ",", "duì"]
+    }
+  },
+  {
+    "start": 516012,
+    "end": 517729,
+    "captions": {
+      "hanzi": ["等", "一下", "要", "吃", "cheese", "蛋糕"],
+      "pinyin": ["děng", "yī​xià", "yào", "chī", "cheese", "dàn​gāo"]
+    }
+  },
+  {
+    "start": 516106,
+    "end": 517729,
+    "captions": { "en": "We're going to have some cheesecake" }
+  },
+  {
+    "start": 517729,
+    "end": 519637,
+    "captions": {
+      "en": "Let‘s go for coffee and cake first",
+      "hanzi": ["先", "喝咖啡", "、", "吃", "蛋糕"],
+      "pinyin": ["xiān", "hē kā fēi", "、", "chī", "dàn​gāo"]
+    }
+  },
+  {
+    "start": 519637,
+    "end": 520670,
+    "captions": {
+      "en": "So we're going to Starbucks",
+      "hanzi": ["等", "一下", "要", "去", "星巴克"],
+      "pinyin": ["děng", "yī​xià", "yào", "qù", "Xīng​bā​kè"]
+    }
+  },
+  {
+    "start": 520670,
+    "end": 522217,
+    "captions": {
+      "en": "Go to Starbucks and get coffee first",
+      "hanzi": ["先", "去", "星巴克", "买", "咖啡"],
+      "pinyin": ["xiān", "qù", "Xīng​bā​kè", "mǎi", "kā​fēi"]
+    }
+  },
+  {
+    "start": 522217,
+    "end": 523766,
+    "captions": {
+      "en": "We buy Starbucks here every day",
+      "hanzi": ["我们", "每天", "在", "这里", "都", "买", "星巴克"],
+      "pinyin": [
+        "wǒ​men",
+        "měi​tiān",
+        "zài",
+        "zhè​lǐ",
+        "dōu",
+        "mǎi",
+        "Xīng​bā​kè"
+      ]
+    }
+  },
+  {
+    "start": 523766,
+    "end": 525387,
+    "captions": {
+      "en": "This is our third day since we arrived and",
+      "hanzi": ["我们", "到", "第三天"],
+      "pinyin": ["wǒ​men", "dào", "dì sān tiān"]
+    }
+  },
+  {
+    "start": 525387,
+    "end": 527156,
+    "captions": {
+      "en": "we bought Starbucks literally every day",
+      "hanzi": ["三天", "都", "有", "买", "星巴克", "欸"],
+      "pinyin": ["sān tiān", "dōu", "yǒu", "mǎi", "Xīng​bā​kè", "ǎi"]
+    }
+  },
+  {
+    "start": 527156,
+    "end": 529920,
+    "captions": {
+      "en": "Because the price of Starbucks here is the same as in Taiwan",
+      "hanzi": ["但", "这边", "星巴克", "跟", "台湾", "一样", "价格", "啊"],
+      "pinyin": [
+        "dàn",
+        "zhè​biān",
+        "Xīng​bā​kè",
+        "gēn",
+        "Tái​wān",
+        "yī​yàng",
+        "jià​gé",
+        "a"
+      ]
+    }
+  },
+  {
+    "start": 529920,
+    "end": 530997,
+    "captions": {
+      "en": "So why not?",
+      "hanzi": ["不", "买", "白", "不", "买", "啊"],
+      "pinyin": ["bù", "mǎi", "bái", "bù", "mǎi", "a"]
+    }
+  },
+  {
+    "start": 530997,
+    "end": 532992,
+    "captions": {
+      "en": "It seems relatively cheaper",
+      "hanzi": ["相对来说", "感觉", "比较", "便宜"],
+      "pinyin": ["xiāng duì lái shuō", "gǎn​jué", "bǐ​jiào", "pián​yi"]
+    }
+  },
+  {
+    "start": 532992,
+    "end": 534208,
+    "captions": {
+      "en": "A lot cheaper",
+      "hanzi": ["便宜", "很多"],
+      "pinyin": ["pián​yi", "hěn duō"]
+    }
+  },
+  {
+    "start": 534208,
+    "end": 536286,
+    "captions": {
+      "en": "(In the US) It's three times the price (than in Taiwan)",
+      "hanzi": ["三倍", "的", "物价", "水准"],
+      "pinyin": ["sān​bèi", "de", "wù​jià", "shuǐ​zhǔn"]
+    }
+  },
+  {
+    "start": 536286,
+    "end": 537984,
+    "captions": {
+      "en": "What about McDonald's?",
+      "hanzi": ["欸", "～", "麦当劳", "呢", "？"],
+      "pinyin": ["ǎi", "～", "Mài​dāng​láo", "ne", "?"]
+    }
+  },
+  {
+    "start": 537984,
+    "end": 538682,
+    "captions": {
+      "en": "McDonald's is…",
+      "hanzi": ["麦当劳", "是", "…"],
+      "pinyin": ["Mài​dāng​láo", "shì", "…"]
+    }
+  },
+  {
+    "start": 538682,
+    "end": 540721,
+    "captions": {
+      "en": "They say McDonald's is about three times the price",
+      "hanzi": ["他们", "说", "麦当劳", "就", "差不多", "三倍"],
+      "pinyin": [
+        "tā​men",
+        "shuō",
+        "Mài​dāng​láo",
+        "jiù",
+        "chà​bu​duō",
+        "sān​bèi"
+      ]
+    }
+  },
+  {
+    "start": 540721,
+    "end": 544301,
+    "captions": {
+      "en": "So a 100 NTD McDonald's meal in Taiwan might be…",
+      "hanzi": [
+        "所以",
+        "麦当劳",
+        "其实",
+        "在",
+        "台湾",
+        "可能",
+        "100",
+        "块",
+        "的",
+        "…"
+      ],
+      "pinyin": [
+        "suǒ​yǐ",
+        "Mài​dāng​láo",
+        "qí​shí",
+        "zài",
+        "Tái​wān",
+        "kě​néng",
+        "100",
+        "kuài",
+        "de",
+        "…"
+      ]
+    }
+  },
+  {
+    "start": 544301,
+    "end": 546732,
+    "captions": {
+      "en": "They said 10 bucks here. McDonald's.",
+      "hanzi": ["他们", "说", "在", "这边", "十块", "吧", " ", "麦当劳"],
+      "pinyin": [
+        "tā​men",
+        "shuō",
+        "zài",
+        "zhè​biān",
+        "shí kuài",
+        "ba",
+        " ",
+        "Mài​dāng​láo"
+      ]
+    }
+  },
+  {
+    "start": 546732,
+    "end": 548165,
+    "captions": {
+      "en": "That's about 300 NTD",
+      "hanzi": ["就是", "大概", "300", "块"],
+      "pinyin": ["jiù​shì", "dà​gài", "300", "kuài"]
+    }
+  },
+  {
+    "start": 548165,
+    "end": 550208,
+    "captions": {
+      "en": "So McDonald's has different prices",
+      "hanzi": ["所以", "麦当劳", "是", "有", "差", "的"],
+      "pinyin": ["suǒ​yǐ", "Mài​dāng​láo", "shì", "yǒu", "chà", "de"]
+    }
+  },
+  {
+    "start": 550208,
+    "end": 553408,
+    "captions": {
+      "en": "However Starbucks has a universal price",
+      "hanzi": ["星巴克", "真的", "是", "全球", "统一价"],
+      "pinyin": ["Xīng​bā​kè", "zhēn de", "shì", "quán​qiú", "tǒng yī jià"]
+    }
+  },
+  {
+    "start": 553408,
+    "end": 555712,
+    "captions": {
+      "en": "They're all the same… expensive",
+      "hanzi": ["都", "一样", "…", "一样", "贵"],
+      "pinyin": ["dōu", "yī​yàng", "…", "yī​yàng", "guì"]
+    }
+  },
+  {
+    "start": 555712,
+    "end": 556415,
+    "captions": { "en": "Yup", "hanzi": ["对"], "pinyin": ["duì"] }
+  },
+  {
+    "start": 609406,
+    "end": 611927,
+    "captions": {
+      "en": "Add some oil",
+      "hanzi": ["加", "一些", "油"],
+      "pinyin": ["jiā", "yī​xiē", "yóu"]
+    }
+  },
+  {
+    "start": 615105,
+    "end": 618474,
+    "captions": {
+      "en": "Saute with garlic first",
+      "hanzi": ["先", "用", "蒜", "爆", "香"],
+      "pinyin": ["xiān", "yòng", "suàn", "bào", "xiāng"]
+    }
+  },
+  {
+    "start": 651742,
+    "end": 653600,
+    "captions": { "en": "The veggies are done" }
+  },
+  {
+    "start": 651906,
+    "end": 653707,
+    "captions": {
+      "hanzi": ["菜", "弄", "好", "啦"],
+      "pinyin": ["cài", "nòng", "hǎo", "la"]
+    }
+  },
+  {
+    "start": 653600,
+    "end": 657139,
+    "captions": { "en": "Now we have to wait for the chicken thighs" }
+  },
+  {
+    "start": 653707,
+    "end": 657139,
+    "captions": {
+      "hanzi": ["现在", "要", "等", "鸡腿肉"],
+      "pinyin": ["xiàn​zài", "yào", "děng", "jī tuǐ ròu"]
+    }
+  },
+  {
+    "start": 666165,
+    "end": 669957,
+    "captions": {
+      "en": "Done! The air fryer makes everything easier",
+      "hanzi": ["完成", "！", "用", "气", "炸锅", "真的", "好", "方便"],
+      "pinyin": [
+        "wán​chéng",
+        "!",
+        "yòng",
+        "qì",
+        "zhà guō",
+        "zhēn de",
+        "hǎo",
+        "fāng​biàn"
+      ]
+    }
+  },
+  {
+    "start": 722330,
+    "end": 724997,
+    "captions": {
+      "en": "Our last meal in Chicago",
+      "hanzi": ["在", "芝加哥", "的", "最后", "一餐"],
+      "pinyin": ["zài", "Zhī​jiā​gē", "de", "zuì​hòu", "yī cān"]
+    }
+  },
+  {
+    "start": 724997,
+    "end": 727360,
+    "captions": {
+      "en": "This is a Chicago-style hot dog",
+      "hanzi": ["这", "是", "芝加哥", "式", "热狗"],
+      "pinyin": ["zhè", "shì", "Zhī​jiā​gē", "shì", "rè​gǒu"]
+    }
+  },
+  {
+    "start": 729600,
+    "end": 733253,
+    "captions": { "en": "And some fried chicken and fries" }
+  },
+  {
+    "start": 729724,
+    "end": 733253,
+    "captions": {
+      "hanzi": ["还有", "一些", "炸鸡", "、", "薯条"],
+      "pinyin": ["hái​yǒu", "yī​xiē", "zhá​jī", "、", "shǔ​tiáo"]
+    }
+  },
+  {
+    "start": 734362,
+    "end": 737630,
+    "captions": {
+      "en": "We're heading to Indiana",
+      "hanzi": ["要", "出发", "去", "印第安纳", "了"],
+      "pinyin": ["yào", "chū​fā", "qù", "Yìn​dì​'ān​nà", "le"]
+    }
+  },
+  {
+    "start": 744320,
+    "end": 747112,
+    "captions": {
+      "en": "Which vaccine did you get?",
+      "hanzi": ["你", "是", "打", "什么", "疫苗", "？"],
+      "pinyin": ["nǐ", "shì", "dǎ", "shén​me", "yì​miáo", "?"]
+    }
+  },
+  {
+    "start": 747112,
+    "end": 748787,
+    "captions": {
+      "en": "Moderna",
+      "hanzi": ["莫", "德纳"],
+      "pinyin": ["mò", "dé nà"]
+    }
+  },
+  {
+    "start": 748787,
+    "end": 750533,
+    "captions": {
+      "en": "We got Pfizer",
+      "hanzi": ["我们", "打", "Pfizer"],
+      "pinyin": ["wǒ​men", "dǎ", "Pfizer"]
+    }
+  },
+  {
+    "start": 750533,
+    "end": 751676,
+    "captions": {
+      "en": "Yeah, Pfizer",
+      "hanzi": ["对", "，", "Pfizer"],
+      "pinyin": ["duì", ",", "Pfizer"]
+    }
+  },
+  {
+    "start": 751676,
+    "end": 754070,
+    "captions": {
+      "en": "And the arm that got the shot was very sore",
+      "hanzi": ["然后", "打", "的", "那", "只", "手", "就", "非常", "地", "酸"],
+      "pinyin": [
+        "rán​hòu",
+        "dǎ",
+        "de",
+        "nà",
+        "zhī",
+        "shǒu",
+        "jiù",
+        "fēi​cháng",
+        "dì",
+        "suān"
+      ]
+    }
+  },
+  {
+    "start": 754070,
+    "end": 755583,
+    "captions": {
+      "en": "I couldn't lift it up",
+      "hanzi": ["举", "不", "起来"],
+      "pinyin": ["jǔ", "bù", "qǐ​lai"]
+    }
+  },
+  {
+    "start": 755583,
+    "end": 757920,
+    "captions": {
+      "en": "But it's a lot better now",
+      "hanzi": ["现在", "好多", "了"],
+      "pinyin": ["xiàn​zài", "hǎo​duō", "le"]
+    }
+  },
+  {
+    "start": 758464,
+    "end": 760680,
+    "captions": {
+      "en": "I bought another cup of coffee",
+      "hanzi": ["又", "买", "了", "一杯", "咖啡"],
+      "pinyin": ["yòu", "mǎi", "le", "yī bēi", "kā​fēi"]
+    }
+  },
+  {
+    "start": 760680,
+    "end": 764800,
+    "captions": {
+      "en": "Caffeine is really helping me with jet lag these days lol",
+      "hanzi": [
+        "这",
+        "几天",
+        "真的",
+        "是",
+        "靠",
+        "咖啡因",
+        "在",
+        "调整",
+        "我",
+        "的",
+        "时差",
+        " ",
+        "lol"
+      ],
+      "pinyin": [
+        "zhè",
+        "jǐ​tiān",
+        "zhēn de",
+        "shì",
+        "kào",
+        "kā​fēi​yīn",
+        "zài",
+        "tiáo​zhěng",
+        "wǒ",
+        "de",
+        "shí​chā",
+        " ",
+        "lol"
+      ]
+    }
+  }
+]
