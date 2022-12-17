@@ -4,22 +4,8 @@
     "end": 55745,
     "captions": {
       "en": "This is the door of my room",
-      "hanzi": [
-        "这个",
-        "就是",
-        "我",
-        "房间",
-        "的",
-        "门"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "jiù​shì",
-        "wǒ",
-        "fáng​jiān",
-        "de",
-        "mén"
-      ]
+      "hanzi": ["这个", "就是", "我", "房间", "的", "门"],
+      "pinyin": ["zhè​ge", "jiù​shì", "wǒ", "fáng​jiān", "de", "mén"]
     }
   },
   {
@@ -27,18 +13,8 @@
     "end": 57248,
     "captions": {
       "en": "There’s nothing special",
-      "hanzi": [
-        "它",
-        "没有",
-        "什么",
-        "特色"
-      ],
-      "pinyin": [
-        "tā",
-        "méi​yǒu",
-        "shén​me",
-        "tè​sè"
-      ]
+      "hanzi": ["它", "没有", "什么", "特色"],
+      "pinyin": ["tā", "méi​yǒu", "shén​me", "tè​sè"]
     }
   },
   {
@@ -46,20 +22,8 @@
     "end": 59537,
     "captions": {
       "en": "It’s just an all-white door",
-      "hanzi": [
-        "就是",
-        "全",
-        "白",
-        "的",
-        "一扇门"
-      ],
-      "pinyin": [
-        "jiù​shì",
-        "quán",
-        "bái",
-        "de",
-        "yī shàn mén"
-      ]
+      "hanzi": ["就是", "全", "白", "的", "一扇门"],
+      "pinyin": ["jiù​shì", "quán", "bái", "de", "yī shàn mén"]
     }
   },
   {
@@ -67,14 +31,8 @@
     "end": 61260,
     "captions": {
       "en": "light switch",
-      "hanzi": [
-        "电灯",
-        "开关"
-      ],
-      "pinyin": [
-        "diàn​dēng",
-        "kāi​guān"
-      ]
+      "hanzi": ["电灯", "开关"],
+      "pinyin": ["diàn​dēng", "kāi​guān"]
     }
   },
   {
@@ -82,17 +40,7 @@
     "end": 63617,
     "captions": {
       "en": "This is a light I bought on Amazon",
-      "hanzi": [
-        "这",
-        "是",
-        "我",
-        "在",
-        "Amazon",
-        "上面",
-        "买",
-        "的",
-        "灯"
-      ],
+      "hanzi": ["这", "是", "我", "在", "Amazon", "上面", "买", "的", "灯"],
       "pinyin": [
         "zhè",
         "shì",
@@ -111,16 +59,8 @@
     "end": 65025,
     "captions": {
       "en": "for decoration",
-      "hanzi": [
-        "用来",
-        "装饰",
-        "的"
-      ],
-      "pinyin": [
-        "yòng​lái",
-        "zhuāng​shì",
-        "de"
-      ]
+      "hanzi": ["用来", "装饰", "的"],
+      "pinyin": ["yòng​lái", "zhuāng​shì", "de"]
     }
   },
   {
@@ -128,24 +68,8 @@
     "end": 66753,
     "captions": {
       "en": "Actually, if you look at it in person,",
-      "hanzi": [
-        "其实",
-        "如果",
-        "你",
-        "看",
-        "它",
-        "的",
-        "实体"
-      ],
-      "pinyin": [
-        "qí​shí",
-        "rú​guǒ",
-        "nǐ",
-        "kàn",
-        "tā",
-        "de",
-        "shí​tǐ"
-      ]
+      "hanzi": ["其实", "如果", "你", "看", "它", "的", "实体"],
+      "pinyin": ["qí​shí", "rú​guǒ", "nǐ", "kàn", "tā", "de", "shí​tǐ"]
     }
   },
   {
@@ -153,18 +77,8 @@
     "end": 68289,
     "captions": {
       "en": "It's blue",
-      "hanzi": [
-        "它",
-        "是",
-        "蓝色",
-        "的"
-      ],
-      "pinyin": [
-        "tā",
-        "shì",
-        "lán​sè",
-        "de"
-      ]
+      "hanzi": ["它", "是", "蓝色", "的"],
+      "pinyin": ["tā", "shì", "lán​sè", "de"]
     }
   },
   {
@@ -172,16 +86,7 @@
     "end": 70670,
     "captions": {
       "en": "but I don't know why on camera",
-      "hanzi": [
-        "但是",
-        "我",
-        "不",
-        "知道",
-        "为什么",
-        "在",
-        "镜头",
-        "前面"
-      ],
+      "hanzi": ["但是", "我", "不", "知道", "为什么", "在", "镜头", "前面"],
       "pinyin": [
         "dàn​shì",
         "wǒ",
@@ -199,22 +104,8 @@
     "end": 72720,
     "captions": {
       "en": "it's purple",
-      "hanzi": [
-        "它",
-        "就",
-        "变成",
-        "紫色",
-        "的",
-        "了"
-      ],
-      "pinyin": [
-        "tā",
-        "jiù",
-        "biàn​chéng",
-        "zǐ​sè",
-        "de",
-        "le"
-      ]
+      "hanzi": ["它", "就", "变成", "紫色", "的", "了"],
+      "pinyin": ["tā", "jiù", "biàn​chéng", "zǐ​sè", "de", "le"]
     }
   },
   {
@@ -222,20 +113,8 @@
     "end": 75020,
     "captions": {
       "en": "This is my bed",
-      "hanzi": [
-        "这个",
-        "是",
-        "我",
-        "的",
-        "床"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "shì",
-        "wǒ",
-        "de",
-        "chuáng"
-      ]
+      "hanzi": ["这个", "是", "我", "的", "床"],
+      "pinyin": ["zhè​ge", "shì", "wǒ", "de", "chuáng"]
     }
   },
   {
@@ -243,16 +122,7 @@
     "end": 77900,
     "captions": {
       "en": "Actually, this comforter wasn’t the first one I bought",
-      "hanzi": [
-        "其实",
-        "一",
-        "开始",
-        "我",
-        "不是",
-        "买",
-        "这个",
-        "棉被"
-      ],
+      "hanzi": ["其实", "一", "开始", "我", "不是", "买", "这个", "棉被"],
       "pinyin": [
         "qí​shí",
         "yī",
@@ -303,17 +173,7 @@
     "end": 84022,
     "captions": {
       "en": "I was afraid that it was too big",
-      "hanzi": [
-        "但是",
-        "那",
-        "时候",
-        "怕",
-        "这个",
-        "棉被",
-        "太",
-        "大",
-        "了"
-      ],
+      "hanzi": ["但是", "那", "时候", "怕", "这个", "棉被", "太", "大", "了"],
       "pinyin": [
         "dàn​shì",
         "nà",
@@ -332,17 +192,7 @@
     "end": 86192,
     "captions": {
       "en": "so I chose a smaller one",
-      "hanzi": [
-        "所以",
-        "我",
-        "就",
-        "选",
-        "了",
-        "一个",
-        "比较",
-        "小",
-        "的"
-      ],
+      "hanzi": ["所以", "我", "就", "选", "了", "一个", "比较", "小", "的"],
       "pinyin": [
         "suǒ​yǐ",
         "wǒ",
@@ -361,18 +211,8 @@
     "end": 87856,
     "captions": {
       "en": "A brown comforter",
-      "hanzi": [
-        "咖啡色",
-        "的",
-        "棉被",
-        "吧"
-      ],
-      "pinyin": [
-        "kā​fēi​sè",
-        "de",
-        "mián​bèi",
-        "ba"
-      ]
+      "hanzi": ["咖啡色", "的", "棉被", "吧"],
+      "pinyin": ["kā​fēi​sè", "de", "mián​bèi", "ba"]
     }
   },
   {
@@ -380,17 +220,7 @@
     "end": 90641,
     "captions": {
       "en": "then I felt like the colors didn't match well together",
-      "hanzi": [
-        "然后",
-        "我",
-        "就",
-        "觉得",
-        "颜色",
-        "整个",
-        "很",
-        "不",
-        "搭"
-      ],
+      "hanzi": ["然后", "我", "就", "觉得", "颜色", "整个", "很", "不", "搭"],
       "pinyin": [
         "rán​hòu",
         "wǒ",
@@ -440,16 +270,8 @@
     "end": 94320,
     "captions": {
       "en": "and replaced it with this one",
-      "hanzi": [
-        "然后",
-        "换成",
-        "这个"
-      ],
-      "pinyin": [
-        "rán​hòu",
-        "huàn​chéng",
-        "zhè​ge"
-      ]
+      "hanzi": ["然后", "换成", "这个"],
+      "pinyin": ["rán​hòu", "huàn​chéng", "zhè​ge"]
     }
   },
   {
@@ -490,18 +312,8 @@
     "end": 99734,
     "captions": {
       "en": "and so was this pillowcase",
-      "hanzi": [
-        "这个",
-        "枕头套",
-        "也",
-        "是"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "zhěn​tou​tào",
-        "yě",
-        "shì"
-      ]
+      "hanzi": ["这个", "枕头套", "也", "是"],
+      "pinyin": ["zhè​ge", "zhěn​tou​tào", "yě", "shì"]
     }
   },
   {
@@ -540,18 +352,8 @@
     "end": 104534,
     "captions": {
       "en": "and then let’s look at the desk",
-      "hanzi": [
-        "再",
-        "来看",
-        "一下",
-        "书桌"
-      ],
-      "pinyin": [
-        "zài",
-        "lái​kàn",
-        "yī​xià",
-        "shū​zhuō"
-      ]
+      "hanzi": ["再", "来看", "一下", "书桌"],
+      "pinyin": ["zài", "lái​kàn", "yī​xià", "shū​zhuō"]
     }
   },
   {
@@ -590,22 +392,8 @@
     "end": 109127,
     "captions": {
       "en": "This lamp is quite cheap",
-      "hanzi": [
-        "这个",
-        "台灯",
-        "还",
-        "满",
-        "便宜",
-        "的"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "tái​dēng",
-        "hái",
-        "mǎn",
-        "pián​yi",
-        "de"
-      ]
+      "hanzi": ["这个", "台灯", "还", "满", "便宜", "的"],
+      "pinyin": ["zhè​ge", "tái​dēng", "hái", "mǎn", "pián​yi", "de"]
     }
   },
   {
@@ -613,24 +401,8 @@
     "end": 111098,
     "captions": {
       "en": "I think I bought it from Target…",
-      "hanzi": [
-        "好像",
-        "是",
-        "在",
-        "Target",
-        ".",
-        ".",
-        "."
-      ],
-      "pinyin": [
-        "hǎo​xiàng",
-        "shì",
-        "zài",
-        "Target",
-        ".",
-        ".",
-        "."
-      ]
+      "hanzi": ["好像", "是", "在", "Target", ".", ".", "."],
+      "pinyin": ["hǎo​xiàng", "shì", "zài", "Target", ".", ".", "."]
     }
   },
   {
@@ -638,22 +410,8 @@
     "end": 112698,
     "captions": {
       "en": "Yeah, it’s from Target",
-      "hanzi": [
-        "对",
-        "，",
-        "在",
-        "Target",
-        "买",
-        "的"
-      ],
-      "pinyin": [
-        "duì",
-        ",",
-        "zài",
-        "Target",
-        "mǎi",
-        "de"
-      ]
+      "hanzi": ["对", "，", "在", "Target", "买", "的"],
+      "pinyin": ["duì", ",", "zài", "Target", "mǎi", "de"]
     }
   },
   {
@@ -661,16 +419,7 @@
     "end": 114423,
     "captions": {
       "en": "I think I also got this from Target",
-      "hanzi": [
-        "这个",
-        "应该",
-        "也",
-        "是",
-        "在",
-        "Target",
-        "买",
-        "的"
-      ],
+      "hanzi": ["这个", "应该", "也", "是", "在", "Target", "买", "的"],
       "pinyin": [
         "zhè​ge",
         "yīng​gāi",
@@ -688,18 +437,8 @@
     "end": 115589,
     "captions": {
       "en": "They're fake flowers",
-      "hanzi": [
-        "它",
-        "是",
-        "假",
-        "花"
-      ],
-      "pinyin": [
-        "tā",
-        "shì",
-        "jiǎ",
-        "huā"
-      ]
+      "hanzi": ["它", "是", "假", "花"],
+      "pinyin": ["tā", "shì", "jiǎ", "huā"]
     }
   },
   {
@@ -707,16 +446,7 @@
     "end": 117706,
     "captions": {
       "en": "I think this potted plant is very artistic",
-      "hanzi": [
-        "我",
-        "觉得",
-        "这个",
-        "盆栽",
-        "很",
-        "有",
-        "艺术",
-        "感"
-      ],
+      "hanzi": ["我", "觉得", "这个", "盆栽", "很", "有", "艺术", "感"],
       "pinyin": [
         "wǒ",
         "jué​de",
@@ -734,16 +464,8 @@
     "end": 119215,
     "captions": {
       "en": "I love it",
-      "hanzi": [
-        "我",
-        "很",
-        "喜欢"
-      ],
-      "pinyin": [
-        "wǒ",
-        "hěn",
-        "xǐ​huan"
-      ]
+      "hanzi": ["我", "很", "喜欢"],
+      "pinyin": ["wǒ", "hěn", "xǐ​huan"]
     }
   },
   {
@@ -784,24 +506,8 @@
     "end": 124576,
     "captions": {
       "en": "I’ve put some seeds in it",
-      "hanzi": [
-        "我",
-        "在",
-        "里面",
-        "放",
-        "了",
-        "一些",
-        "种子"
-      ],
-      "pinyin": [
-        "wǒ",
-        "zài",
-        "lǐ​miàn",
-        "fàng",
-        "le",
-        "yī​xiē",
-        "zhǒng​zi"
-      ]
+      "hanzi": ["我", "在", "里面", "放", "了", "一些", "种子"],
+      "pinyin": ["wǒ", "zài", "lǐ​miàn", "fàng", "le", "yī​xiē", "zhǒng​zi"]
     }
   },
   {
@@ -809,22 +515,8 @@
     "end": 126963,
     "captions": {
       "en": "but it never grows",
-      "hanzi": [
-        "但是",
-        "它",
-        "一直",
-        "没有",
-        "长",
-        "出来"
-      ],
-      "pinyin": [
-        "dàn​shì",
-        "tā",
-        "yī​zhí",
-        "méi​yǒu",
-        "cháng",
-        "chū​lái"
-      ]
+      "hanzi": ["但是", "它", "一直", "没有", "长", "出来"],
+      "pinyin": ["dàn​shì", "tā", "yī​zhí", "méi​yǒu", "cháng", "chū​lái"]
     }
   },
   {
@@ -832,26 +524,8 @@
     "end": 129814,
     "captions": {
       "en": "I’m just about ready to give up lol",
-      "hanzi": [
-        "我",
-        "已经",
-        "快要",
-        "放弃",
-        "它",
-        "了",
-        " ",
-        "lol"
-      ],
-      "pinyin": [
-        "wǒ",
-        "yǐ​jīng",
-        "kuài​yào",
-        "fàng​qì",
-        "tā",
-        "le",
-        " ",
-        "lol"
-      ]
+      "hanzi": ["我", "已经", "快要", "放弃", "它", "了", " ", "lol"],
+      "pinyin": ["wǒ", "yǐ​jīng", "kuài​yào", "fàng​qì", "tā", "le", " ", "lol"]
     }
   },
   {
@@ -859,24 +533,8 @@
     "end": 131800,
     "captions": {
       "en": "I’ll just put it here for decoration",
-      "hanzi": [
-        "就",
-        "把",
-        "它",
-        "放在",
-        "这边",
-        "装饰",
-        "吧"
-      ],
-      "pinyin": [
-        "jiù",
-        "bǎ",
-        "tā",
-        "fàng zài",
-        "zhè​biān",
-        "zhuāng​shì",
-        "ba"
-      ]
+      "hanzi": ["就", "把", "它", "放在", "这边", "装饰", "吧"],
+      "pinyin": ["jiù", "bǎ", "tā", "fàng zài", "zhè​biān", "zhuāng​shì", "ba"]
     }
   },
   {
@@ -884,16 +542,8 @@
     "end": 132953,
     "captions": {
       "en": "And this alarm clock",
-      "hanzi": [
-        "然后",
-        "这个",
-        "闹钟"
-      ],
-      "pinyin": [
-        "rán​hòu",
-        "zhè​ge",
-        "nào​zhōng"
-      ]
+      "hanzi": ["然后", "这个", "闹钟"],
+      "pinyin": ["rán​hòu", "zhè​ge", "nào​zhōng"]
     }
   },
   {
@@ -901,24 +551,8 @@
     "end": 134888,
     "captions": {
       "en": "If you've seen my first vlog",
-      "hanzi": [
-        "如果",
-        "大家",
-        "看",
-        "了",
-        "我",
-        "第一个",
-        "vlog"
-      ],
-      "pinyin": [
-        "rú​guǒ",
-        "dà​jiā",
-        "kàn",
-        "le",
-        "wǒ",
-        "dì yī gè",
-        "vlog"
-      ]
+      "hanzi": ["如果", "大家", "看", "了", "我", "第一个", "vlog"],
+      "pinyin": ["rú​guǒ", "dà​jiā", "kàn", "le", "wǒ", "dì yī gè", "vlog"]
     }
   },
   {
@@ -926,20 +560,8 @@
     "end": 136680,
     "captions": {
       "en": "It might look familiar to you",
-      "hanzi": [
-        "应该",
-        "觉得",
-        "很",
-        "熟悉",
-        "吧"
-      ],
-      "pinyin": [
-        "yīng​gāi",
-        "jué​de",
-        "hěn",
-        "shú​xī",
-        "ba"
-      ]
+      "hanzi": ["应该", "觉得", "很", "熟悉", "吧"],
+      "pinyin": ["yīng​gāi", "jué​de", "hěn", "shú​xī", "ba"]
     }
   },
   {
@@ -976,26 +598,8 @@
     "end": 141960,
     "captions": {
       "en": "I brought it over from Taiwan",
-      "hanzi": [
-        "我",
-        "把",
-        "它",
-        "从",
-        "台湾",
-        "带",
-        "过来",
-        "了"
-      ],
-      "pinyin": [
-        "wǒ",
-        "bǎ",
-        "tā",
-        "cóng",
-        "Tái​wān",
-        "dài",
-        "guò​lái",
-        "le"
-      ]
+      "hanzi": ["我", "把", "它", "从", "台湾", "带", "过来", "了"],
+      "pinyin": ["wǒ", "bǎ", "tā", "cóng", "Tái​wān", "dài", "guò​lái", "le"]
     }
   },
   {
@@ -1003,18 +607,8 @@
     "end": 143692,
     "captions": {
       "en": "and this is a microphone",
-      "hanzi": [
-        "然后",
-        "这个",
-        "是",
-        "麦克风"
-      ],
-      "pinyin": [
-        "rán​hòu",
-        "zhè​ge",
-        "shì",
-        "mài​kè​fēng"
-      ]
+      "hanzi": ["然后", "这个", "是", "麦克风"],
+      "pinyin": ["rán​hòu", "zhè​ge", "shì", "mài​kè​fēng"]
     }
   },
   {
@@ -1022,24 +616,8 @@
     "end": 145621,
     "captions": {
       "en": "I brought from Taiwan as well",
-      "hanzi": [
-        "也",
-        "是",
-        "我",
-        "从",
-        "台湾",
-        "带来",
-        "的"
-      ],
-      "pinyin": [
-        "yě",
-        "shì",
-        "wǒ",
-        "cóng",
-        "Tái​wān",
-        "dài​lái",
-        "de"
-      ]
+      "hanzi": ["也", "是", "我", "从", "台湾", "带来", "的"],
+      "pinyin": ["yě", "shì", "wǒ", "cóng", "Tái​wān", "dài​lái", "de"]
     }
   },
   {
@@ -1047,18 +625,8 @@
     "end": 147722,
     "captions": {
       "en": "and here are some books",
-      "hanzi": [
-        "这边",
-        "有",
-        "一些",
-        "书"
-      ],
-      "pinyin": [
-        "zhè​biān",
-        "yǒu",
-        "yī​xiē",
-        "shū"
-      ]
+      "hanzi": ["这边", "有", "一些", "书"],
+      "pinyin": ["zhè​biān", "yǒu", "yī​xiē", "shū"]
     }
   },
   {
@@ -1066,16 +634,8 @@
     "end": 150316,
     "captions": {
       "en": "and this is Lao Tzu",
-      "hanzi": [
-        "这个",
-        "是",
-        "老子"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "shì",
-        "Lǎo​zǐ"
-      ]
+      "hanzi": ["这个", "是", "老子"],
+      "pinyin": ["zhè​ge", "shì", "Lǎo​zǐ"]
     }
   },
   {
@@ -1083,16 +643,8 @@
     "end": 153389,
     "captions": {
       "en": "It's in English",
-      "hanzi": [
-        "里面",
-        "是",
-        "英文"
-      ],
-      "pinyin": [
-        "lǐ​miàn",
-        "shì",
-        "Yīng​wén"
-      ]
+      "hanzi": ["里面", "是", "英文"],
+      "pinyin": ["lǐ​miàn", "shì", "Yīng​wén"]
     }
   },
   {
@@ -1100,20 +652,8 @@
     "end": 159600,
     "captions": {
       "en": "This one is The Analects of Confucius",
-      "hanzi": [
-        "这",
-        "一本",
-        "是",
-        "孔子",
-        "语录"
-      ],
-      "pinyin": [
-        "zhè",
-        "yī běn",
-        "shì",
-        "Kǒng​zǐ",
-        "yǔ​lù"
-      ]
+      "hanzi": ["这", "一本", "是", "孔子", "语录"],
+      "pinyin": ["zhè", "yī běn", "shì", "Kǒng​zǐ", "yǔ​lù"]
     }
   },
   {
@@ -1121,16 +661,8 @@
     "end": 161392,
     "captions": {
       "en": "It’s also in English",
-      "hanzi": [
-        "也",
-        "是",
-        "英文"
-      ],
-      "pinyin": [
-        "yě",
-        "shì",
-        "Yīng​wén"
-      ]
+      "hanzi": ["也", "是", "英文"],
+      "pinyin": ["yě", "shì", "Yīng​wén"]
     }
   },
   {
@@ -1177,16 +709,7 @@
     "end": 170987,
     "captions": {
       "en": "This is a notebook which I like a lot",
-      "hanzi": [
-        "这",
-        "是",
-        "我",
-        "很",
-        "喜欢",
-        "的",
-        "一本",
-        "笔记本"
-      ],
+      "hanzi": ["这", "是", "我", "很", "喜欢", "的", "一本", "笔记本"],
       "pinyin": [
         "zhè",
         "shì",
@@ -1204,18 +727,8 @@
     "end": 172331,
     "captions": {
       "en": "I bought it in the States",
-      "hanzi": [
-        "在",
-        "美国",
-        "买",
-        "的"
-      ],
-      "pinyin": [
-        "zài",
-        "Měi​guó",
-        "mǎi",
-        "de"
-      ]
+      "hanzi": ["在", "美国", "买", "的"],
+      "pinyin": ["zài", "Měi​guó", "mǎi", "de"]
     }
   },
   {
@@ -1223,20 +736,8 @@
     "end": 174443,
     "captions": {
       "en": "I think it's beautiful",
-      "hanzi": [
-        "我",
-        "觉得",
-        "它",
-        "好",
-        "漂亮"
-      ],
-      "pinyin": [
-        "wǒ",
-        "jué​de",
-        "tā",
-        "hǎo",
-        "piào​liang"
-      ]
+      "hanzi": ["我", "觉得", "它", "好", "漂亮"],
+      "pinyin": ["wǒ", "jué​de", "tā", "hǎo", "piào​liang"]
     }
   },
   {
@@ -1244,24 +745,8 @@
     "end": 176687,
     "captions": {
       "en": "I love the golden edge",
-      "hanzi": [
-        "我",
-        "很",
-        "喜欢",
-        "这种",
-        "镶金",
-        "的",
-        "边"
-      ],
-      "pinyin": [
-        "wǒ",
-        "hěn",
-        "xǐ​huan",
-        "zhè​zhǒng",
-        "xiāng​jīn",
-        "de",
-        "biān"
-      ]
+      "hanzi": ["我", "很", "喜欢", "这种", "镶金", "的", "边"],
+      "pinyin": ["wǒ", "hěn", "xǐ​huan", "zhè​zhǒng", "xiāng​jīn", "de", "biān"]
     }
   },
   {
@@ -1333,15 +818,7 @@
     "end": 187336,
     "captions": {
       "en": "And then, these are the perfumes I often wear",
-      "hanzi": [
-        "然后",
-        "这",
-        "是",
-        "我",
-        "常用",
-        "的",
-        "香水"
-      ],
+      "hanzi": ["然后", "这", "是", "我", "常用", "的", "香水"],
       "pinyin": [
         "rán​hòu",
         "zhè",
@@ -1389,20 +866,8 @@
     "end": 191928,
     "captions": {
       "en": "This is a desk mirror",
-      "hanzi": [
-        "这个",
-        "是",
-        "一个",
-        "桌上",
-        "镜"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "shì",
-        "yī gè",
-        "zhuō shàng",
-        "jìng"
-      ]
+      "hanzi": ["这个", "是", "一个", "桌上", "镜"],
+      "pinyin": ["zhè​ge", "shì", "yī gè", "zhuō shàng", "jìng"]
     }
   },
   {
@@ -1410,15 +875,7 @@
     "end": 194101,
     "captions": {
       "en": "because I do makeup at my desk",
-      "hanzi": [
-        "因为",
-        "我",
-        "都",
-        "是",
-        "在",
-        "书桌上",
-        "化妆"
-      ],
+      "hanzi": ["因为", "我", "都", "是", "在", "书桌上", "化妆"],
       "pinyin": [
         "yīn​wèi",
         "wǒ",
@@ -1468,20 +925,8 @@
     "end": 201314,
     "captions": {
       "en": "There are just some miscellaneous things inside",
-      "hanzi": [
-        "这个",
-        "里面",
-        "就是",
-        "一些",
-        "杂物"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "lǐ​miàn",
-        "jiù​shì",
-        "yī​xiē",
-        "zá​wù"
-      ]
+      "hanzi": ["这个", "里面", "就是", "一些", "杂物"],
+      "pinyin": ["zhè​ge", "lǐ​miàn", "jiù​shì", "yī​xiē", "zá​wù"]
     }
   },
   {
@@ -1520,14 +965,7 @@
     "end": 208906,
     "captions": {
       "en": "notebook, post-it notes , and pencil case",
-      "hanzi": [
-        "还有",
-        "笔记本",
-        "、",
-        "便条纸",
-        "、",
-        "铅笔盒"
-      ],
+      "hanzi": ["还有", "笔记本", "、", "便条纸", "、", "铅笔盒"],
       "pinyin": [
         "hái​yǒu",
         "bǐ​jì​běn",
@@ -1543,16 +981,8 @@
     "end": 210395,
     "captions": {
       "en": "that's about it",
-      "hanzi": [
-        "大概",
-        "就",
-        "这样"
-      ],
-      "pinyin": [
-        "dà​gài",
-        "jiù",
-        "zhè​yàng"
-      ]
+      "hanzi": ["大概", "就", "这样"],
+      "pinyin": ["dà​gài", "jiù", "zhè​yàng"]
     }
   },
   {
@@ -1560,16 +990,7 @@
     "end": 214107,
     "captions": {
       "en": "And then the drawer next to it is pretty messy",
-      "hanzi": [
-        "然后",
-        "旁边",
-        "这个",
-        "抽屉",
-        "里面",
-        "满",
-        "乱",
-        "的"
-      ],
+      "hanzi": ["然后", "旁边", "这个", "抽屉", "里面", "满", "乱", "的"],
       "pinyin": [
         "rán​hòu",
         "páng​biān",
@@ -1587,17 +1008,7 @@
     "end": 217051,
     "captions": {
       "en": "These are the things I often use",
-      "hanzi": [
-        "这些",
-        "是",
-        "我",
-        "平常",
-        "比较",
-        "常用",
-        "到",
-        "的",
-        "东西"
-      ],
+      "hanzi": ["这些", "是", "我", "平常", "比较", "常用", "到", "的", "东西"],
       "pinyin": [
         "zhè​xiē",
         "shì",
@@ -1616,16 +1027,8 @@
     "end": 219513,
     "captions": {
       "en": "like Q-tips",
-      "hanzi": [
-        "像是",
-        "棉花",
-        "棒"
-      ],
-      "pinyin": [
-        "xiàng shì",
-        "mián​hua",
-        "bàng"
-      ]
+      "hanzi": ["像是", "棉花", "棒"],
+      "pinyin": ["xiàng shì", "mián​hua", "bàng"]
     }
   },
   {
@@ -1633,22 +1036,8 @@
     "end": 223308,
     "captions": {
       "en": "and sunscreen that I wear before going out",
-      "hanzi": [
-        "然后",
-        "出",
-        "门前",
-        "会",
-        "擦",
-        "防晒"
-      ],
-      "pinyin": [
-        "rán​hòu",
-        "chū",
-        "mén​qián",
-        "huì",
-        "cā",
-        "fáng​shài"
-      ]
+      "hanzi": ["然后", "出", "门前", "会", "擦", "防晒"],
+      "pinyin": ["rán​hòu", "chū", "mén​qián", "huì", "cā", "fáng​shài"]
     }
   },
   {
@@ -1656,12 +1045,8 @@
     "end": 225804,
     "captions": {
       "en": "earrings",
-      "hanzi": [
-        "耳环"
-      ],
-      "pinyin": [
-        "ěr​huán"
-      ]
+      "hanzi": ["耳环"],
+      "pinyin": ["ěr​huán"]
     }
   },
   {
@@ -1712,18 +1097,8 @@
     "end": 237160,
     "captions": {
       "en": "Here are two boxes",
-      "hanzi": [
-        "这边",
-        "是",
-        "两个",
-        "箱子"
-      ],
-      "pinyin": [
-        "zhè​biān",
-        "shì",
-        "liǎng gè",
-        "xiāng​zi"
-      ]
+      "hanzi": ["这边", "是", "两个", "箱子"],
+      "pinyin": ["zhè​biān", "shì", "liǎng gè", "xiāng​zi"]
     }
   },
   {
@@ -1731,22 +1106,8 @@
     "end": 238680,
     "captions": {
       "en": "I bought it after moving here",
-      "hanzi": [
-        "是",
-        "我",
-        "后来",
-        "自己",
-        "买",
-        "的"
-      ],
-      "pinyin": [
-        "shì",
-        "wǒ",
-        "hòu​lái",
-        "zì​jǐ",
-        "mǎi",
-        "de"
-      ]
+      "hanzi": ["是", "我", "后来", "自己", "买", "的"],
+      "pinyin": ["shì", "wǒ", "hòu​lái", "zì​jǐ", "mǎi", "de"]
     }
   },
   {
@@ -1754,18 +1115,8 @@
     "end": 239888,
     "captions": {
       "en": "because there aren't any drawers here",
-      "hanzi": [
-        "因为",
-        "它",
-        "没有",
-        "抽屉"
-      ],
-      "pinyin": [
-        "yīn​wèi",
-        "tā",
-        "méi​yǒu",
-        "chōu​ti"
-      ]
+      "hanzi": ["因为", "它", "没有", "抽屉"],
+      "pinyin": ["yīn​wèi", "tā", "méi​yǒu", "chōu​ti"]
     }
   },
   {
@@ -1773,15 +1124,7 @@
     "end": 242625,
     "captions": {
       "en": "I thought it didn’t look good to just put things in there",
-      "hanzi": [
-        "我",
-        "觉得",
-        "东西",
-        "直接",
-        "放",
-        "的话",
-        "很丑"
-      ],
+      "hanzi": ["我", "觉得", "东西", "直接", "放", "的话", "很丑"],
       "pinyin": [
         "wǒ",
         "jué​de",
@@ -1798,24 +1141,8 @@
     "end": 245666,
     "captions": {
       "en": "so I bought two boxes",
-      "hanzi": [
-        "所以",
-        "我",
-        "就",
-        "买",
-        "了",
-        "两个",
-        "箱子"
-      ],
-      "pinyin": [
-        "suǒ​yǐ",
-        "wǒ",
-        "jiù",
-        "mǎi",
-        "le",
-        "liǎng gè",
-        "xiāng​zi"
-      ]
+      "hanzi": ["所以", "我", "就", "买", "了", "两个", "箱子"],
+      "pinyin": ["suǒ​yǐ", "wǒ", "jiù", "mǎi", "le", "liǎng gè", "xiāng​zi"]
     }
   },
   {
@@ -1823,15 +1150,7 @@
     "end": 250210,
     "captions": {
       "en": "It’s just some cables in this box",
-      "hanzi": [
-        "这个",
-        "箱子",
-        "里面",
-        "就是",
-        "放",
-        "一些",
-        "线材"
-      ],
+      "hanzi": ["这个", "箱子", "里面", "就是", "放", "一些", "线材"],
       "pinyin": [
         "zhè​ge",
         "xiāng​zi",
@@ -1848,15 +1167,7 @@
     "end": 254348,
     "captions": {
       "en": "and some camera accessories",
-      "hanzi": [
-        "一些",
-        "相机",
-        "的",
-        "配件",
-        "在",
-        "这",
-        "里面"
-      ],
+      "hanzi": ["一些", "相机", "的", "配件", "在", "这", "里面"],
       "pinyin": [
         "yī​xiē",
         "xiàng​jī",
@@ -1873,20 +1184,8 @@
     "end": 256162,
     "captions": {
       "en": "On the bottom side",
-      "hanzi": [
-        "最",
-        "下面",
-        "的",
-        "这边",
-        "呢"
-      ],
-      "pinyin": [
-        "zuì",
-        "xià​miàn",
-        "de",
-        "zhè​biān",
-        "ne"
-      ]
+      "hanzi": ["最", "下面", "的", "这边", "呢"],
+      "pinyin": ["zuì", "xià​miàn", "de", "zhè​biān", "ne"]
     }
   },
   {
@@ -1923,22 +1222,8 @@
     "end": 262135,
     "captions": {
       "en": "So they could be covered up",
-      "hanzi": [
-        "就",
-        "它",
-        "其实",
-        "原本",
-        "可以",
-        "盖起来"
-      ],
-      "pinyin": [
-        "jiù",
-        "tā",
-        "qí​shí",
-        "yuán​běn",
-        "kě​yǐ",
-        "gài qǐ lái"
-      ]
+      "hanzi": ["就", "它", "其实", "原本", "可以", "盖起来"],
+      "pinyin": ["jiù", "tā", "qí​shí", "yuán​běn", "kě​yǐ", "gài qǐ lái"]
     }
   },
   {
@@ -1946,16 +1231,7 @@
     "end": 264329,
     "captions": {
       "en": "but it's very inconvenient for me to use",
-      "hanzi": [
-        "但是",
-        "盖起来",
-        "就",
-        "非常",
-        "不",
-        "方便",
-        "用",
-        "嘛"
-      ],
+      "hanzi": ["但是", "盖起来", "就", "非常", "不", "方便", "用", "嘛"],
       "pinyin": [
         "dàn​shì",
         "gài qǐ lái",
@@ -1973,16 +1249,7 @@
     "end": 267081,
     "captions": {
       "en": "Also I happened to need two boxes here",
-      "hanzi": [
-        "然后",
-        "我",
-        "刚好",
-        "下面",
-        "又",
-        "缺",
-        "两个",
-        "盒子"
-      ],
+      "hanzi": ["然后", "我", "刚好", "下面", "又", "缺", "两个", "盒子"],
       "pinyin": [
         "rán​hòu",
         "wǒ",
@@ -2000,17 +1267,7 @@
     "end": 269513,
     "captions": {
       "en": "so I put them on the bottom layer",
-      "hanzi": [
-        "我",
-        "就",
-        "把",
-        "它们",
-        "放到",
-        "最",
-        "下面",
-        "这",
-        "一层"
-      ],
+      "hanzi": ["我", "就", "把", "它们", "放到", "最", "下面", "这", "一层"],
       "pinyin": [
         "wǒ",
         "jiù",
@@ -2072,15 +1329,7 @@
     "end": 277210,
     "captions": {
       "en": "and here are some manicure supplies",
-      "hanzi": [
-        "然后",
-        "这边",
-        "是",
-        "一些",
-        "美甲",
-        "的",
-        "用品"
-      ],
+      "hanzi": ["然后", "这边", "是", "一些", "美甲", "的", "用品"],
       "pinyin": [
         "rán​hòu",
         "zhè​biān",
@@ -2097,16 +1346,8 @@
     "end": 278481,
     "captions": {
       "en": "Nail polish remover",
-      "hanzi": [
-        "去",
-        "光",
-        "水"
-      ],
-      "pinyin": [
-        "qù",
-        "guāng",
-        "shuǐ"
-      ]
+      "hanzi": ["去", "光", "水"],
+      "pinyin": ["qù", "guāng", "shuǐ"]
     }
   },
   {
@@ -2114,20 +1355,8 @@
     "end": 281220,
     "captions": {
       "en": "what you use to remove nail polish",
-      "hanzi": [
-        "就是",
-        "卸",
-        "指甲油",
-        "用",
-        "的"
-      ],
-      "pinyin": [
-        "jiù​shì",
-        "xiè",
-        "zhǐ​jia​yóu",
-        "yòng",
-        "de"
-      ]
+      "hanzi": ["就是", "卸", "指甲油", "用", "的"],
+      "pinyin": ["jiù​shì", "xiè", "zhǐ​jia​yóu", "yòng", "de"]
     }
   },
   {
@@ -2135,20 +1364,8 @@
     "end": 288132,
     "captions": {
       "en": "And then here's just some random stuff",
-      "hanzi": [
-        "然后",
-        "就",
-        "一些",
-        "杂物",
-        "吧"
-      ],
-      "pinyin": [
-        "rán​hòu",
-        "jiù",
-        "yī​xiē",
-        "zá​wù",
-        "ba"
-      ]
+      "hanzi": ["然后", "就", "一些", "杂物", "吧"],
+      "pinyin": ["rán​hòu", "jiù", "yī​xiē", "zá​wù", "ba"]
     }
   },
   {
@@ -2156,22 +1373,8 @@
     "end": 291104,
     "captions": {
       "en": "I just put them over here",
-      "hanzi": [
-        "也",
-        "是",
-        "就",
-        "都",
-        "放在",
-        "这边"
-      ],
-      "pinyin": [
-        "yě",
-        "shì",
-        "jiù",
-        "dōu",
-        "fàng zài",
-        "zhè​biān"
-      ]
+      "hanzi": ["也", "是", "就", "都", "放在", "这边"],
+      "pinyin": ["yě", "shì", "jiù", "dōu", "fàng zài", "zhè​biān"]
     }
   },
   {
@@ -2179,24 +1382,8 @@
     "end": 293956,
     "captions": {
       "en": "This is my chair",
-      "hanzi": [
-        "跟",
-        "大家",
-        "介绍",
-        "一下",
-        "我",
-        "的",
-        "椅子"
-      ],
-      "pinyin": [
-        "gēn",
-        "dà​jiā",
-        "jiè​shào",
-        "yī​xià",
-        "wǒ",
-        "de",
-        "yǐ​zi"
-      ]
+      "hanzi": ["跟", "大家", "介绍", "一下", "我", "的", "椅子"],
+      "pinyin": ["gēn", "dà​jiā", "jiè​shào", "yī​xià", "wǒ", "de", "yǐ​zi"]
     }
   },
   {
@@ -2204,22 +1391,8 @@
     "end": 297573,
     "captions": {
       "en": "It’s extremely uncomfortable to sit on",
-      "hanzi": [
-        "它",
-        "非常",
-        "非常",
-        "地",
-        "难",
-        "坐"
-      ],
-      "pinyin": [
-        "tā",
-        "fēi​cháng",
-        "fēi​cháng",
-        "dì",
-        "nán",
-        "zuò"
-      ]
+      "hanzi": ["它", "非常", "非常", "地", "难", "坐"],
+      "pinyin": ["tā", "fēi​cháng", "fēi​cháng", "dì", "nán", "zuò"]
     }
   },
   {
@@ -2227,16 +1400,7 @@
     "end": 300965,
     "captions": {
       "en": "If I didn’t buy this cushion",
-      "hanzi": [
-        "就是",
-        "如果",
-        "我",
-        "没有",
-        "多",
-        "买",
-        "这个",
-        "垫子"
-      ],
+      "hanzi": ["就是", "如果", "我", "没有", "多", "买", "这个", "垫子"],
       "pinyin": [
         "jiù​shì",
         "rú​guǒ",
@@ -2254,20 +1418,8 @@
     "end": 303397,
     "captions": {
       "en": "this chair would not be even",
-      "hanzi": [
-        "它",
-        "其实",
-        "是",
-        "斜",
-        "的"
-      ],
-      "pinyin": [
-        "tā",
-        "qí​shí",
-        "shì",
-        "xié",
-        "de"
-      ]
+      "hanzi": ["它", "其实", "是", "斜", "的"],
+      "pinyin": ["tā", "qí​shí", "shì", "xié", "de"]
     }
   },
   {
@@ -2310,24 +1462,8 @@
     "end": 311587,
     "captions": {
       "en": "And it is too low",
-      "hanzi": [
-        "而且",
-        "整个",
-        "坐",
-        "起来",
-        "太",
-        "低",
-        "了"
-      ],
-      "pinyin": [
-        "ér​qiě",
-        "zhěng​gè",
-        "zuò",
-        "qǐ​lai",
-        "tài",
-        "dī",
-        "le"
-      ]
+      "hanzi": ["而且", "整个", "坐", "起来", "太", "低", "了"],
+      "pinyin": ["ér​qiě", "zhěng​gè", "zuò", "qǐ​lai", "tài", "dī", "le"]
     }
   },
   {
@@ -2335,20 +1471,8 @@
     "end": 312589,
     "captions": {
       "en": "If I sit without the cushion",
-      "hanzi": [
-        "如果",
-        "我",
-        "这样",
-        "坐",
-        "的话"
-      ],
-      "pinyin": [
-        "rú​guǒ",
-        "wǒ",
-        "zhè​yàng",
-        "zuò",
-        "de​huà"
-      ]
+      "hanzi": ["如果", "我", "这样", "坐", "的话"],
+      "pinyin": ["rú​guǒ", "wǒ", "zhè​yàng", "zuò", "de​huà"]
     }
   },
   {
@@ -2356,24 +1480,8 @@
     "end": 315161,
     "captions": {
       "en": "after about three or four hours",
-      "hanzi": [
-        "大概",
-        "坐",
-        "个",
-        "三",
-        "、",
-        "四个",
-        "小时"
-      ],
-      "pinyin": [
-        "dà​gài",
-        "zuò",
-        "gè",
-        "sān",
-        "、",
-        "sì gè",
-        "xiǎo​shí"
-      ]
+      "hanzi": ["大概", "坐", "个", "三", "、", "四个", "小时"],
+      "pinyin": ["dà​gài", "zuò", "gè", "sān", "、", "sì gè", "xiǎo​shí"]
     }
   },
   {
@@ -2381,24 +1489,8 @@
     "end": 317774,
     "captions": {
       "en": "I will have a backache",
-      "hanzi": [
-        "我",
-        "的",
-        "腰",
-        "就",
-        "超级",
-        "酸痛",
-        "的"
-      ],
-      "pinyin": [
-        "wǒ",
-        "de",
-        "yāo",
-        "jiù",
-        "chāo​jí",
-        "suān​tòng",
-        "de"
-      ]
+      "hanzi": ["我", "的", "腰", "就", "超级", "酸痛", "的"],
+      "pinyin": ["wǒ", "de", "yāo", "jiù", "chāo​jí", "suān​tòng", "de"]
     }
   },
   {
@@ -2439,22 +1531,8 @@
     "end": 323646,
     "captions": {
       "en": "and problem solved!",
-      "hanzi": [
-        "就",
-        "解决",
-        "了",
-        "这个",
-        "问题",
-        "！"
-      ],
-      "pinyin": [
-        "jiù",
-        "jiě​jué",
-        "le",
-        "zhè​ge",
-        "wèn​tí",
-        "!"
-      ]
+      "hanzi": ["就", "解决", "了", "这个", "问题", "！"],
+      "pinyin": ["jiù", "jiě​jué", "le", "zhè​ge", "wèn​tí", "!"]
     }
   },
   {
@@ -2462,24 +1540,8 @@
     "end": 325758,
     "captions": {
       "en": "It makes this chair taller",
-      "hanzi": [
-        "它",
-        "让",
-        "这个",
-        "椅子",
-        "比较",
-        "高",
-        "一点"
-      ],
-      "pinyin": [
-        "tā",
-        "ràng",
-        "zhè​ge",
-        "yǐ​zi",
-        "bǐ​jiào",
-        "gāo",
-        "yī​diǎn"
-      ]
+      "hanzi": ["它", "让", "这个", "椅子", "比较", "高", "一点"],
+      "pinyin": ["tā", "ràng", "zhè​ge", "yǐ​zi", "bǐ​jiào", "gāo", "yī​diǎn"]
     }
   },
   {
@@ -2487,22 +1549,8 @@
     "end": 328958,
     "captions": {
       "en": "and more comfortable to sit on",
-      "hanzi": [
-        "而且",
-        "坐",
-        "起来",
-        "也",
-        "比较",
-        "舒服"
-      ],
-      "pinyin": [
-        "ér​qiě",
-        "zuò",
-        "qǐ​lai",
-        "yě",
-        "bǐ​jiào",
-        "shū​fu"
-      ]
+      "hanzi": ["而且", "坐", "起来", "也", "比较", "舒服"],
+      "pinyin": ["ér​qiě", "zuò", "qǐ​lai", "yě", "bǐ​jiào", "shū​fu"]
     }
   },
   {
@@ -2510,20 +1558,8 @@
     "end": 331187,
     "captions": {
       "en": "This is my closet",
-      "hanzi": [
-        "这",
-        "就是",
-        "我",
-        "的",
-        "衣橱"
-      ],
-      "pinyin": [
-        "zhè",
-        "jiù​shì",
-        "wǒ",
-        "de",
-        "yī​chú"
-      ]
+      "hanzi": ["这", "就是", "我", "的", "衣橱"],
+      "pinyin": ["zhè", "jiù​shì", "wǒ", "de", "yī​chú"]
     }
   },
   {
@@ -2531,22 +1567,8 @@
     "end": 333694,
     "captions": {
       "en": "There are some coats on the left side",
-      "hanzi": [
-        "最",
-        "左边",
-        "这边",
-        "是",
-        "一些",
-        "外套"
-      ],
-      "pinyin": [
-        "zuì",
-        "zuǒ​bian",
-        "zhè​biān",
-        "shì",
-        "yī​xiē",
-        "wài​tào"
-      ]
+      "hanzi": ["最", "左边", "这边", "是", "一些", "外套"],
+      "pinyin": ["zuì", "zuǒ​bian", "zhè​biān", "shì", "yī​xiē", "wài​tào"]
     }
   },
   {
@@ -2554,22 +1576,8 @@
     "end": 335539,
     "captions": {
       "en": "And because the weather is getting colder now",
-      "hanzi": [
-        "然后",
-        "因为",
-        "最近",
-        "天气",
-        "变冷",
-        "了"
-      ],
-      "pinyin": [
-        "rán​hòu",
-        "yīn​wèi",
-        "zuì​jìn",
-        "tiān​qì",
-        "biàn lěng",
-        "le"
-      ]
+      "hanzi": ["然后", "因为", "最近", "天气", "变冷", "了"],
+      "pinyin": ["rán​hòu", "yīn​wèi", "zuì​jìn", "tiān​qì", "biàn lěng", "le"]
     }
   },
   {
@@ -2608,15 +1616,7 @@
     "end": 342067,
     "captions": {
       "en": "And here are some short-sleeved shirts and pants inside",
-      "hanzi": [
-        "然后",
-        "里面",
-        "就是",
-        "一些",
-        "短袖",
-        "和",
-        "裤子"
-      ],
+      "hanzi": ["然后", "里面", "就是", "一些", "短袖", "和", "裤子"],
       "pinyin": [
         "rán​hòu",
         "lǐ​miàn",
@@ -2633,24 +1633,8 @@
     "end": 345139,
     "captions": {
       "en": "I've got some handbags hanging in here",
-      "hanzi": [
-        "我",
-        "这",
-        "里面",
-        "挂",
-        "了",
-        "一些",
-        "包包"
-      ],
-      "pinyin": [
-        "wǒ",
-        "zhè",
-        "lǐ​miàn",
-        "guà",
-        "le",
-        "yī​xiē",
-        "bāo​bāo"
-      ]
+      "hanzi": ["我", "这", "里面", "挂", "了", "一些", "包包"],
+      "pinyin": ["wǒ", "zhè", "lǐ​miàn", "guà", "le", "yī​xiē", "bāo​bāo"]
     }
   },
   {
@@ -2697,20 +1681,8 @@
     "end": 351347,
     "captions": {
       "en": "Inside are my suitcases",
-      "hanzi": [
-        "里面",
-        "就是",
-        "我",
-        "的",
-        "行李箱"
-      ],
-      "pinyin": [
-        "lǐ​miàn",
-        "jiù​shì",
-        "wǒ",
-        "de",
-        "xíng​li​xiāng"
-      ]
+      "hanzi": ["里面", "就是", "我", "的", "行李箱"],
+      "pinyin": ["lǐ​miàn", "jiù​shì", "wǒ", "de", "xíng​li​xiāng"]
     }
   },
   {
@@ -2718,20 +1690,8 @@
     "end": 353139,
     "captions": {
       "en": "and my badminton shoes",
-      "hanzi": [
-        "还有",
-        "我",
-        "的",
-        "羽",
-        "球鞋"
-      ],
-      "pinyin": [
-        "hái​yǒu",
-        "wǒ",
-        "de",
-        "yǔ",
-        "qiú​xié"
-      ]
+      "hanzi": ["还有", "我", "的", "羽", "球鞋"],
+      "pinyin": ["hái​yǒu", "wǒ", "de", "yǔ", "qiú​xié"]
     }
   },
   {
@@ -2776,24 +1736,8 @@
     "end": 361139,
     "captions": {
       "en": "I really like this mirror",
-      "hanzi": [
-        "我",
-        "真的",
-        "好",
-        "喜欢",
-        "这",
-        "面",
-        "镜子"
-      ],
-      "pinyin": [
-        "wǒ",
-        "zhēn de",
-        "hǎo",
-        "xǐ​huan",
-        "zhè",
-        "miàn",
-        "jìng​zi"
-      ]
+      "hanzi": ["我", "真的", "好", "喜欢", "这", "面", "镜子"],
+      "pinyin": ["wǒ", "zhēn de", "hǎo", "xǐ​huan", "zhè", "miàn", "jìng​zi"]
     }
   },
   {
@@ -2846,24 +1790,8 @@
     "end": 369787,
     "captions": {
       "en": "and here is my dresser",
-      "hanzi": [
-        "这边",
-        "呢",
-        "，",
-        "就是",
-        "我",
-        "的",
-        "衣柜"
-      ],
-      "pinyin": [
-        "zhè​biān",
-        "ne",
-        ",",
-        "jiù​shì",
-        "wǒ",
-        "de",
-        "yī​guì"
-      ]
+      "hanzi": ["这边", "呢", "，", "就是", "我", "的", "衣柜"],
+      "pinyin": ["zhè​biān", "ne", ",", "jiù​shì", "wǒ", "de", "yī​guì"]
     }
   },
   {
@@ -2871,24 +1799,8 @@
     "end": 372280,
     "captions": {
       "en": "I've got four spaces in my dresser for me to put stuff in",
-      "hanzi": [
-        "有",
-        "四个",
-        "空间",
-        "可以",
-        "给",
-        "我",
-        "收纳"
-      ],
-      "pinyin": [
-        "yǒu",
-        "sì gè",
-        "kōng​jiān",
-        "kě​yǐ",
-        "gěi",
-        "wǒ",
-        "shōu​nà"
-      ]
+      "hanzi": ["有", "四个", "空间", "可以", "给", "我", "收纳"],
+      "pinyin": ["yǒu", "sì gè", "kōng​jiān", "kě​yǐ", "gěi", "wǒ", "shōu​nà"]
     }
   },
   {
@@ -2896,24 +1808,8 @@
     "end": 375561,
     "captions": {
       "en": "um, just some clothes over here.",
-      "hanzi": [
-        "嗯",
-        "，",
-        "这边",
-        "就是",
-        "放",
-        "一些",
-        "衣服"
-      ],
-      "pinyin": [
-        "ēn",
-        ",",
-        "zhè​biān",
-        "jiù​shì",
-        "fàng",
-        "yī​xiē",
-        "yī​fu"
-      ]
+      "hanzi": ["嗯", "，", "这边", "就是", "放", "一些", "衣服"],
+      "pinyin": ["ēn", ",", "zhè​biān", "jiù​shì", "fàng", "yī​xiē", "yī​fu"]
     }
   },
   {
@@ -2921,17 +1817,7 @@
     "end": 379707,
     "captions": {
       "en": "My sports shirts and thermal tops",
-      "hanzi": [
-        "我",
-        "的",
-        "运动衣",
-        "，",
-        "还有",
-        "冬天",
-        "的",
-        "发热",
-        "衣"
-      ],
+      "hanzi": ["我", "的", "运动衣", "，", "还有", "冬天", "的", "发热", "衣"],
       "pinyin": [
         "wǒ",
         "de",
@@ -2950,16 +1836,8 @@
     "end": 381482,
     "captions": {
       "en": "and some pants",
-      "hanzi": [
-        "还有",
-        "一些",
-        "裤子"
-      ],
-      "pinyin": [
-        "hái​yǒu",
-        "yī​xiē",
-        "kù​zi"
-      ]
+      "hanzi": ["还有", "一些", "裤子"],
+      "pinyin": ["hái​yǒu", "yī​xiē", "kù​zi"]
     }
   },
   {
@@ -2967,24 +1845,8 @@
     "end": 383596,
     "captions": {
       "en": "Here's some…",
-      "hanzi": [
-        "这",
-        "下面",
-        "就是",
-        "一些",
-        ".",
-        ".",
-        "."
-      ],
-      "pinyin": [
-        "zhè",
-        "xià​miàn",
-        "jiù​shì",
-        "yī​xiē",
-        ".",
-        ".",
-        "."
-      ]
+      "hanzi": ["这", "下面", "就是", "一些", ".", ".", "."],
+      "pinyin": ["zhè", "xià​miàn", "jiù​shì", "yī​xiē", ".", ".", "."]
     }
   },
   {
@@ -2992,18 +1854,8 @@
     "end": 385000,
     "captions": {
       "en": "also some random things",
-      "hanzi": [
-        "也",
-        "是",
-        "一些",
-        "杂物"
-      ],
-      "pinyin": [
-        "yě",
-        "shì",
-        "yī​xiē",
-        "zá​wù"
-      ]
+      "hanzi": ["也", "是", "一些", "杂物"],
+      "pinyin": ["yě", "shì", "yī​xiē", "zá​wù"]
     }
   },
   {
@@ -3040,24 +1892,8 @@
     "end": 390548,
     "captions": {
       "en": "I haven't used this drawer",
-      "hanzi": [
-        "所以",
-        "这",
-        "一",
-        "格",
-        "还",
-        "没有",
-        "用到"
-      ],
-      "pinyin": [
-        "suǒ​yǐ",
-        "zhè",
-        "yī",
-        "gé",
-        "hái",
-        "méi​yǒu",
-        "yòng dào"
-      ]
+      "hanzi": ["所以", "这", "一", "格", "还", "没有", "用到"],
+      "pinyin": ["suǒ​yǐ", "zhè", "yī", "gé", "hái", "méi​yǒu", "yòng dào"]
     }
   },
   {
@@ -3135,24 +1971,8 @@
     "end": 398859,
     "captions": {
       "en": "but I haven't used them yet",
-      "hanzi": [
-        "不过",
-        "我",
-        "还",
-        "没有",
-        "用",
-        "过",
-        "它"
-      ],
-      "pinyin": [
-        "bù​guò",
-        "wǒ",
-        "hái",
-        "méi​yǒu",
-        "yòng",
-        "guò",
-        "tā"
-      ]
+      "hanzi": ["不过", "我", "还", "没有", "用", "过", "它"],
+      "pinyin": ["bù​guò", "wǒ", "hái", "méi​yǒu", "yòng", "guò", "tā"]
     }
   },
   {
@@ -3160,15 +1980,7 @@
     "end": 401419,
     "captions": {
       "en": "so I don't know how well it works",
-      "hanzi": [
-        "所以",
-        "不",
-        "知道",
-        "它",
-        "的",
-        "效果",
-        "怎么样"
-      ],
+      "hanzi": ["所以", "不", "知道", "它", "的", "效果", "怎么样"],
       "pinyin": [
         "suǒ​yǐ",
         "bù",
@@ -3185,16 +1997,7 @@
     "end": 405195,
     "captions": {
       "en": "And there are some decorations on top of the dresser",
-      "hanzi": [
-        "然后",
-        "衣柜",
-        "上面",
-        "就是",
-        "一些",
-        "小",
-        "摆",
-        "饰"
-      ],
+      "hanzi": ["然后", "衣柜", "上面", "就是", "一些", "小", "摆", "饰"],
       "pinyin": [
         "rán​hòu",
         "yī​guì",
@@ -3212,24 +2015,8 @@
     "end": 407693,
     "captions": {
       "en": "I bought this at Goodwill",
-      "hanzi": [
-        "这个",
-        "是",
-        "我",
-        "在",
-        "Goodwill",
-        "买",
-        "的"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "shì",
-        "wǒ",
-        "zài",
-        "Goodwill",
-        "mǎi",
-        "de"
-      ]
+      "hanzi": ["这个", "是", "我", "在", "Goodwill", "买", "的"],
+      "pinyin": ["zhè​ge", "shì", "wǒ", "zài", "Goodwill", "mǎi", "de"]
     }
   },
   {
@@ -3237,20 +2024,8 @@
     "end": 408954,
     "captions": {
       "en": "I think it's pretty cute",
-      "hanzi": [
-        "我",
-        "觉得",
-        "满",
-        "可爱",
-        "的"
-      ],
-      "pinyin": [
-        "wǒ",
-        "jué​de",
-        "mǎn",
-        "kě​'ài",
-        "de"
-      ]
+      "hanzi": ["我", "觉得", "满", "可爱", "的"],
+      "pinyin": ["wǒ", "jué​de", "mǎn", "kě​'ài", "de"]
     }
   },
   {
@@ -3258,12 +2033,8 @@
     "end": 410494,
     "captions": {
       "en": "Cactus",
-      "hanzi": [
-        "仙人掌"
-      ],
-      "pinyin": [
-        "xiān​rén​zhǎng"
-      ]
+      "hanzi": ["仙人掌"],
+      "pinyin": ["xiān​rén​zhǎng"]
     }
   },
   {
@@ -3271,16 +2042,7 @@
     "end": 413422,
     "captions": {
       "en": "My roommate picked this up for me",
-      "hanzi": [
-        "这个",
-        "是",
-        "我",
-        "室友",
-        "帮",
-        "我",
-        "捡回来",
-        "的"
-      ],
+      "hanzi": ["这个", "是", "我", "室友", "帮", "我", "捡回来", "的"],
       "pinyin": [
         "zhè​ge",
         "shì",
@@ -3298,16 +2060,7 @@
     "end": 416171,
     "captions": {
       "en": "I also bought this one at Goodwill",
-      "hanzi": [
-        "上面",
-        "这个",
-        "也",
-        "是",
-        "在",
-        "Goodwill",
-        "买",
-        "的"
-      ],
+      "hanzi": ["上面", "这个", "也", "是", "在", "Goodwill", "买", "的"],
       "pinyin": [
         "shàng​miàn",
         "zhè​ge",
@@ -3325,20 +2078,8 @@
     "end": 418080,
     "captions": {
       "en": "It’s a reed diffuser in the back",
-      "hanzi": [
-        "后面",
-        "是",
-        "扩",
-        "香",
-        "瓶"
-      ],
-      "pinyin": [
-        "hòu​miàn",
-        "shì",
-        "kuò",
-        "xiāng",
-        "píng"
-      ]
+      "hanzi": ["后面", "是", "扩", "香", "瓶"],
+      "pinyin": ["hòu​miàn", "shì", "kuò", "xiāng", "píng"]
     }
   },
   {
@@ -3416,16 +2157,7 @@
     "end": 425946,
     "captions": {
       "en": "I felt like there was a kind of weird smell",
-      "hanzi": [
-        "我",
-        "觉得",
-        "有",
-        "一股",
-        "很",
-        "奇怪",
-        "的",
-        "味道"
-      ],
+      "hanzi": ["我", "觉得", "有", "一股", "很", "奇怪", "的", "味道"],
       "pinyin": [
         "wǒ",
         "jué​de",
@@ -3476,24 +2208,8 @@
     "end": 430384,
     "captions": {
       "en": "and now the problem is solved",
-      "hanzi": [
-        "现在",
-        "就",
-        "解决",
-        "了",
-        "这个",
-        "问题",
-        "了"
-      ],
-      "pinyin": [
-        "xiàn​zài",
-        "jiù",
-        "jiě​jué",
-        "le",
-        "zhè​ge",
-        "wèn​tí",
-        "le"
-      ]
+      "hanzi": ["现在", "就", "解决", "了", "这个", "问题", "了"],
+      "pinyin": ["xiàn​zài", "jiù", "jiě​jué", "le", "zhè​ge", "wèn​tí", "le"]
     }
   },
   {
@@ -3501,15 +2217,7 @@
     "end": 432640,
     "captions": {
       "en": "I love the smell of the room now",
-      "hanzi": [
-        "我",
-        "很",
-        "喜欢",
-        "现在",
-        "房间",
-        "的",
-        "味道"
-      ],
+      "hanzi": ["我", "很", "喜欢", "现在", "房间", "的", "味道"],
       "pinyin": [
         "wǒ",
         "hěn",
@@ -3559,14 +2267,8 @@
     "end": 436839,
     "captions": {
       "en": "This!",
-      "hanzi": [
-        "这个",
-        "！"
-      ],
-      "pinyin": [
-        "zhè​ge",
-        "!"
-      ]
+      "hanzi": ["这个", "！"],
+      "pinyin": ["zhè​ge", "!"]
     }
   },
   {
@@ -3574,24 +2276,8 @@
     "end": 438800,
     "captions": {
       "en": "because it's the first letter of “Grace”,",
-      "hanzi": [
-        "因为",
-        "他",
-        "是",
-        "Grace",
-        "的",
-        "开头",
-        "字母"
-      ],
-      "pinyin": [
-        "yīn​wèi",
-        "tā",
-        "shì",
-        "Grace",
-        "de",
-        "kāi​tóu",
-        "zì​mǔ"
-      ]
+      "hanzi": ["因为", "他", "是", "Grace", "的", "开头", "字母"],
+      "pinyin": ["yīn​wèi", "tā", "shì", "Grace", "de", "kāi​tóu", "zì​mǔ"]
     }
   },
   {
@@ -3632,18 +2318,8 @@
     "end": 443703,
     "captions": {
       "en": "so I bought it",
-      "hanzi": [
-        "所以",
-        "就",
-        "买下来",
-        "了"
-      ],
-      "pinyin": [
-        "suǒ​yǐ",
-        "jiù",
-        "mǎi xià lái",
-        "le"
-      ]
+      "hanzi": ["所以", "就", "买下来", "了"],
+      "pinyin": ["suǒ​yǐ", "jiù", "mǎi xià lái", "le"]
     }
   },
   {
@@ -3651,16 +2327,7 @@
     "end": 446809,
     "captions": {
       "en": "And then this is another fake plant",
-      "hanzi": [
-        "然后",
-        "这个",
-        "又",
-        "是",
-        "一株",
-        "假",
-        "的",
-        "植物"
-      ],
+      "hanzi": ["然后", "这个", "又", "是", "一株", "假", "的", "植物"],
       "pinyin": [
         "rán​hòu",
         "zhè​ge",
@@ -3678,15 +2345,7 @@
     "end": 449655,
     "captions": {
       "en": "because I'm really bad at taking care of plants",
-      "hanzi": [
-        "因为",
-        "我",
-        "真的",
-        "很",
-        "不会",
-        "照顾",
-        "植物"
-      ],
+      "hanzi": ["因为", "我", "真的", "很", "不会", "照顾", "植物"],
       "pinyin": [
         "yīn​wèi",
         "wǒ",
@@ -3703,17 +2362,7 @@
     "end": 452306,
     "captions": {
       "en": "I often forget to water plants when I’m busy",
-      "hanzi": [
-        "因为",
-        "我",
-        "常常",
-        "可能",
-        "会",
-        "忙",
-        "到",
-        "忘记",
-        "浇水"
-      ],
+      "hanzi": ["因为", "我", "常常", "可能", "会", "忙", "到", "忘记", "浇水"],
       "pinyin": [
         "yīn​wèi",
         "wǒ",
@@ -3777,24 +2426,8 @@
     "end": 457237,
     "captions": {
       "en": "That's all for my room tour",
-      "hanzi": [
-        "以上",
-        "就是",
-        "我",
-        "的",
-        "room",
-        " ",
-        "tour"
-      ],
-      "pinyin": [
-        "yǐ​shàng",
-        "jiù​shì",
-        "wǒ",
-        "de",
-        "room",
-        " ",
-        "tour"
-      ]
+      "hanzi": ["以上", "就是", "我", "的", "room", " ", "tour"],
+      "pinyin": ["yǐ​shàng", "jiù​shì", "wǒ", "de", "room", " ", "tour"]
     }
   },
   {
@@ -3802,22 +2435,8 @@
     "end": 458992,
     "captions": {
       "en": "Even though my room isn't very big,",
-      "hanzi": [
-        "我",
-        "的",
-        "房间",
-        "虽然",
-        "没有",
-        "很大"
-      ],
-      "pinyin": [
-        "wǒ",
-        "de",
-        "fáng​jiān",
-        "suī​rán",
-        "méi​yǒu",
-        "hěn dà"
-      ]
+      "hanzi": ["我", "的", "房间", "虽然", "没有", "很大"],
+      "pinyin": ["wǒ", "de", "fáng​jiān", "suī​rán", "méi​yǒu", "hěn dà"]
     }
   },
   {
@@ -3825,16 +2444,7 @@
     "end": 461280,
     "captions": {
       "en": "I really like the layout",
-      "hanzi": [
-        "但是",
-        "我",
-        "真的",
-        "很",
-        "喜欢",
-        "它",
-        "的",
-        "格局"
-      ],
+      "hanzi": ["但是", "我", "真的", "很", "喜欢", "它", "的", "格局"],
       "pinyin": [
         "dàn​shì",
         "wǒ",
@@ -3852,17 +2462,7 @@
     "end": 464736,
     "captions": {
       "en": "Especially since I have a window in front of my desk",
-      "hanzi": [
-        "尤其",
-        "是",
-        "我",
-        "的",
-        "书桌",
-        "前面",
-        "有",
-        "一扇",
-        "窗户"
-      ],
+      "hanzi": ["尤其", "是", "我", "的", "书桌", "前面", "有", "一扇", "窗户"],
       "pinyin": [
         "yóu​qí",
         "shì",
@@ -3881,24 +2481,8 @@
     "end": 466349,
     "captions": {
       "en": "which is really convenient for",
-      "hanzi": [
-        "对于",
-        "要",
-        "拍",
-        "影片",
-        "的",
-        "我",
-        "来说"
-      ],
-      "pinyin": [
-        "duì​yú",
-        "yào",
-        "pāi",
-        "yǐng​piàn",
-        "de",
-        "wǒ",
-        "lái shuō"
-      ]
+      "hanzi": ["对于", "要", "拍", "影片", "的", "我", "来说"],
+      "pinyin": ["duì​yú", "yào", "pāi", "yǐng​piàn", "de", "wǒ", "lái shuō"]
     }
   },
   {
@@ -3906,22 +2490,8 @@
     "end": 468475,
     "captions": {
       "en": "shooting videos",
-      "hanzi": [
-        "这",
-        "真的",
-        "是",
-        "非常",
-        "地方",
-        "便"
-      ],
-      "pinyin": [
-        "zhè",
-        "zhēn de",
-        "shì",
-        "fēi​cháng",
-        "dì​fāng",
-        "biàn"
-      ]
+      "hanzi": ["这", "真的", "是", "非常", "地方", "便"],
+      "pinyin": ["zhè", "zhēn de", "shì", "fēi​cháng", "dì​fāng", "biàn"]
     }
   },
   {
@@ -3929,22 +2499,8 @@
     "end": 470523,
     "captions": {
       "en": "If I film videos in the morning,",
-      "hanzi": [
-        "因为",
-        "如果",
-        "是",
-        "早上",
-        "拍摄",
-        "的话"
-      ],
-      "pinyin": [
-        "yīn​wèi",
-        "rú​guǒ",
-        "shì",
-        "zǎo​shang",
-        "pāi​shè",
-        "de​huà"
-      ]
+      "hanzi": ["因为", "如果", "是", "早上", "拍摄", "的话"],
+      "pinyin": ["yīn​wèi", "rú​guǒ", "shì", "zǎo​shang", "pāi​shè", "de​huà"]
     }
   },
   {
@@ -3952,26 +2508,8 @@
     "end": 472315,
     "captions": {
       "en": "I don't need to set up any lighting",
-      "hanzi": [
-        "我",
-        "就",
-        "不",
-        "需要",
-        "特别",
-        "地",
-        "补",
-        "光"
-      ],
-      "pinyin": [
-        "wǒ",
-        "jiù",
-        "bù",
-        "xū​yào",
-        "tè​bié",
-        "dì",
-        "bǔ",
-        "guāng"
-      ]
+      "hanzi": ["我", "就", "不", "需要", "特别", "地", "补", "光"],
+      "pinyin": ["wǒ", "jiù", "bù", "xū​yào", "tè​bié", "dì", "bǔ", "guāng"]
     }
   },
   {
@@ -4010,14 +2548,8 @@
     "end": 476963,
     "captions": {
       "en": "Anyway",
-      "hanzi": [
-        "总而言之",
-        "呢"
-      ],
-      "pinyin": [
-        "zǒng​'ér​yán​zhī",
-        "ne"
-      ]
+      "hanzi": ["总而言之", "呢"],
+      "pinyin": ["zǒng​'ér​yán​zhī", "ne"]
     }
   },
   {
@@ -4025,24 +2557,8 @@
     "end": 479169,
     "captions": {
       "en": "I'm really happy with the room",
-      "hanzi": [
-        "就是",
-        "我",
-        "对",
-        "这个",
-        "房间",
-        "很",
-        "满意"
-      ],
-      "pinyin": [
-        "jiù​shì",
-        "wǒ",
-        "duì",
-        "zhè​ge",
-        "fáng​jiān",
-        "hěn",
-        "mǎn​yì"
-      ]
+      "hanzi": ["就是", "我", "对", "这个", "房间", "很", "满意"],
+      "pinyin": ["jiù​shì", "wǒ", "duì", "zhè​ge", "fáng​jiān", "hěn", "mǎn​yì"]
     }
   },
   {
@@ -4050,22 +2566,8 @@
     "end": 481665,
     "captions": {
       "en": "And the rent is actually pretty cheap",
-      "hanzi": [
-        "而且",
-        "这边",
-        "租金",
-        "其实",
-        "很",
-        "便宜"
-      ],
-      "pinyin": [
-        "ér​qiě",
-        "zhè​biān",
-        "zū​jīn",
-        "qí​shí",
-        "hěn",
-        "pián​yi"
-      ]
+      "hanzi": ["而且", "这边", "租金", "其实", "很", "便宜"],
+      "pinyin": ["ér​qiě", "zhè​biān", "zū​jīn", "qí​shí", "hěn", "pián​yi"]
     }
   },
   {
@@ -4073,17 +2575,7 @@
     "end": 484609,
     "captions": {
       "en": "I think overall it’s pretty worth it",
-      "hanzi": [
-        "我",
-        "觉得",
-        "整体",
-        "来说",
-        "cp",
-        "值",
-        "满",
-        "高",
-        "的"
-      ],
+      "hanzi": ["我", "觉得", "整体", "来说", "cp", "值", "满", "高", "的"],
       "pinyin": [
         "wǒ",
         "jué​de",
@@ -4102,18 +2594,8 @@
     "end": 485564,
     "captions": {
       "en": "There are just some minor issues",
-      "hanzi": [
-        "但是",
-        "有些",
-        "小",
-        "问题"
-      ],
-      "pinyin": [
-        "dàn​shì",
-        "yǒu​xiē",
-        "xiǎo",
-        "wèn​tí"
-      ]
+      "hanzi": ["但是", "有些", "小", "问题"],
+      "pinyin": ["dàn​shì", "yǒu​xiē", "xiǎo", "wèn​tí"]
     }
   },
   {
@@ -4152,20 +2634,8 @@
     "end": 490988,
     "captions": {
       "en": "Like, some things aren't working",
-      "hanzi": [
-        "有",
-        "一些",
-        "东西",
-        "故障",
-        "啊"
-      ],
-      "pinyin": [
-        "yǒu",
-        "yī​xiē",
-        "dōng​xi",
-        "gù​zhàng",
-        "a"
-      ]
+      "hanzi": ["有", "一些", "东西", "故障", "啊"],
+      "pinyin": ["yǒu", "yī​xiē", "dōng​xi", "gù​zhàng", "a"]
     }
   },
   {
@@ -4173,18 +2643,8 @@
     "end": 493333,
     "captions": {
       "en": "and a faucet is leaking, etc.",
-      "hanzi": [
-        "还有",
-        "水龙头",
-        "漏水",
-        "等等"
-      ],
-      "pinyin": [
-        "hái​yǒu",
-        "shuǐ​lóng​tóu",
-        "lòu​shuǐ",
-        "děng​děng"
-      ]
+      "hanzi": ["还有", "水龙头", "漏水", "等等"],
+      "pinyin": ["hái​yǒu", "shuǐ​lóng​tóu", "lòu​shuǐ", "děng​děng"]
     }
   },
   {
@@ -4192,24 +2652,8 @@
     "end": 495573,
     "captions": {
       "en": "We need to take care of them",
-      "hanzi": [
-        "是",
-        "需要",
-        "特别",
-        "去",
-        "处理",
-        "一下",
-        "的"
-      ],
-      "pinyin": [
-        "shì",
-        "xū​yào",
-        "tè​bié",
-        "qù",
-        "chǔ​lǐ",
-        "yī​xià",
-        "de"
-      ]
+      "hanzi": ["是", "需要", "特别", "去", "处理", "一下", "的"],
+      "pinyin": ["shì", "xū​yào", "tè​bié", "qù", "chǔ​lǐ", "yī​xià", "de"]
     }
   },
   {
@@ -4217,20 +2661,8 @@
     "end": 496992,
     "captions": {
       "en": "but here there's a system where I can report issues",
-      "hanzi": [
-        "但是",
-        "他们",
-        "这边",
-        "可以",
-        "报修"
-      ],
-      "pinyin": [
-        "dàn​shì",
-        "tā​men",
-        "zhè​biān",
-        "kě​yǐ",
-        "bào xiū"
-      ]
+      "hanzi": ["但是", "他们", "这边", "可以", "报修"],
+      "pinyin": ["dàn​shì", "tā​men", "zhè​biān", "kě​yǐ", "bào xiū"]
     }
   },
   {
@@ -4238,20 +2670,8 @@
     "end": 498680,
     "captions": {
       "en": "and a staff member will come and fix things",
-      "hanzi": [
-        "会",
-        "有",
-        "工作人员",
-        "来",
-        "处理"
-      ],
-      "pinyin": [
-        "huì",
-        "yǒu",
-        "gōng​zuò​rén​yuán",
-        "lái",
-        "chǔ​lǐ"
-      ]
+      "hanzi": ["会", "有", "工作人员", "来", "处理"],
+      "pinyin": ["huì", "yǒu", "gōng​zuò​rén​yuán", "lái", "chǔ​lǐ"]
     }
   },
   {
@@ -4288,22 +2708,8 @@
     "end": 504424,
     "captions": {
       "en": "There aren't very big issues",
-      "hanzi": [
-        "没有",
-        "什么",
-        "太",
-        "大",
-        "的",
-        "问题"
-      ],
-      "pinyin": [
-        "méi​yǒu",
-        "shén​me",
-        "tài",
-        "dà",
-        "de",
-        "wèn​tí"
-      ]
+      "hanzi": ["没有", "什么", "太", "大", "的", "问题"],
+      "pinyin": ["méi​yǒu", "shén​me", "tài", "dà", "de", "wèn​tí"]
     }
   },
   {
@@ -4342,24 +2748,8 @@
     "end": 509040,
     "captions": {
       "en": "See you next time! Bye!",
-      "hanzi": [
-        "我们",
-        "下次",
-        "见",
-        "啰",
-        "！",
-        "拜拜",
-        "！"
-      ],
-      "pinyin": [
-        "wǒ​men",
-        "xià​cì",
-        "jiàn",
-        "luō",
-        "!",
-        "bái​bái",
-        "!"
-      ]
+      "hanzi": ["我们", "下次", "见", "啰", "！", "拜拜", "！"],
+      "pinyin": ["wǒ​men", "xià​cì", "jiàn", "luō", "!", "bái​bái", "!"]
     }
   }
 ]
