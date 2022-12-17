@@ -5,6 +5,7 @@ import GNK7rPdabu8 from './subtitles-GNK7rPdabu8.json';
 // eslint-disable-next-line camelcase
 import GVg6vRY_vzs from './subtitles-GVg6vRY_vzs.json';
 import irfd74z52Cw from './subtitles-irfd74z52Cw.json';
+import j76Gz3g41jM from './subtitles-j76Gz3g41jM.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
   jmoe4Fz0sBY: {
@@ -26,6 +27,11 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
     title: 'SK-II: Marriage Market Takeover',
     thumbnailUrl: 'http://i3.ytimg.com/vi/irfd74z52Cw/hqdefault.jpg',
     captions: irfd74z52Cw,
+  },
+  j76Gz3g41jM: {
+    title: '【Vlog in Chinese】Heading Back to Taiwan! feat. @ABChinese',
+    thumbnailUrl: 'http://i3.ytimg.com/vi/j76Gz3g41jM/hqdefault.jpg',
+    captions: j76Gz3g41jM,
   },
 };
 
