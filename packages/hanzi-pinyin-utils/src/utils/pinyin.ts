@@ -1,9 +1,9 @@
-import { isChineseText } from '@/utils/characters'
-import { PinyinDict } from '@/utils/pinyin-dict'
+import { isChineseText } from '@/utils/characters.js'
+import { PinyinDict } from '@/utils/pinyin-dict.js'
 
-import { getPinyinCharacter, shouldPutSpaceBetween } from '@/utils/pinyin-character'
-import { getNormalizedEnglishText } from '@/utils/punctuation'
-import { getHanziSegments } from '@/utils/segmentation'
+import { getPinyinCharacter, shouldPutSpaceBetween } from '@/utils/pinyin-character.js'
+import { getNormalizedEnglishText } from '@/utils/punctuation.js'
+import { getHanziSegments } from '@/utils/segmentation.js'
 
 interface Segments {
     hanzi: string[]

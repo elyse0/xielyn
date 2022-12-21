@@ -1,5 +1,5 @@
-import { getHanziSegments } from '@/utils/segmentation'
-import { getPinyin, getSegments } from '@/utils/pinyin'
+import { getHanziSegments } from '@/utils/segmentation.js'
+import { getPinyin, getSegments } from '@/utils/pinyin.js'
 
 export {
     getHanziSegments,

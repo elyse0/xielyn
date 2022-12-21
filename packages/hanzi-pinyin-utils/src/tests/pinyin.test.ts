@@ -1,4 +1,6 @@
-import { getPinyin } from '@/utils/pinyin'
+import { describe, expect, it } from 'vitest'
+
+import { getPinyin } from '@/utils/pinyin.js'
 
 describe('hanzi to pinyin', () => {
 

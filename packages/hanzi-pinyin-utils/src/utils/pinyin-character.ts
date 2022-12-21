@@ -1,8 +1,8 @@
-import { PinyinDict } from '@/utils/pinyin-dict'
+import { PinyinDict } from '@/utils/pinyin-dict.js'
 
-import { isChineseText } from '@/utils/characters'
-import { getHanziTags } from '@/utils/tags'
-import { getTone } from '@/utils/tones'
+import { isChineseText } from '@/utils/characters.js'
+import { getHanziTags } from '@/utils/tags.js'
+import { getTone } from '@/utils/tones.js'
 
 const getUnambiguousCharacter = (character: string, allSegments: string[], index: number): string | null => {
     const priorSegments = allSegments.slice(Math.max(0, index - 10), index);

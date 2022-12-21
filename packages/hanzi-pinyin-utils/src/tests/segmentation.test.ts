@@ -1,5 +1,7 @@
-import { getSegments } from '@/utils/pinyin'
-import { getHanziSegments } from '@/utils/segmentation'
+import { describe, expect, it } from 'vitest'
+
+import { getSegments } from '@/utils/pinyin.js'
+import { getHanziSegments } from '@/utils/segmentation.js'
 
 describe('hanzi segmentation', () => {
 
