@@ -261,6 +261,19 @@ importers:
       tsc-alias: 1.8.2
       typescript: 4.9.4
 
+  packages/vtt-to-json:
+    specifiers:
+      '@xielyng/youtube-api': workspace:^1.0.0
+      ts-results-es: ^3.5.0
+      tsc-alias: ^1.8.2
+      typescript: ^4.9.4
+    dependencies:
+      '@xielyng/youtube-api': link:../youtube-api
+      ts-results-es: 3.5.0
+    devDependencies:
+      tsc-alias: 1.8.2
+      typescript: 4.9.4
+
   packages/youtube-api:
     specifiers:
       tsc-alias: ^1.8.2

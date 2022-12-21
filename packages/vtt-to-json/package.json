@@ -1,0 +1,18 @@
+{
+  "name": "@xielyng/vtt-to-json",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && tsc-alias"
+  },
+  "dependencies": {
+    "@xielyng/youtube-api": "workspace:^1.0.0",
+    "ts-results-es": "^3.5.0"
+  },
+  "devDependencies": {
+    "tsc-alias": "^1.8.2",
+    "typescript": "^4.9.4"
+  }
+}
