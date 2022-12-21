@@ -55,7 +55,7 @@ const downloadMergedCaptions = async () => {
   const hanziPinyinCaptions = hanziPinyinCaptionsResult.val
   const mergedVideoCaptions = getMergedVideoCaptions([englishCaptions, ...hanziPinyinCaptions])
 
-  createJsonDownload(mergedVideoCaptions, 'merged-captions.json')
+  createJsonDownload(mergedVideoCaptions, `subtitles-${videoId.value}.json`)
 }
 
 const onClick = async () => {
