@@ -16,6 +16,7 @@
     "@xielyng/caption-service": "workspace:^1.0.0",
     "@xielyng/hanzi-pinyin-captions-service": "workspace:^1.0.0",
     "@xielyng/http-service": "workspace:^1.0.0",
+    "@xielyng/vtt-to-json": "workspace:^1.0.0",
     "@xielyng/youtube-api": "workspace:^1.0.0",
     "core-js": "^3.26.1",
     "file-saver": "^2.0.5",

@@ -9,6 +9,8 @@ const Vocabulary = () => import('@/pages/Vocabulary.vue');
 const YoutubeVideoViewer = () => import('@/pages/YoutubeVideoViewer.vue');
 const CaptionsMerger = () => import('@/pages/CaptionsMerger.vue');
 const CaptionsDownloader = () => import('@/pages/CaptionsDownloader.vue');
+const CaptionsVttToJson = () => import('@/pages/CaptionsVttToJson.vue');
+const CaptionsVtt = () => import('@/pages/CaptionsVtt.vue');
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -48,6 +50,16 @@ const routes: Array<RouteRecordRaw> = [
     path: '/captions-downloader',
     name: 'CaptionsDownloader',
     component: CaptionsDownloader,
+  },
+  {
+    path: '/captions-vtt-to-json',
+    name: 'CaptionsVttToJson',
+    component: CaptionsVttToJson,
+  },
+  {
+    path: '/captions-vtt',
+    name: 'CaptionsVtt',
+    component: CaptionsVtt,
   },
 ];
 
