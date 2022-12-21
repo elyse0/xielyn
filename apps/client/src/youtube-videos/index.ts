@@ -7,6 +7,7 @@ import GVg6vRY_vzs from './subtitles-GVg6vRY_vzs.json';
 import irfd74z52Cw from './subtitles-irfd74z52Cw.json';
 import j76Gz3g41jM from './subtitles-j76Gz3g41jM.json';
 import NxITmnGIl7E from './subtitles-NxITmnGIl7E.json';
+import R6r1B3Pxo_w from './subtitles-R6r1B3Pxo_w.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
   jmoe4Fz0sBY: {
@@ -38,6 +39,12 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
       title: '【Mandarin VLOG】Helloooo Chicago!',
       thumbnailUrl: 'http://i3.ytimg.com/vi/NxITmnGIl7E/hqdefault.jpg',
       captions: NxITmnGIl7E,
+  },
+  R6r1B3Pxo_w: {
+    title: 'You Are My Glory - EP14',
+    thumbnailUrl: 'http://i3.ytimg.com/vi/R6r1B3Pxo_w/hqdefault.jpg',
+    captions: R6r1B3Pxo_w,
+    offset: 17321,
   },
 };
 
