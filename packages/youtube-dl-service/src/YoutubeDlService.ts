@@ -4,16 +4,15 @@
  * SPDX-License-Identifier: MIT
  */
 
-import { createReadStream, unlinkSync } from 'fs'
-import { createInterface } from 'readline'
+import { readFileSync, unlinkSync } from 'fs'
 import { execSync } from 'child_process'
 import crypto from 'crypto'
 import path from 'path'
 
 import { Err, Ok, Result } from 'ts-results-es'
-import { Caption } from '@xielyng/youtube-api'
 
-import { timeToMs } from '@/util/time.js'
+import { Caption } from '@xielyng/youtube-api'
+import { vttToJson } from '@xielyng/vtt-to-json'
 
 interface Options {
     executable?: string;
@@ -88,50 +87,12 @@ class YoutubeDlService {
             ).toString();
 
             const fullFilePath = `${filePath}.${language}.vtt`;
-
-            const readline = createInterface({
-                input: createReadStream(fullFilePath),
-                crlfDelay: Infinity,
-            });
-
-            const captions: Caption[] = [];
-            let currentCaption: Caption | undefined;
-
-            for await (const line of readline) {
-                const trimmedLine = line.trim();
-                const captionTimestamp = trimmedLine.match(
-                    /^(\d{2}:\d{2}:\d{2}\.\d{3}) --> (\d{2}:\d{2}:\d{2}\.\d{3})/,
-                );
-
-                if (captionTimestamp) {
-                    currentCaption = {
-                        text: '',
-                        start: timeToMs(captionTimestamp[ 1 ]),
-                        end: timeToMs(captionTimestamp[ 2 ]),
-                    };
-                    continue;
-                }
-
-                if (currentCaption) {
-                    if (trimmedLine) {
-                        currentCaption.text += `${currentCaption.text} ${trimmedLine}`.trim();
-                    } else {
-                        captions.push(currentCaption);
-                        currentCaption = undefined;
-                    }
-                }
-            }
-
-            if (!captions.length) {
-                return Err({
-                    message: "Couldn't find captions",
-                });
-            }
+            const captions = vttToJson(readFileSync(fullFilePath).toString())
 
             // Delete file
             unlinkSync(fullFilePath);
 
-            return Ok(captions);
+            return captions;
         } catch (e) {
             return Err({
                 message: "Couldn't execute command",
