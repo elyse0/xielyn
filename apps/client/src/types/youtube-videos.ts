@@ -12,4 +12,5 @@ export interface YoutubeVideo {
   title: string,
   captions: Caption[]
   thumbnailUrl?: string,
+  offset?: number,
 }

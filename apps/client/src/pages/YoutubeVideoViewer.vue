@@ -41,7 +41,9 @@ const youtubeVideo = ref(YoutubeVideos[videoId.value]);
 const currentTime = ref(0);
 
 const currentSubtitle = computed(() => {
-  const currentTimeMs = currentTime.value * 1000;
+  const offset = youtubeVideo.value.offset ?? 0
+
+  const currentTimeMs = (currentTime.value * 1000) - offset;
   const subtitle = youtubeVideo.value.captions.filter((caption) => currentTimeMs > caption.start && currentTimeMs < caption.end);
 
   return subtitle.length ? subtitle[0] : {};
