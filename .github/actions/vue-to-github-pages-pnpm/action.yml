@@ -33,7 +33,7 @@ runs:
       run: |
         npm install -g pnpm
         pnpm install
-        pnpx turbo run build
+        pnpx turbo run build --filter=@xielyng/client
         cd apps/client/dist
         ln -s index.html 404.html
         git config --global user.email "${{ inputs.gitemail }}"
