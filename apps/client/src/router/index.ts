@@ -18,7 +18,7 @@ const routes: Array<RouteRecordRaw> = [
     name: 'Homepage',
     component: Homepage,
     meta: {
-      title: 'Xielyng | Mandaring learning',
+      title: 'Sophire | Languages learning',
     },
   },
   {

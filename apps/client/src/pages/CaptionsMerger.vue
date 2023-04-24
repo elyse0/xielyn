@@ -38,7 +38,7 @@ import { reactive } from 'vue'
 import AppLayout from '@/components/layout/AppLayout.vue'
 import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'
 
-import { getMergedVideoCaptions } from '@xielyng/caption-merger'
+import { getMergedVideoCaptions } from '@sophire/caption-merger'
 
 import { createJsonDownload, getContentAsString } from '@/util/files'
 

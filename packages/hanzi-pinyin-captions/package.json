@@ -1,5 +1,5 @@
 {
-  "name": "@xielyng/hanzi-pinyin-captions",
+  "name": "@sophire/hanzi-pinyin-captions",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@elyse0/hanzi-tools": "^1.0.9",
-    "@xielyng/hanzi-pinyin-utils": "workspace:^1.0.0",
-    "@xielyng/youtube-api": "workspace:^1.0.0"
+    "@sophire/hanzi-pinyin-utils": "workspace:^1.0.0",
+    "@sophire/youtube-api": "workspace:^1.0.0"
   },
   "devDependencies": {
     "tsc-alias": "^1.8.2",

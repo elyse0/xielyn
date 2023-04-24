@@ -1,5 +1,5 @@
 import express from "express";
-import { YoutubeDlService } from "@xielyng/youtube-dl-service"
+import { YoutubeDlService } from "@sophire/youtube-dl-service"
 
 import AbstractController from "@/modules/abstract/AbstractController.js";
 

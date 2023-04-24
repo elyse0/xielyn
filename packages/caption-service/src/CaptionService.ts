@@ -1,7 +1,7 @@
 import { Err, Ok, Result } from 'ts-results-es'
 
-import { HttpError, HttpService } from '@xielyng/http-service'
-import { VideoCaptions } from '@xielyng/youtube-api'
+import { HttpError, HttpService } from '@sophire/http-service'
+import { VideoCaptions } from '@sophire/youtube-api'
 
 class CaptionService {
     private static youtubeUrl = 'https://youtube-subtitles-zjlkubqtfa-uc.a.run.app';

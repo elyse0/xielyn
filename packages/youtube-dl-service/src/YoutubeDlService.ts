@@ -11,8 +11,8 @@ import path from 'path'
 
 import { Err, Ok, Result } from 'ts-results-es'
 
-import { Caption } from '@xielyng/youtube-api'
-import { vttToJson } from '@xielyng/vtt-to-json'
+import { Caption } from '@sophire/youtube-api'
+import { vttToJson } from '@sophire/vtt-to-json'
 
 interface Options {
     executable?: string;

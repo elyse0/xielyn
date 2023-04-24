@@ -1,5 +1,5 @@
 {
-  "name": "@xielyng/hanzi-pinyin-utils",
+  "name": "@sophire/hanzi-pinyin-utils",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",

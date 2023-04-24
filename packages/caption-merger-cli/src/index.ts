@@ -2,7 +2,7 @@ import enquirer from 'enquirer'
 
 import { readFileSync } from 'fs'
 
-import { getMergedVideoCaptions } from '@xielyng/caption-merger'
+import { getMergedVideoCaptions } from '@sophire/caption-merger'
 import { writeJsonFile } from '@/util/json.js'
 
 const main = async () => {

@@ -2,7 +2,7 @@ import express from "express";
 
 import AbstractController from "@/modules/abstract/AbstractController.js";
 
-import { getHanziPinyinCaptions } from '@xielyng/hanzi-pinyin-captions'
+import { getHanziPinyinCaptions } from '@sophire/hanzi-pinyin-captions'
 
 class GenerateHanziPinyinCaptionsController extends AbstractController {
 

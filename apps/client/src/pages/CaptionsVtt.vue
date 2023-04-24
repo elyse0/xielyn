@@ -25,11 +25,11 @@
 </template>
 
 <script setup lang="ts">
-import XielyngApiService from '@/services/XielyngApiService'
-import { getMergedVideoCaptions } from '@xielyng/caption-merger'
+import SophireApiService from '@/services/SophireApiService'
+import { getMergedVideoCaptions } from '@sophire/caption-merger'
 import { reactive } from 'vue'
 
-import { vttToJson } from '@xielyng/vtt-to-json'
+import { vttToJson } from '@sophire/vtt-to-json'
 
 import AppLayout from '@/components/layout/AppLayout.vue'
 import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'
@@ -79,7 +79,7 @@ const onClick = async () => {
     return
   }
 
-  const hanziPinyinCaptionsResult = await XielyngApiService.getHanziPinyinCaptions({
+  const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions({
     languageId: 'hanzi',
     captions: hanziJsonFile.val,
   })

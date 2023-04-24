@@ -4,7 +4,7 @@
       <router-link to="/">
         <img
           src="https://xielyng.s3.fr-par.scw.cloud/logo.png"
-          alt="Xielyng logo"
+          alt="Sophire logo"
           width="50"
         >
       </router-link>

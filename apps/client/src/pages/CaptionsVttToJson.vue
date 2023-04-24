@@ -19,7 +19,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-import { vttToJson } from '@xielyng/vtt-to-json'
+import { vttToJson } from '@sophire/vtt-to-json'
 
 import AppLayout from '@/components/layout/AppLayout.vue'
 import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'

@@ -1,5 +1,5 @@
 {
-  "name": "@xielyng/vtt-to-json",
+  "name": "@sophire/vtt-to-json",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,7 @@
     "build": "tsc && tsc-alias"
   },
   "dependencies": {
-    "@xielyng/youtube-api": "workspace:^1.0.0",
+    "@sophire/youtube-api": "workspace:^1.0.0",
     "ts-results-es": "^3.5.0"
   },
   "devDependencies": {

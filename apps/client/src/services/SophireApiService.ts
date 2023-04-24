@@ -1,11 +1,11 @@
 import { Err, Ok, Result } from 'ts-results-es'
 
-import { VideoCaptions } from '@xielyng/youtube-api'
-import { HttpService, HttpError } from '@xielyng/http-service'
+import { VideoCaptions } from '@sophire/youtube-api'
+import { HttpService, HttpError } from '@sophire/http-service'
 
 import envConfig from '@/config/env'
 
-class XielyngApiService {
+class SophireApiService {
     private static apiUrl = envConfig.apiServiceUrl;
 
     static async getAvailableYoutubeCaptions(videoId: string): Promise<Result<string[], HttpError>> {
@@ -34,4 +34,4 @@ class XielyngApiService {
     }
 }
 
-export default XielyngApiService
+export default SophireApiService

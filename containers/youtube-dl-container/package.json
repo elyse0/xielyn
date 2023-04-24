@@ -1,5 +1,5 @@
 {
-  "name": "@xielyng/youtube-dl-container",
+  "name": "@sophire/youtube-dl-container",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -7,7 +7,7 @@
     "dev": "ts-node -r tsconfig-paths/register src/index.ts"
   },
   "dependencies": {
-    "@xielyng/youtube-dl-service": "workspace:^1.0.0",
+    "@sophire/youtube-dl-service": "workspace:^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.18.2"
   },

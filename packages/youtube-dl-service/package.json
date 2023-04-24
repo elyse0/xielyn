@@ -1,5 +1,5 @@
 {
-  "name": "@xielyng/youtube-dl-service",
+  "name": "@sophire/youtube-dl-service",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,8 +8,8 @@
     "build": "tsc && tsc-alias"
   },
   "dependencies": {
-    "@xielyng/vtt-to-json": "workspace:^1.0.0",
-    "@xielyng/youtube-api": "workspace:^1.0.0",
+    "@sophire/vtt-to-json": "workspace:^1.0.0",
+    "@sophire/youtube-api": "workspace:^1.0.0",
     "ts-results-es": "^3.5.0"
   },
   "devDependencies": {

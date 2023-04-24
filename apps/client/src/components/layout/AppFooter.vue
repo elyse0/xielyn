@@ -4,19 +4,19 @@
       <div class="badge-header">
         <img
           src="https://xielyng.s3.fr-par.scw.cloud/logo.png"
-          alt="Xielyng logo"
+          alt="Sophire logo"
           width="40"
         >
-        Xielyng
+        Sophire
       </div>
 
-      <p>Xielyng's source code is licensed under MIT.</p>
+      <p>Sophire's source code is licensed under MIT.</p>
     </div>
     <div class="links">
       <ul>
         <li>
           <a
-            href="https://github.com/elyse0/xielyng"
+            href="https://github.com/elyse0/sophire"
             target="_blank"
           >Github repository</a>
         </li>

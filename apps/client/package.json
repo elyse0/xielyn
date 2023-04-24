@@ -1,5 +1,5 @@
 {
-  "name": "@xielyng/client",
+  "name": "@sophire/client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,12 +12,12 @@
   "dependencies": {
     "@oruga-ui/oruga-next": "^0.5.9",
     "@oruga-ui/theme-bulma": "^0.2.8",
-    "@xielyng/caption-merger": "workspace:^1.0.0",
-    "@xielyng/caption-service": "workspace:^1.0.0",
-    "@xielyng/hanzi-pinyin-captions-service": "workspace:^1.0.0",
-    "@xielyng/http-service": "workspace:^1.0.0",
-    "@xielyng/vtt-to-json": "workspace:^1.0.0",
-    "@xielyng/youtube-api": "workspace:^1.0.0",
+    "@sophire/caption-merger": "workspace:^1.0.0",
+    "@sophire/caption-service": "workspace:^1.0.0",
+    "@sophire/hanzi-pinyin-captions-service": "workspace:^1.0.0",
+    "@sophire/http-service": "workspace:^1.0.0",
+    "@sophire/vtt-to-json": "workspace:^1.0.0",
+    "@sophire/youtube-api": "workspace:^1.0.0",
     "core-js": "^3.26.1",
     "file-saver": "^2.0.5",
     "hanzi-writer": "^3.4.0",

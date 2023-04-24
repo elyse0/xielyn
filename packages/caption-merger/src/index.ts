@@ -1,6 +1,6 @@
 import { uniqWith, isEqual } from 'lodash-es'
 
-import { MergedVideoCaptions, VideoCaptions, MergedCaption } from '@xielyng/youtube-api'
+import { MergedVideoCaptions, VideoCaptions, MergedCaption } from '@sophire/youtube-api'
 
 const getMergedVideoCaptions = (videoCaptions: VideoCaptions[]): MergedVideoCaptions[] => {
     const captions: MergedCaption[] = videoCaptions.map((languageCaptions) => languageCaptions.captions.map((item) => ({

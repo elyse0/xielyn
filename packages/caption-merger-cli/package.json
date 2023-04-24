@@ -1,5 +1,5 @@
 {
-  "name": "@xielyng/caption-merger-cli",
+  "name": "@sophire/caption-merger-cli",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,7 @@
     "build": "tsc && tsc-alias"
   },
   "dependencies": {
-    "@xielyng/caption-merger": "workspace:^1.0.0",
+    "@sophire/caption-merger": "workspace:^1.0.0",
     "enquirer": "^2.3.6"
   },
   "devDependencies": {

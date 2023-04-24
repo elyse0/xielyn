@@ -6,7 +6,7 @@
 
 import { Err, Ok, Result } from 'ts-results-es'
 
-import { Caption } from '@xielyng/youtube-api'
+import { Caption } from '@sophire/youtube-api'
 
 const timeToMs = (time: string): number => {
     const timeMatch = time.match(/^(\d{2}):(\d{2}):(\d{2})\.(\d{3})$/);

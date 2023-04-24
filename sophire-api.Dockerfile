@@ -18,15 +18,15 @@ FROM node:16 as monorepo-install
 
 RUN npm install -g pnpm
 
-COPY . /usr/xielyng
-WORKDIR /usr/xielyng
+COPY . /usr/sophire
+WORKDIR /usr/sophire
 RUN pnpm install
 
-FROM monorepo-install as xielyng-api-build
+FROM monorepo-install as sophire-api-build
 
-RUN npx turbo run build --filter=@xielyng/api
+RUN npx turbo run build --filter=@sophire/api
 
-WORKDIR /usr/xielyng/apps/api
+WORKDIR /usr/sophire/apps/api
 RUN pnpm run bundle
 
 FROM platform
@@ -34,7 +34,7 @@ FROM platform
 # Install yt-dlp
 RUN pip install https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 
-COPY --from=xielyng-api-build /usr/xielyng/apps/api/bundled /usr/app
+COPY --from=sophire-api-build /usr/sophire/apps/api/bundled /usr/app
 WORKDIR /usr/app
 
 RUN npm install

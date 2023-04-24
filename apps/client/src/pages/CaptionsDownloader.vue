@@ -19,9 +19,9 @@ import { ref } from 'vue'
 
 import AppLayout from '@/components/layout/AppLayout.vue'
 
-import { getMergedVideoCaptions } from '@xielyng/caption-merger'
+import { getMergedVideoCaptions } from '@sophire/caption-merger'
 
-import XielyngApiService from '@/services/XielyngApiService'
+import SophireApiService from '@/services/SophireApiService'
 
 const videoId = ref<string | null>(null)
 const availableSubtitles = ref<string[] | null>(null)
@@ -31,23 +31,23 @@ const downloadMergedCaptions = async () => {
     return
   }
 
-  const availableYoutubeCaptions = await XielyngApiService.getAvailableYoutubeCaptions(videoId.value)
+  const availableYoutubeCaptions = await SophireApiService.getAvailableYoutubeCaptions(videoId.value)
   if (availableYoutubeCaptions.err) {
     return
   }
 
-  const englishCaptionsResult = await XielyngApiService.getYoutubeCaptions(videoId.value, 'en')
+  const englishCaptionsResult = await SophireApiService.getYoutubeCaptions(videoId.value, 'en')
   if (englishCaptionsResult.err) {
     return
   }
-  const hanziCaptionsResult = await XielyngApiService.getYoutubeCaptions(videoId.value, 'zh-Hans')
+  const hanziCaptionsResult = await SophireApiService.getYoutubeCaptions(videoId.value, 'zh-Hans')
   if (hanziCaptionsResult.err) {
     return
   }
   const englishCaptions = englishCaptionsResult.val
   const hanziCaptions = hanziCaptionsResult.val
 
-  const hanziPinyinCaptionsResult = await XielyngApiService.getHanziPinyinCaptions(hanziCaptions)
+  const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions(hanziCaptions)
   if (hanziPinyinCaptionsResult.err) {
     return
   }

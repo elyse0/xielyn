@@ -1,7 +1,7 @@
 import { writeJsonFile } from '@/util/json.js'
 import enquirer from 'enquirer'
 
-import { CaptionService } from '@xielyng/caption-service'
+import { CaptionService } from '@sophire/caption-service'
 
 const main = async () => {
     const videoIdPrompt = await enquirer.prompt({

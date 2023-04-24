@@ -1,6 +1,6 @@
-import { getSegments } from '@xielyng/hanzi-pinyin-utils'
+import { getSegments } from '@sophire/hanzi-pinyin-utils'
 
-import { Caption, VideoCaptions } from '@xielyng/youtube-api'
+import { Caption, VideoCaptions } from '@sophire/youtube-api'
 
 const getHanziPinyinCaptions = (videoCaptions: VideoCaptions): VideoCaptions[] => {
     const hanziCaptions: Caption[] = []

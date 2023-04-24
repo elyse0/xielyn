@@ -10,5 +10,5 @@ jobs:
         uses: ./.github/actions/vue-to-github-pages-pnpm
         with:
           username: 'elyse0'
-          reponame: 'xielyng'
+          reponame: 'sophire'
           token: ${{ secrets.GITHUB_TOKEN }}

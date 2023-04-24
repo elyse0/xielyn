@@ -11,7 +11,7 @@ const port = process.env.PORT ?? 3000
 
 app.listen(3000, () => console.log(`Server running on port ${port}`))
 
-import { YoutubeDlService } from "@xielyng/youtube-dl-service"
+import { YoutubeDlService } from "@sophire/youtube-dl-service"
 
 app.get("/:videoId/:languageId?", async (req: express.Request, res: express.Response) => {
     const {videoId, languageId} = req.params

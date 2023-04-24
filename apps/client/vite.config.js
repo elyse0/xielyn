@@ -6,14 +6,14 @@ import eslint from 'vite-plugin-eslint';
 import path from 'path';
 
 export default defineConfig({
-  base: '/xielyng/',
+  base: '/sophire/',
   plugins: [
     vue(),
     eslint({
       fix: true,
       exclude: [
         '**/node_modules/**',
-        '**/xielyng/packages/**',
+        '**/sophire/packages/**',
       ]
     }),
   ],
