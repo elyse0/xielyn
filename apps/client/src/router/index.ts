@@ -3,10 +3,10 @@ import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
 import { getBaseUrl } from '@/util/env';
 
 const Homepage = () => import('@/pages/Homepage.vue');
-const Verbs = () => import('@/pages/Verbs.vue');
-const Videos = () => import('@/pages/Videos.vue');
-const Vocabulary = () => import('@/pages/Vocabulary.vue');
-const YoutubeVideoViewer = () => import('@/pages/YoutubeVideoViewer.vue');
+const ChineseVerbs = () => import('@/pages/ChineseVerbs.vue');
+const ChineseVideos = () => import('@/pages/ChineseVideos.vue');
+const ChineseVocabulary = () => import('@/pages/ChineseVocabulary.vue');
+const ChineseYoutubeVideoViewer = () => import('@/pages/ChineseYoutubeVideoViewer.vue');
 const CaptionsMerger = () => import('@/pages/CaptionsMerger.vue');
 const CaptionsDownloader = () => import('@/pages/CaptionsDownloader.vue');
 const CaptionsVttToJson = () => import('@/pages/CaptionsVttToJson.vue');
@@ -22,24 +22,24 @@ const routes: Array<RouteRecordRaw> = [
     },
   },
   {
-    path: '/videos',
-    name: 'Videos',
-    component: Videos,
+    path: '/chinese/videos',
+    name: 'ChineseVideos',
+    component: ChineseVideos,
   },
   {
-    path: '/verbs',
-    name: 'Verbs',
-    component: Verbs,
+    path: '/chinese/verbs',
+    name: 'ChineseVerbs',
+    component: ChineseVerbs,
   },
   {
-    path: '/vocabulary',
-    name: 'Vocabulary',
-    component: Vocabulary,
+    path: '/chinese/vocabulary',
+    name: 'ChineseVocabulary',
+    component: ChineseVocabulary,
   },
   {
-    path: '/videos/youtube/:videoId',
-    name: 'YoutubeVideoViewer',
-    component: YoutubeVideoViewer,
+    path: '/chinese/videos/youtube/:videoId',
+    name: 'ChineseYoutubeVideoViewer',
+    component: ChineseYoutubeVideoViewer,
   },
   {
     path: '/captions-merger',

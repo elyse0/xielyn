@@ -12,21 +12,21 @@
     <div class="links">
       <o-button
         tag="router-link"
-        :to="{path: '/verbs'}"
+        :to="{path: '/chinese/verbs'}"
       >
-        Verbs
+        Chinese Verbs
       </o-button>
       <o-button
         tag="router-link"
-        :to="{path: '/videos'}"
+        :to="{path: '/chinese/videos'}"
       >
-        Videos
+        Chinese Videos
       </o-button>
       <o-button
         tag="router-link"
-        :to="{path: '/vocabulary'}"
+        :to="{path: '/chinese/vocabulary'}"
       >
-        Vocabulary
+        Chinese Vocabulary
       </o-button>
     </div>
   </div>
