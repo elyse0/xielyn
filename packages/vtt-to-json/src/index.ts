@@ -17,8 +17,8 @@ const timeToMs = (time: string): number => {
     return seconds * 1000 + Number(timeMatch[ 4 ]);
 };
 
-const vttToJson = (srtFile: string): Result<Caption[], { message: string }> => {
-    const lines = srtFile.split('\n')
+const vttToJson = (vttFile: string): Result<Caption[], { message: string }> => {
+    const lines = vttFile.split('\n')
 
     const captions: Caption[] = [];
     let currentCaption: Caption | undefined;
