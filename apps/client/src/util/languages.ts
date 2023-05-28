@@ -1,16 +1,16 @@
 import { Language, OLanguage } from '@/types/translation';
 
 const getLanguageDefaultCountry = (language: Language): string => {
-  switch (language) {
+    switch (language) {
     case OLanguage.English:
-      return 'uk';
+        return 'uk';
     case OLanguage.French:
-      return 'france';
+        return 'france';
     case OLanguage.Spanish:
-      return 'spain';
+        return 'spain';
     default:
-      return '';
-  }
+        return '';
+    }
 };
 
 export { getLanguageDefaultCountry };

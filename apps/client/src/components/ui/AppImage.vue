@@ -7,14 +7,14 @@
 
 <script setup lang="ts">
 const props = defineProps({
-  src: {
-    type: String,
-    required: true,
-  },
-  alt: {
-    type: String,
-    default: '',
-  },
+    src: {
+        type: String,
+        required: true,
+    },
+    alt: {
+        type: String,
+        default: '',
+    },
 });
 </script>
 

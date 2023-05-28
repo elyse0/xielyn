@@ -43,41 +43,41 @@ import { getMergedVideoCaptions } from '@sophire/caption-merger'
 import { createJsonDownload, getContentAsString } from '@/util/files'
 
 const jsonFiles = reactive<{ en: File | null, hanzi: File | null, pinyin: File | null }>({
-  en: null,
-  hanzi: null,
-  pinyin: null
+    en: null,
+    hanzi: null,
+    pinyin: null
 })
 
 const onEnglishJsonFileUpdate = (newFile: File | null) => {
-  jsonFiles.en = newFile
+    jsonFiles.en = newFile
 }
 
 const onHanziJsonFileUpdate = (newFile: File | null) => {
-  jsonFiles.hanzi = newFile
+    jsonFiles.hanzi = newFile
 }
 
 const onPinyinJsonFileUpdate = (newFile: File | null) => {
-  jsonFiles.pinyin = newFile
+    jsonFiles.pinyin = newFile
 }
 
 const onClick = async () => {
-  if (!jsonFiles.en || !jsonFiles.hanzi || !jsonFiles.pinyin) {
-    console.log('There is no file')
-    return
-  }
+    if (!jsonFiles.en || !jsonFiles.hanzi || !jsonFiles.pinyin) {
+        console.log('There is no file')
+        return
+    }
 
-  const englishJsonFile = await getContentAsString(jsonFiles.en)
-  const hanziJsonFile = await getContentAsString(jsonFiles.hanzi)
-  const pinyinJsonFile = await getContentAsString(jsonFiles.pinyin)
-  if (!englishJsonFile || !hanziJsonFile || !pinyinJsonFile) {
-    return
-  }
+    const englishJsonFile = await getContentAsString(jsonFiles.en)
+    const hanziJsonFile = await getContentAsString(jsonFiles.hanzi)
+    const pinyinJsonFile = await getContentAsString(jsonFiles.pinyin)
+    if (!englishJsonFile || !hanziJsonFile || !pinyinJsonFile) {
+        return
+    }
 
-  createJsonDownload(getMergedVideoCaptions([
-    JSON.parse(englishJsonFile),
-    JSON.parse(hanziJsonFile),
-    JSON.parse(pinyinJsonFile)
-  ]), 'captions.json')
+    createJsonDownload(getMergedVideoCaptions([
+        JSON.parse(englishJsonFile),
+        JSON.parse(hanziJsonFile),
+        JSON.parse(pinyinJsonFile)
+    ]), 'captions.json')
 }
 
 </script>

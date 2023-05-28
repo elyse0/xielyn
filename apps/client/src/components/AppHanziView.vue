@@ -22,23 +22,23 @@ interface Props {
 const props = defineProps<Props>();
 
 const hanziItems = Array.from(props.hanzi)
-  .map((item) => ({
-    id: getOnlyLettersUuid(),
-    hanzi: item,
-  }));
+    .map((item) => ({
+        id: getOnlyLettersUuid(),
+        hanzi: item,
+    }));
 
 // FIXME: Find a better way to compute the scale when there are more than two hanzi symbols
 const scale = (-0.2 * hanziItems.length * hanziItems.length) + (0.6 * hanziItems.length) + 0.6;
 
 onMounted(() => {
-  hanziItems.forEach((item) => {
-    HanziWriter.create(item.id, item.hanzi, {
-      width: 170,
-      height: 170,
-      padding: 5,
-      radicalColor: '#168F16',
+    hanziItems.forEach((item) => {
+        HanziWriter.create(item.id, item.hanzi, {
+            width: 170,
+            height: 170,
+            padding: 5,
+            radicalColor: '#168F16',
+        });
     });
-  });
 });
 </script>
 

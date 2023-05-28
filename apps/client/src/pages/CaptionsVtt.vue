@@ -37,62 +37,62 @@ import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'
 import { createJsonDownload, getContentAsString } from '@/util/files'
 
 const vttFiles = reactive<{ hanzi: File | null, en: File | null }>({
-  en: null,
-  hanzi: null,
+    en: null,
+    hanzi: null,
 })
 
 const onHanziFileUpdate = (newFile: File | null) => {
-  vttFiles.hanzi = newFile
+    vttFiles.hanzi = newFile
 }
 
 const onEnglishFileUpdate = (newFile: File | null) => {
-  vttFiles.en = newFile
+    vttFiles.en = newFile
 }
 
 const onClick = async () => {
-  if (!vttFiles.hanzi || !vttFiles.en) {
-    console.log('Files are missing')
-    return
-  }
+    if (!vttFiles.hanzi || !vttFiles.en) {
+        console.log('Files are missing')
+        return
+    }
 
-  const vttHanziFileContents = await getContentAsString(vttFiles.hanzi)
-  if (!vttHanziFileContents) {
-    console.log('Could not read hanzi file contents')
-    return
-  }
+    const vttHanziFileContents = await getContentAsString(vttFiles.hanzi)
+    if (!vttHanziFileContents) {
+        console.log('Could not read hanzi file contents')
+        return
+    }
 
-  const hanziJsonFile = vttToJson(vttHanziFileContents)
-  if (hanziJsonFile.err) {
-    console.log(hanziJsonFile.val.message)
-    return
-  }
+    const hanziJsonFile = vttToJson(vttHanziFileContents)
+    if (hanziJsonFile.err) {
+        console.log(hanziJsonFile.val.message)
+        return
+    }
 
-  const vttEnglishFileContents = await getContentAsString(vttFiles.en)
-  if (!vttEnglishFileContents) {
-    console.log('Could not read english file contents')
-    return
-  }
+    const vttEnglishFileContents = await getContentAsString(vttFiles.en)
+    if (!vttEnglishFileContents) {
+        console.log('Could not read english file contents')
+        return
+    }
 
-  const englishJsonFile = vttToJson(vttEnglishFileContents)
-  if (englishJsonFile.err) {
-    console.log(englishJsonFile.val.message)
-    return
-  }
+    const englishJsonFile = vttToJson(vttEnglishFileContents)
+    if (englishJsonFile.err) {
+        console.log(englishJsonFile.val.message)
+        return
+    }
 
-  const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions({
-    languageId: 'hanzi',
-    captions: hanziJsonFile.val,
-  })
+    const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions({
+        languageId: 'hanzi',
+        captions: hanziJsonFile.val,
+    })
 
-  if (hanziPinyinCaptionsResult.err) {
-    return
-  }
+    if (hanziPinyinCaptionsResult.err) {
+        return
+    }
 
-  const hanziPinyinCaptions = hanziPinyinCaptionsResult.val
-  const mergedVideoCaptions = getMergedVideoCaptions([
-      {languageId: 'en', captions: englishJsonFile.val}, ...hanziPinyinCaptions])
+    const hanziPinyinCaptions = hanziPinyinCaptionsResult.val
+    const mergedVideoCaptions = getMergedVideoCaptions([
+        {languageId: 'en', captions: englishJsonFile.val}, ...hanziPinyinCaptions])
 
-  createJsonDownload(mergedVideoCaptions, `subtitles.json`)
+    createJsonDownload(mergedVideoCaptions, `subtitles.json`)
 }
 
 </script>

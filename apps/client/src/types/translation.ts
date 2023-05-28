@@ -1,7 +1,7 @@
 const OLanguage = {
-  English: 'english',
-  French: 'french',
-  Spanish: 'spanish',
+    English: 'english',
+    French: 'french',
+    Spanish: 'spanish',
 } as const;
 
 type Language = typeof OLanguage[keyof typeof OLanguage];
@@ -12,7 +12,7 @@ interface TranslationItem {
 }
 
 export {
-  OLanguage,
-  Language,
-  TranslationItem
+    OLanguage,
+    Language,
+    TranslationItem
 };

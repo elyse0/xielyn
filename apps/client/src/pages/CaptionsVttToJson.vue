@@ -29,28 +29,28 @@ import { createJsonDownload, getContentAsString } from '@/util/files'
 const vttFile = ref<File | null>(null)
 
 const onVttFileUpdate = (newFile: File | null) => {
-  vttFile.value = newFile
+    vttFile.value = newFile
 }
 
 const onClick = async () => {
-  if (!vttFile.value) {
-    console.log('There is no file')
-    return
-  }
+    if (!vttFile.value) {
+        console.log('There is no file')
+        return
+    }
 
-  const vttFileContents = await getContentAsString(vttFile.value)
-  if (!vttFileContents) {
-    console.log('Could not read file contents')
-    return
-  }
+    const vttFileContents = await getContentAsString(vttFile.value)
+    if (!vttFileContents) {
+        console.log('Could not read file contents')
+        return
+    }
 
-  const jsonFile = vttToJson(vttFileContents)
-  if (jsonFile.err) {
-    console.log(jsonFile.val.message)
-    return
-  }
+    const jsonFile = vttToJson(vttFileContents)
+    if (jsonFile.err) {
+        console.log(jsonFile.val.message)
+        return
+    }
 
-  createJsonDownload(jsonFile.val, 'captions.json')
+    createJsonDownload(jsonFile.val, 'captions.json')
 }
 
 </script>

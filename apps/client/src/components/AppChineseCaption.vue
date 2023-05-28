@@ -32,30 +32,30 @@ import AppChineseCaptionSegment from '@/components/AppChineseCaptionSegment.vue'
 const currentIndex = ref(-1);
 
 const props = defineProps({
-  chinese: {
-    type: Array as () => Array<string>,
-    default: () => [''],
-  },
-  pinyin: {
-    type: Array as () => Array<string>,
-    default: () => [''],
-  },
+    chinese: {
+        type: Array as () => Array<string>,
+        default: () => [''],
+    },
+    pinyin: {
+        type: Array as () => Array<string>,
+        default: () => [''],
+    },
 });
 
 const isIndexHighlighted = (index: number): boolean => {
-  if (currentIndex.value === -1) {
-    return false;
-  }
+    if (currentIndex.value === -1) {
+        return false;
+    }
 
-  return currentIndex.value === index;
+    return currentIndex.value === index;
 };
 
 const onMouseOverSegment = (index: number): void => {
-  currentIndex.value = index;
+    currentIndex.value = index;
 };
 
 const onMouseLeaveSegment = (): void => {
-  currentIndex.value = -1;
+    currentIndex.value = -1;
 };
 
 </script>

@@ -25,7 +25,7 @@ import AppImage from '@/components/ui/AppImage.vue';
 import YoutubeVideos from '@/youtube-videos';
 
 const youtubeVideosArray = Object.keys(YoutubeVideos)
-  .map((id) => ({ id, ...YoutubeVideos[id] }));
+    .map((id) => ({ id, ...YoutubeVideos[id] }));
 </script>
 
 <style scoped>

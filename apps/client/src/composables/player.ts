@@ -9,18 +9,18 @@ interface Player {
 }
 
 export default (plyr: Plyr): Player => {
-  const state = reactive(
-    { player: plyr },
-  );
+    const state = reactive(
+        { player: plyr },
+    );
 
-  const play = async () => {
-    state.player.togglePlay();
-  };
+    const play = async () => {
+        state.player.togglePlay();
+    };
 
-  return {
-    state,
-    play,
-  };
+    return {
+        state,
+        play,
+    };
 };
 
 export { Player };

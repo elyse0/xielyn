@@ -29,11 +29,11 @@ import vocabulary from '@/vocabulary';
 const selectedCategory = ref<string | null>(null);
 
 const categories = (() => {
-  const categoriesSet = new Set();
-  vocabulary.forEach((vocabularyItem) => {
-    categoriesSet.add(vocabularyItem.category);
-  });
-  return Array.from(categoriesSet).sort();
+    const categoriesSet = new Set();
+    vocabulary.forEach((vocabularyItem) => {
+        categoriesSet.add(vocabularyItem.category);
+    });
+    return Array.from(categoriesSet).sort();
 })();
 
 const filteredVocabulary = computed(() => (selectedCategory.value ? vocabulary.filter((item) => item.category === selectedCategory.value) : vocabulary));

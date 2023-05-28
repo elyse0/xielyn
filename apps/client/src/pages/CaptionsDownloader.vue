@@ -27,39 +27,39 @@ const videoId = ref<string | null>(null)
 const availableSubtitles = ref<string[] | null>(null)
 
 const downloadMergedCaptions = async () => {
-  if (!videoId.value) {
-    return
-  }
+    if (!videoId.value) {
+        return
+    }
 
-  const availableYoutubeCaptions = await SophireApiService.getAvailableYoutubeCaptions(videoId.value)
-  if (availableYoutubeCaptions.err) {
-    return
-  }
+    const availableYoutubeCaptions = await SophireApiService.getAvailableYoutubeCaptions(videoId.value)
+    if (availableYoutubeCaptions.err) {
+        return
+    }
 
-  const englishCaptionsResult = await SophireApiService.getYoutubeCaptions(videoId.value, 'en')
-  if (englishCaptionsResult.err) {
-    return
-  }
-  const hanziCaptionsResult = await SophireApiService.getYoutubeCaptions(videoId.value, 'zh-Hans')
-  if (hanziCaptionsResult.err) {
-    return
-  }
-  const englishCaptions = englishCaptionsResult.val
-  const hanziCaptions = hanziCaptionsResult.val
+    const englishCaptionsResult = await SophireApiService.getYoutubeCaptions(videoId.value, 'en')
+    if (englishCaptionsResult.err) {
+        return
+    }
+    const hanziCaptionsResult = await SophireApiService.getYoutubeCaptions(videoId.value, 'zh-Hans')
+    if (hanziCaptionsResult.err) {
+        return
+    }
+    const englishCaptions = englishCaptionsResult.val
+    const hanziCaptions = hanziCaptionsResult.val
 
-  const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions(hanziCaptions)
-  if (hanziPinyinCaptionsResult.err) {
-    return
-  }
+    const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions(hanziCaptions)
+    if (hanziPinyinCaptionsResult.err) {
+        return
+    }
 
-  const hanziPinyinCaptions = hanziPinyinCaptionsResult.val
-  const mergedVideoCaptions = getMergedVideoCaptions([englishCaptions, ...hanziPinyinCaptions])
+    const hanziPinyinCaptions = hanziPinyinCaptionsResult.val
+    const mergedVideoCaptions = getMergedVideoCaptions([englishCaptions, ...hanziPinyinCaptions])
 
-  createJsonDownload(mergedVideoCaptions, `subtitles-${videoId.value}.json`)
+    createJsonDownload(mergedVideoCaptions, `subtitles-${videoId.value}.json`)
 }
 
 const onClick = async () => {
-  await downloadMergedCaptions()
+    await downloadMergedCaptions()
 }
 </script>
 

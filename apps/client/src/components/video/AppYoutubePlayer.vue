@@ -38,56 +38,56 @@ import { Options, Vue } from 'vue-class-component';
 import { getOnlyLettersUuid } from '@/util/uuid';
 
 @Options({
-  props: {
-    videoId: String,
-  },
+    props: {
+        videoId: String,
+    },
 })
 export default class AppYoutubePlayer extends Vue {
-  id: string = getOnlyLettersUuid();
+    id: string = getOnlyLettersUuid();
 
-  videoId!: string
+    videoId!: string
 
-  youtubeUrl: string | null = null;
+    youtubeUrl: string | null = null;
 
-  player: Plyr | null = null;
+    player: Plyr | null = null;
 
-  currentTime = 0;
+    currentTime = 0;
 
-  onReady(): void {
+    onReady(): void {
     // @ts-ignore
-    this.player = new Plyr(this.$refs.plyr.player);
-  }
-
-  play(): void {
-    if (this.player) {
-      this.player.play();
+        this.player = new Plyr(this.$refs.plyr.player);
     }
-  }
 
-  time(): void {
-    if (this.player) {
-      console.log(this.player.currentTime);
+    play(): void {
+        if (this.player) {
+            this.player.play();
+        }
     }
-  }
 
-  onVideoTimeUpdate(): void {
-    if (this.player) {
-      this.currentTime = this.player.currentTime;
+    time(): void {
+        if (this.player) {
+            console.log(this.player.currentTime);
+        }
     }
-  }
 
-  onSeeking(): void {
-    if (this.player) {
-      this.currentTime = this.player.currentTime;
+    onVideoTimeUpdate(): void {
+        if (this.player) {
+            this.currentTime = this.player.currentTime;
+        }
     }
-  }
 
-  created(): void {
-    this.youtubeUrl = `https://www.youtube.com/embed/${this.videoId}?amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1`
-    this.$watch('currentTime', () => {
-      this.$emit('timeUpdate', this.currentTime);
-    });
-  }
+    onSeeking(): void {
+        if (this.player) {
+            this.currentTime = this.player.currentTime;
+        }
+    }
+
+    created(): void {
+        this.youtubeUrl = `https://www.youtube.com/embed/${this.videoId}?amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1`
+        this.$watch('currentTime', () => {
+            this.$emit('timeUpdate', this.currentTime);
+        });
+    }
 }
 </script>
 

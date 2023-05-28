@@ -19,21 +19,21 @@ const emit = defineEmits(['update:selectedItem']);
 const selectedItem = ref<string | null>(null);
 
 const props = defineProps({
-  items: {
-    type: Array as () => string[],
-    required: true,
-  },
-  selectedItem: {
-    type: String,
-    default: null,
-  },
+    items: {
+        type: Array as () => string[],
+        required: true,
+    },
+    selectedItem: {
+        type: String,
+        default: null,
+    },
 });
 
 const getVariant = ref((item: string) => (item === selectedItem.value ? 'primary' : ''));
 
 const onClick = (item: string) => {
-  selectedItem.value = item;
-  emit('update:selectedItem', item);
+    selectedItem.value = item;
+    emit('update:selectedItem', item);
 };
 </script>
 

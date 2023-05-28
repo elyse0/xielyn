@@ -17,8 +17,8 @@ import router from './router';
 import './css-customization/css/custom.css';
 
 createApp(App)
-  .use(router)
-  .use(Oruga, bulmaConfig)
-  .use(VuePlyr, { plyr: {} })
-  .use(VueLazyloadNext)
-  .mount('#app');
+    .use(router)
+    .use(Oruga, bulmaConfig)
+    .use(VuePlyr, { plyr: {} })
+    .use(VueLazyloadNext)
+    .mount('#app');
