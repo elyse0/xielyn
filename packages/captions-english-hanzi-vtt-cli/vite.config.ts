@@ -1,6 +1,6 @@
 // @ts-ignore
 import path from 'path'
-import { defineConfig } from 'vitest/config'
+import { defineConfig } from 'vite'
 
 export default defineConfig({
     resolve: {
@@ -8,5 +8,4 @@ export default defineConfig({
             '@': path.resolve(__dirname, 'src'),
         },
     },
-    test: {},
 })

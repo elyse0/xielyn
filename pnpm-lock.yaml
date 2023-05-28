@@ -282,6 +282,40 @@ importers:
         specifier: ^4.9.4
         version: 4.9.4
 
+  packages/captions-english-hanzi-vtt-cli:
+    dependencies:
+      '@sophire/caption-merger':
+        specifier: workspace:^1.0.0
+        version: link:../caption-merger
+      '@sophire/hanzi-pinyin-captions':
+        specifier: workspace:^1.0.0
+        version: link:../hanzi-pinyin-captions
+      '@sophire/vtt-to-json':
+        specifier: workspace:^1.0.0
+        version: link:../vtt-to-json
+      '@sophire/youtube-api':
+        specifier: workspace:^1.0.0
+        version: link:../youtube-api
+      enquirer:
+        specifier: ^2.3.6
+        version: 2.3.6
+    devDependencies:
+      '@types/node':
+        specifier: ^18.11.15
+        version: 18.11.15
+      tsc-alias:
+        specifier: ^1.8.2
+        version: 1.8.2
+      typescript:
+        specifier: ^4.9.4
+        version: 4.9.4
+      vite:
+        specifier: ^4.0.1
+        version: 4.0.1(@types/node@18.11.15)
+      vite-node:
+        specifier: ^0.26.2
+        version: 0.26.2(@types/node@18.11.15)
+
   packages/hanzi-pinyin-captions:
     dependencies:
       '@elyse0/hanzi-tools':

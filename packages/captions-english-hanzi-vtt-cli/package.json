@@ -1,0 +1,23 @@
+{
+  "name": "@sophire/captions-english-hanzi-vtt-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && tsc-alias",
+    "serve": "vite-node src/index.ts"
+  },
+  "dependencies": {
+    "@sophire/caption-merger": "workspace:^1.0.0",
+    "@sophire/hanzi-pinyin-captions": "workspace:^1.0.0",
+    "@sophire/vtt-to-json": "workspace:^1.0.0",
+    "@sophire/youtube-api": "workspace:^1.0.0",
+    "enquirer": "^2.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.15",
+    "tsc-alias": "^1.8.2",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.1",
+    "vite-node": "^0.26.2"
+  }
+}
