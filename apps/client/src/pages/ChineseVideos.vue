@@ -7,7 +7,7 @@
           :key="video.id"
           class="video"
         >
-          <router-link :to="`/videos/youtube/${video.id}`">
+          <router-link :to="`/chinese/videos/youtube/${video.id}`">
             <AppImage
               :src="video.thumbnailUrl"
               :alt="video.title"
