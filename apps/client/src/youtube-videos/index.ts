@@ -8,7 +8,10 @@ import irfd74z52Cw from './subtitles-irfd74z52Cw.json';
 import j76Gz3g41jM from './subtitles-j76Gz3g41jM.json';
 import NxITmnGIl7E from './subtitles-NxITmnGIl7E.json';
 import R6r1B3Pxo_w from './subtitles-R6r1B3Pxo_w.json';
-import Mxb17xNQBl0 from './subtitles-Mxb17xNQBl0.json'
+import Mxb17xNQBl0 from './subtitles-Mxb17xNQBl0.json';
+import _0e1d1f45Vb0 from './subtitles-0e1d1f45Vb0.json';
+import AzPdwflMjx0 from './subtitles-AzPdwflMjx0.json';
+import WtSJW4o_GGg from './subtitles-WtSJW4o-GGg.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -51,6 +54,21 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         title: ' 美国留学Vlog｜我频繁地记录着 因为生活值得 ',
         thumbnailUrl: 'https://i3.ytimg.com/vi/Mxb17xNQBl0/hqdefault.jpg',
         captions: Mxb17xNQBl0,
+    },
+    '0e1d1f45Vb0': {
+        title: '上天啊，难道你看不出我很爱她',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/0e1d1f45Vb0/hqdefault.jpg',
+        captions: _0e1d1f45Vb0,
+    },
+    AzPdwflMjx0: {
+        title: 'Lie to Love - EP01',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/AzPdwflMjx0/hqdefault.jpg',
+        captions: AzPdwflMjx0,
+    },
+    'WtSJW4o-GGg': {
+        title: '慢慢喜欢你，慢慢地陪你慢慢地老去。 ',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/WtSJW4o-GGg/hqdefault.jpg',
+        captions: WtSJW4o_GGg,
     },
 };
 
