@@ -12,6 +12,7 @@ import Mxb17xNQBl0 from './subtitles-Mxb17xNQBl0.json';
 import _0e1d1f45Vb0 from './subtitles-0e1d1f45Vb0.json';
 import AzPdwflMjx0 from './subtitles-AzPdwflMjx0.json';
 import WtSJW4o_GGg from './subtitles-WtSJW4o-GGg.json';
+import _6qfvgVoZG_k from './subtitles-6qfvgVoZG-k.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -64,6 +65,11 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         title: 'Lie to Love - EP01',
         thumbnailUrl: 'https://i3.ytimg.com/vi/AzPdwflMjx0/hqdefault.jpg',
         captions: AzPdwflMjx0,
+    },
+    '6qfvgVoZG-k': {
+        title: 'Lie to Love - EP02',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/6qfvgVoZG-k/hqdefault.jpg',
+        captions: _6qfvgVoZG_k,
     },
     'WtSJW4o-GGg': {
         title: '慢慢喜欢你，慢慢地陪你慢慢地老去。 ',
