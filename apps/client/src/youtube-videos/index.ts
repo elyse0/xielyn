@@ -9,7 +9,7 @@ import j76Gz3g41jM from './subtitles-j76Gz3g41jM.json';
 import NxITmnGIl7E from './subtitles-NxITmnGIl7E.json';
 import R6r1B3Pxo_w from './subtitles-R6r1B3Pxo_w.json';
 import Mxb17xNQBl0 from './subtitles-Mxb17xNQBl0.json';
-import _0e1d1f45Vb0 from './subtitles-0e1d1f45Vb0.json';
+import JhpCt_1epek from './subtitles-JhpCt_1epek.json';
 import AzPdwflMjx0 from './subtitles-AzPdwflMjx0.json';
 import xe0ZjmlbNT0 from './subtitles-xe0ZjmlbNT0.json';
 import _6qfvgVoZG_k from './subtitles-6qfvgVoZG-k.json';
@@ -57,10 +57,10 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         thumbnailUrl: 'https://i3.ytimg.com/vi/Mxb17xNQBl0/hqdefault.jpg',
         captions: Mxb17xNQBl0,
     },
-    '0e1d1f45Vb0': {
+    JhpCt_1epek: {
         title: '上天啊，难道你看不出我很爱她',
-        thumbnailUrl: 'https://i3.ytimg.com/vi/0e1d1f45Vb0/hqdefault.jpg',
-        captions: _0e1d1f45Vb0,
+        thumbnailUrl: 'https://i3.ytimg.com/vi/JhpCt_1epek/hqdefault.jpg',
+        captions: JhpCt_1epek,
     },
     AzPdwflMjx0: {
         title: 'Lie to Love - EP01',
