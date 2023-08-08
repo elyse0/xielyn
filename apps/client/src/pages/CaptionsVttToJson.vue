@@ -19,7 +19,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-import { vttToJson } from '@sophire/vtt-to-json'
+import { subtitlesToJson } from '@sophire/subtitles-to-json'
 
 import AppLayout from '@/components/layout/AppLayout.vue'
 import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'
@@ -44,7 +44,7 @@ const onClick = async () => {
         return
     }
 
-    const jsonFile = vttToJson(vttFileContents)
+    const jsonFile = subtitlesToJson(vttFileContents)
     if (jsonFile.err) {
         console.log(jsonFile.val.message)
         return

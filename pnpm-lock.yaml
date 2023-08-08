@@ -89,9 +89,9 @@ importers:
       '@sophire/http-service':
         specifier: workspace:^1.0.0
         version: link:../../packages/http-service
-      '@sophire/vtt-to-json':
+      '@sophire/subtitles-to-json':
         specifier: workspace:^1.0.0
-        version: link:../../packages/vtt-to-json
+        version: link:../../packages/subtitles-to-json
       '@sophire/youtube-api':
         specifier: workspace:^1.0.0
         version: link:../../packages/youtube-api
@@ -290,9 +290,9 @@ importers:
       '@sophire/hanzi-pinyin-captions':
         specifier: workspace:^1.0.0
         version: link:../hanzi-pinyin-captions
-      '@sophire/vtt-to-json':
+      '@sophire/subtitles-to-json':
         specifier: workspace:^1.0.0
-        version: link:../vtt-to-json
+        version: link:../subtitles-to-json
       '@sophire/youtube-api':
         specifier: workspace:^1.0.0
         version: link:../youtube-api
@@ -386,11 +386,14 @@ importers:
         specifier: ^4.9.4
         version: 4.9.4
 
-  packages/vtt-to-json:
+  packages/subtitles-to-json:
     dependencies:
       '@sophire/youtube-api':
         specifier: workspace:^1.0.0
         version: link:../youtube-api
+      deno-srt-to-vtt:
+        specifier: ^1.0.1
+        version: 1.0.1
       ts-results-es:
         specifier: ^3.5.0
         version: 3.5.0
@@ -413,9 +416,9 @@ importers:
 
   packages/youtube-dl-service:
     dependencies:
-      '@sophire/vtt-to-json':
+      '@sophire/subtitles-to-json':
         specifier: workspace:^1.0.0
-        version: link:../vtt-to-json
+        version: link:../subtitles-to-json
       '@sophire/youtube-api':
         specifier: workspace:^1.0.0
         version: link:../youtube-api
@@ -3378,6 +3381,10 @@ packages:
 
   /delegates@1.0.0:
     resolution: {integrity: sha512-bd2L678uiWATM6m5Z1VzNCErI3jiGzt6HGY8OVICs40JQq/HALfbyNJmp0UDakEY4pMMaN0Ly5om/B1VI/+xfQ==}
+    dev: false
+
+  /deno-srt-to-vtt@1.0.1:
+    resolution: {integrity: sha512-pDIoFyL27GXJ97xJRXsjaA+6MO+6nAOw74XNA6NY2B+H0ooRfMt4HoLHamPABsmMrnKLEU0Qx9YWNIL+r/VbEA==}
     dev: false
 
   /depd@2.0.0:

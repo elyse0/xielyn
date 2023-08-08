@@ -5,6 +5,7 @@
  */
 
 import { Err, Ok, Result } from 'ts-results-es'
+import srtToVtt from 'deno-srt-to-vtt'
 
 import { Caption } from '@sophire/youtube-api'
 
@@ -17,8 +18,14 @@ const timeToMs = (time: string): number => {
     return seconds * 1000 + Number(timeMatch[ 4 ]);
 };
 
-const vttToJson = (vttFile: string): Result<Caption[], { message: string }> => {
-    const lines = vttFile.split('\n')
+const subtitlesToJson = (subtitlesFile: string): Result<Caption[], { message: string }> => {
+    // FIXME: Handle more subtitle formats, instead of assuming SRT
+    if (!subtitlesFile.startsWith('WEBVTT')) {
+        // @ts-ignore
+        subtitlesFile = srtToVtt(subtitlesFile)
+    }
+
+    const lines = subtitlesFile.split('\n')
 
     const captions: Caption[] = [];
     let currentCaption: Caption | undefined;
@@ -57,4 +64,4 @@ const vttToJson = (vttFile: string): Result<Caption[], { message: string }> => {
     return Ok(captions);
 }
 
-export { vttToJson }
+export { subtitlesToJson }

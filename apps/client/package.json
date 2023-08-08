@@ -16,7 +16,7 @@
     "@sophire/caption-service": "workspace:^1.0.0",
     "@sophire/hanzi-pinyin-captions-service": "workspace:^1.0.0",
     "@sophire/http-service": "workspace:^1.0.0",
-    "@sophire/vtt-to-json": "workspace:^1.0.0",
+    "@sophire/subtitles-to-json": "workspace:^1.0.0",
     "@sophire/youtube-api": "workspace:^1.0.0",
     "core-js": "^3.26.1",
     "file-saver": "^2.0.5",

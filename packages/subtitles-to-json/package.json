@@ -1,5 +1,5 @@
 {
-  "name": "@sophire/vtt-to-json",
+  "name": "@sophire/subtitles-to-json",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@sophire/youtube-api": "workspace:^1.0.0",
+    "deno-srt-to-vtt": "^1.0.1",
     "ts-results-es": "^3.5.0"
   },
   "devDependencies": {

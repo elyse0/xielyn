@@ -9,7 +9,7 @@
   "dependencies": {
     "@sophire/caption-merger": "workspace:^1.0.0",
     "@sophire/hanzi-pinyin-captions": "workspace:^1.0.0",
-    "@sophire/vtt-to-json": "workspace:^1.0.0",
+    "@sophire/subtitles-to-json": "workspace:^1.0.0",
     "@sophire/youtube-api": "workspace:^1.0.0",
     "enquirer": "^2.3.6"
   },

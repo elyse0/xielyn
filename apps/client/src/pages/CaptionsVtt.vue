@@ -29,7 +29,7 @@ import SophireApiService from '@/services/SophireApiService'
 import { getMergedVideoCaptions } from '@sophire/caption-merger'
 import { reactive } from 'vue'
 
-import { vttToJson } from '@sophire/vtt-to-json'
+import { subtitlesToJson } from '@sophire/subtitles-to-json'
 
 import AppLayout from '@/components/layout/AppLayout.vue'
 import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'
@@ -61,7 +61,7 @@ const onClick = async () => {
         return
     }
 
-    const hanziJsonFile = vttToJson(vttHanziFileContents)
+    const hanziJsonFile = subtitlesToJson(vttHanziFileContents)
     if (hanziJsonFile.err) {
         console.log(hanziJsonFile.val.message)
         return
@@ -73,7 +73,7 @@ const onClick = async () => {
         return
     }
 
-    const englishJsonFile = vttToJson(vttEnglishFileContents)
+    const englishJsonFile = subtitlesToJson(vttEnglishFileContents)
     if (englishJsonFile.err) {
         console.log(englishJsonFile.val.message)
         return

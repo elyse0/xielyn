@@ -12,7 +12,7 @@ import path from 'path'
 import { Err, Ok, Result } from 'ts-results-es'
 
 import { Caption } from '@sophire/youtube-api'
-import { vttToJson } from '@sophire/vtt-to-json'
+import { subtitlesToJson } from '@sophire/subtitles-to-json'
 
 interface Options {
     executable?: string;
@@ -87,7 +87,7 @@ class YoutubeDlService {
             ).toString();
 
             const fullFilePath = `${filePath}.${language}.vtt`;
-            const captions = vttToJson(readFileSync(fullFilePath).toString())
+            const captions = subtitlesToJson(readFileSync(fullFilePath).toString())
 
             // Delete file
             unlinkSync(fullFilePath);

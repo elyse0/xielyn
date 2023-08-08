@@ -4,34 +4,34 @@ import { readFileSync } from 'fs'
 
 import { getHanziPinyinCaptions } from '@sophire/hanzi-pinyin-captions'
 import { getMergedVideoCaptions } from '@sophire/caption-merger'
-import { vttToJson } from '@sophire/vtt-to-json'
+import { subtitlesToJson } from '@sophire/subtitles-to-json'
 
 import { writeJsonFile } from '@/util/json.js'
 
 import { VideoCaptions } from "@sophire/youtube-api";
 
 const main = async () => {
-    const englishVttPrompt = await enquirer.prompt({
+    const englishSubtitlesPrompt = await enquirer.prompt({
         type: 'text',
         name: 'filepath',
-        message: 'Enter the english vtt filepath',
+        message: 'Enter the english subtitles filepath',
     }) as { filepath: string }
 
-    const hanziVttPrompt = await enquirer.prompt({
+    const hanziSubtitlesPrompt = await enquirer.prompt({
         type: 'text',
         name: 'filepath',
-        message: 'Enter the hanzi vtt filepath',
+        message: 'Enter the hanzi subtitles filepath',
     }) as { filepath: string }
 
-    const englishVtt = readFileSync(englishVttPrompt.filepath, 'utf-8')
-    const hanziVtt = readFileSync(hanziVttPrompt.filepath, 'utf-8')
+    let englishSubtitles = readFileSync(englishSubtitlesPrompt.filepath, 'utf-8')
+    let hanziSubtitles = readFileSync(hanziSubtitlesPrompt.filepath, 'utf-8')
 
-    const englishJsonResult = vttToJson(englishVtt)
+    const englishJsonResult = subtitlesToJson(englishSubtitles)
     if (englishJsonResult.err) {
         throw Error(englishJsonResult.val.message)
     }
 
-    const hanziJsonResult = vttToJson(hanziVtt)
+    const hanziJsonResult = subtitlesToJson(hanziSubtitles)
     if (hanziJsonResult.err) {
         throw Error(hanziJsonResult.val.message)
     }
