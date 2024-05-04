@@ -15,7 +15,7 @@ import xe0ZjmlbNT0 from './subtitles-xe0ZjmlbNT0.json';
 import _6qfvgVoZG_k from './subtitles-6qfvgVoZG-k.json';
 import oCr5S9f88ic from './subtitles-oCr5S9f88ic.json';
 import tHOAr5GHnT8 from './subtitles-tHOAr5GHnT8.json';
-import nXZWnPw84vg from './subtitles-nXZWnPw84vg.json';
+import _9XgdXtmNFUo from './subtitles-9XgdXtmNFUo.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -89,10 +89,10 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         thumbnailUrl: 'https://i3.ytimg.com/vi/tHOAr5GHnT8/hqdefault.jpg',
         captions: tHOAr5GHnT8,
     },
-    nXZWnPw84vg: {
+    '9XgdXtmNFUo': {
         title: '我一路向北，离开有你的季节。',
-        thumbnailUrl: 'https://i3.ytimg.com/vi/nXZWnPw84vg/hqdefault.jpg',
-        captions: nXZWnPw84vg,
+        thumbnailUrl: 'https://i3.ytimg.com/vi/9XgdXtmNFUo/hqdefault.jpg',
+        captions: _9XgdXtmNFUo,
     },
 };
 
