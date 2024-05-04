@@ -11,7 +11,7 @@ import R6r1B3Pxo_w from './subtitles-R6r1B3Pxo_w.json';
 import Mxb17xNQBl0 from './subtitles-Mxb17xNQBl0.json';
 import JhpCt_1epek from './subtitles-JhpCt_1epek.json';
 import AzPdwflMjx0 from './subtitles-AzPdwflMjx0.json';
-import xe0ZjmlbNT0 from './subtitles-xe0ZjmlbNT0.json';
+import KOQGlMDsA4M from './subtitles-KOQGlMDsA4M.json';
 import _6qfvgVoZG_k from './subtitles-6qfvgVoZG-k.json';
 import oCr5S9f88ic from './subtitles-oCr5S9f88ic.json';
 import tHOAr5GHnT8 from './subtitles-tHOAr5GHnT8.json';
@@ -79,10 +79,10 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         thumbnailUrl: 'https://i3.ytimg.com/vi/oCr5S9f88ic/hqdefault.jpg',
         captions: oCr5S9f88ic,
     },
-    xe0ZjmlbNT0: {
+    KOQGlMDsA4M: {
         title: '慢慢喜欢你，慢慢地陪你慢慢地老去。 ',
-        thumbnailUrl: 'https://i3.ytimg.com/vi/xe0ZjmlbNT0/hqdefault.jpg',
-        captions: xe0ZjmlbNT0,
+        thumbnailUrl: 'https://i3.ytimg.com/vi/KOQGlMDsA4M/hqdefault.jpg',
+        captions: KOQGlMDsA4M,
     },
     tHOAr5GHnT8: {
         title: '【想要问问你敢不敢】EP22上：你是个好人，对不起我们性格不合',
