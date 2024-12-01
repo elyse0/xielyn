@@ -1,20 +1,20 @@
 <template>
   <AppLayout>
     <div class="caption-vtt-to-s">
-      Caption Vtt To Json
+      Subtitles To Json
 
       <div class="upload-file">
-        Upload hanzi vtt
+        Hanzi subtitles file (vtt/srt)
         <AppSingleUpload
-          v-model="vttFiles.hanzi"
+          v-model="subtitleFiles.hanzi"
           @update:modelValue="onHanziFileUpdate"
         />
       </div>
 
       <div class="upload-file">
-        Upload english vtt
+        English subtitles file (vtt/srt)
         <AppSingleUpload
-          v-model="vttFiles.en"
+          v-model="subtitleFiles.en"
           @update:modelValue="onEnglishFileUpdate"
         />
       </div>
@@ -36,44 +36,44 @@ import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'
 
 import { createJsonDownload, getContentAsString } from '@/util/files'
 
-const vttFiles = reactive<{ hanzi: File | null, en: File | null }>({
+const subtitleFiles = reactive<{ hanzi: File | null, en: File | null }>({
     en: null,
     hanzi: null,
 })
 
 const onHanziFileUpdate = (newFile: File | null) => {
-    vttFiles.hanzi = newFile
+    subtitleFiles.hanzi = newFile
 }
 
 const onEnglishFileUpdate = (newFile: File | null) => {
-    vttFiles.en = newFile
+    subtitleFiles.en = newFile
 }
 
 const onClick = async () => {
-    if (!vttFiles.hanzi || !vttFiles.en) {
+    if (!subtitleFiles.hanzi || !subtitleFiles.en) {
         console.log('Files are missing')
         return
     }
 
-    const vttHanziFileContents = await getContentAsString(vttFiles.hanzi)
-    if (!vttHanziFileContents) {
+    const hanziFileContents = await getContentAsString(subtitleFiles.hanzi)
+    if (!hanziFileContents) {
         console.log('Could not read hanzi file contents')
         return
     }
 
-    const hanziJsonFile = subtitlesToJson(vttHanziFileContents)
+    const hanziJsonFile = subtitlesToJson(hanziFileContents)
     if (hanziJsonFile.err) {
         console.log(hanziJsonFile.val.message)
         return
     }
 
-    const vttEnglishFileContents = await getContentAsString(vttFiles.en)
-    if (!vttEnglishFileContents) {
+    const englishFileContents = await getContentAsString(subtitleFiles.en)
+    if (!englishFileContents) {
         console.log('Could not read english file contents')
         return
     }
 
-    const englishJsonFile = subtitlesToJson(vttEnglishFileContents)
+    const englishJsonFile = subtitlesToJson(englishFileContents)
     if (englishJsonFile.err) {
         console.log(englishJsonFile.val.message)
         return
