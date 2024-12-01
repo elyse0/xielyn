@@ -26,6 +26,7 @@ export default defineConfig({
     port: 8080,
   },
   build: {
+    target: 'esnext',
     cssCodeSplit: false,
   },
 });
