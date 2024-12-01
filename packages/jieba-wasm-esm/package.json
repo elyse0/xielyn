@@ -1,0 +1,21 @@
+{
+  "name": "@sophire/jieba-wasm-esm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/jieba_rs_wasm.d.ts",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.3.0",
+    "@rollup/plugin-wasm": "^6.2.2",
+    "jieba-wasm": "^2.2.0",
+    "rollup": "^4.28.0",
+    "rollup-plugin-copy": "^3.5.0"
+  }
+}
