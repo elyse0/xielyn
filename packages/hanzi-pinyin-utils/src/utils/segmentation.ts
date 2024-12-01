@@ -1,7 +1,7 @@
-import jieba from '@node-rs/jieba'
+import { cut } from 'jieba-wasm/web';
 
 const getHanziSegments = (text: string): string[] => {
-    return jieba.cut(text)
+    return cut(text);
 }
 
 export { getHanziSegments }

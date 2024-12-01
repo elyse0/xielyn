@@ -20,7 +20,7 @@ describe('hanzi segmentation', () => {
         const hanzi = '我说过我不会卖那块地的！';
 
         const segmentation = getHanziSegments(hanzi)
-        const expectedSegmentation = ['我', '说', '过', '我', '不会', '卖', '那', '块', '地', '的', '！'];
+        const expectedSegmentation = ['我', '说', '过', '我', '不会', '卖', '那块', '地', '的', '！'];
 
         expect(segmentation).toEqual(expectedSegmentation);
     });
@@ -51,7 +51,7 @@ describe('hanzi segmentation', () => {
 
         const segmentation = getHanziSegments(hanzi)
         // FIXME: Ideally we wouldn't want to segment every point
-        const expectedSegmentation = ['好像', '是', '在', 'Target', '.', '.', '.'];
+        const expectedSegmentation = ['好像', '是', '在', 'Target', '...'];
 
         expect(segmentation).toEqual(expectedSegmentation);
     });
