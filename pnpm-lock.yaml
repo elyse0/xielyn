@@ -83,9 +83,6 @@ importers:
       '@sophire/hanzi-pinyin-captions':
         specifier: workspace:^
         version: link:../../packages/hanzi-pinyin-captions
-      '@sophire/hanzi-pinyin-captions-service':
-        specifier: workspace:^1.0.0
-        version: link:../../packages/hanzi-pinyin-captions-service
       '@sophire/http-service':
         specifier: workspace:^1.0.0
         version: link:../../packages/http-service
@@ -324,25 +321,6 @@ importers:
       '@sophire/youtube-api':
         specifier: workspace:^1.0.0
         version: link:../youtube-api
-    devDependencies:
-      tsc-alias:
-        specifier: ^1.8.2
-        version: 1.8.2
-      typescript:
-        specifier: ^4.9.4
-        version: 4.9.4
-
-  packages/hanzi-pinyin-captions-service:
-    dependencies:
-      '@sophire/http-service':
-        specifier: workspace:^1.0.0
-        version: link:../http-service
-      '@sophire/youtube-api':
-        specifier: workspace:^1.0.0
-        version: link:../youtube-api
-      ts-results-es:
-        specifier: ^3.5.0
-        version: 3.5.0
     devDependencies:
       tsc-alias:
         specifier: ^1.8.2
