@@ -1,4 +1,4 @@
-import { tag as jiebaTag } from 'jieba-wasm/web';
+import { tag as jiebaTag } from '@sophire/jieba-wasm-esm';
 
 interface TaggedWord {
     tag: string

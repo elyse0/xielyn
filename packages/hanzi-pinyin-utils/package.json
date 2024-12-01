@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@node-rs/jieba": "^1.6.1"
+    "@sophire/jieba-wasm-esm": "workspace:^"
   },
   "devDependencies": {
     "tsc-alias": "^1.8.2",

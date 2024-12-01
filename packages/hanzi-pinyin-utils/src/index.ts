@@ -1,4 +1,4 @@
-import init from 'jieba-wasm/web';
+import init from '@sophire/jieba-wasm-esm';
 //@ts-ignore
 await init();
 
