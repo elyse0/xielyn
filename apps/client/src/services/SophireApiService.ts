@@ -25,13 +25,6 @@ class SophireApiService {
         return HttpService.get<VideoCaptions>(
             `${this.apiUrl}/captions/youtube/${videoId}/${languageId}`);
     }
-
-    static async getHanziPinyinCaptions(
-        hanziCaptions: VideoCaptions,
-    ): Promise<Result<VideoCaptions[], HttpError>> {
-        return HttpService.post<VideoCaptions[]>(
-            `${this.apiUrl}/captions/generate-hanzi-pinyin`, hanziCaptions);
-    }
 }
 
 export default SophireApiService
