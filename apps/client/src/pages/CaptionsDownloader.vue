@@ -23,6 +23,8 @@ import { getMergedVideoCaptions } from '@sophire/caption-merger'
 
 import SophireApiService from '@/services/SophireApiService'
 
+import { getHanziPinyinCaptions } from '@sophire/hanzi-pinyin-captions';
+
 const videoId = ref<string | null>(null)
 const availableSubtitles = ref<string[] | null>(null)
 
@@ -47,12 +49,7 @@ const downloadMergedCaptions = async () => {
     const englishCaptions = englishCaptionsResult.val
     const hanziCaptions = hanziCaptionsResult.val
 
-    const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions(hanziCaptions)
-    if (hanziPinyinCaptionsResult.err) {
-        return
-    }
-
-    const hanziPinyinCaptions = hanziPinyinCaptionsResult.val
+    const hanziPinyinCaptions = getHanziPinyinCaptions(hanziCaptions)
     const mergedVideoCaptions = getMergedVideoCaptions([englishCaptions, ...hanziPinyinCaptions])
 
     createJsonDownload(mergedVideoCaptions, `subtitles-${videoId.value}.json`)

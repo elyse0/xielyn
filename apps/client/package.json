@@ -14,6 +14,7 @@
     "@oruga-ui/theme-bulma": "^0.2.8",
     "@sophire/caption-merger": "workspace:^1.0.0",
     "@sophire/caption-service": "workspace:^1.0.0",
+    "@sophire/hanzi-pinyin-captions": "workspace:^",
     "@sophire/hanzi-pinyin-captions-service": "workspace:^1.0.0",
     "@sophire/http-service": "workspace:^1.0.0",
     "@sophire/subtitles-to-json": "workspace:^1.0.0",
