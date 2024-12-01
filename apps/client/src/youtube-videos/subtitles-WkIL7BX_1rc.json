@@ -1,0 +1,801 @@
+[
+    {
+        "start": 0,
+        "end": 1110,
+        "captions": {
+            "en": "Lyrics by Luo Sen Tao",
+            "hanzi": [
+                "词",
+                "：",
+                "罗森涛"
+            ],
+            "pinyin": [
+                "cí",
+                ":",
+                "Luó sēn tāo"
+            ]
+        }
+    },
+    {
+        "start": 1110,
+        "end": 2070,
+        "captions": {
+            "en": "Music by Luo Sen Tao",
+            "hanzi": [
+                "曲",
+                "：",
+                "罗森涛"
+            ],
+            "pinyin": [
+                "qū",
+                ":",
+                "Luó sēn tāo"
+            ]
+        }
+    },
+    {
+        "start": 2070,
+        "end": 2960,
+        "captions": {
+            "en": "Arranged by He Xiang Ji",
+            "hanzi": [
+                "编曲",
+                "：",
+                "贺翔基"
+            ],
+            "pinyin": [
+                "biān​qǔ",
+                ":",
+                "hè xiáng jī"
+            ]
+        }
+    },
+    {
+        "start": 2960,
+        "end": 4110,
+        "captions": {
+            "en": "Recorded by Wu Ji Cao Mei (Inorganic Strawberry)",
+            "hanzi": [
+                "录音",
+                "：",
+                "无机",
+                "草莓"
+            ],
+            "pinyin": [
+                "lù​yīn",
+                ":",
+                "wú​jī",
+                "cǎo​méi"
+            ]
+        }
+    },
+    {
+        "start": 4110,
+        "end": 5220,
+        "captions": {
+            "en": "Recorded at Mo Fei Recording Studio (Chengdu)",
+            "hanzi": [
+                "录音棚",
+                "：",
+                "莫非",
+                "录音棚",
+                "（",
+                "成都",
+                "）"
+            ],
+            "pinyin": [
+                "lù yīn péng",
+                ":",
+                "mò​fēi",
+                "lù yīn péng",
+                "(",
+                "Chéng​dū",
+                ")"
+            ]
+        }
+    },
+    {
+        "start": 5220,
+        "end": 6130,
+        "captions": {
+            "en": "Mixed and mastered by TuJay",
+            "hanzi": [
+                "混音",
+                "/",
+                "母带",
+                "：",
+                "TuJay"
+            ],
+            "pinyin": [
+                "hùn​yīn",
+                "/",
+                "mǔ dài",
+                ":",
+                "TuJay"
+            ]
+        }
+    },
+    {
+        "start": 6130,
+        "end": 7110,
+        "captions": {
+            "en": "Produced by Mo Fei",
+            "hanzi": [
+                "制作",
+                "人",
+                "：",
+                "莫非"
+            ],
+            "pinyin": [
+                "zhì​zuò",
+                "rén",
+                ":",
+                "mò​fēi"
+            ]
+        }
+    },
+    {
+        "start": 7110,
+        "end": 8036,
+        "captions": {
+            "en": "Production team: Mu Le Affairs Office",
+            "hanzi": [
+                "制作",
+                "团队",
+                "：",
+                "慕乐",
+                "事务所"
+            ],
+            "pinyin": [
+                "zhì​zuò",
+                "tuán​duì",
+                ":",
+                "mù lè",
+                "shì​wù​suǒ"
+            ]
+        }
+    },
+    {
+        "start": 8036,
+        "end": 15848,
+        "captions": {
+            "en": "Published by Mo Fei Music",
+            "hanzi": [
+                "OP",
+                "：",
+                "莫非",
+                "音乐"
+            ],
+            "pinyin": [
+                "OP",
+                ":",
+                "mò​fēi",
+                "yīn​yuè"
+            ]
+        }
+    },
+    {
+        "start": 15848,
+        "end": 19508,
+        "captions": {
+            "en": "We've been in a cold war for too long, I don't feel like talking",
+            "hanzi": [
+                "冷战",
+                "太久",
+                " ",
+                "不想",
+                "开口"
+            ],
+            "pinyin": [
+                "lěng​zhàn",
+                "tài jiǔ",
+                " ",
+                "bù​xiǎng",
+                "kāi​kǒu"
+            ]
+        }
+    },
+    {
+        "start": 19604,
+        "end": 22406,
+        "captions": {
+            "en": "Just staring at each other in silence",
+            "hanzi": [
+                "看着",
+                "对方",
+                "沉默"
+            ],
+            "pinyin": [
+                "kàn zhe",
+                "duì​fāng",
+                "chén​mò"
+            ]
+        }
+    },
+    {
+        "start": 22614,
+        "end": 24384,
+        "captions": {
+            "en": "Hiding the truth",
+            "hanzi": [
+                "藏",
+                "着",
+                "答案"
+            ],
+            "pinyin": [
+                "cáng",
+                "zhe",
+                "dá​'àn"
+            ]
+        }
+    },
+    {
+        "start": 24705,
+        "end": 26881,
+        "captions": {
+            "en": "I'm afraid to speak up, afraid of regret",
+            "hanzi": [
+                "不",
+                "说",
+                "是",
+                "怕",
+                "有",
+                "遗憾"
+            ],
+            "pinyin": [
+                "bù",
+                "shuō",
+                "shì",
+                "pà",
+                "yǒu",
+                "yí​hàn"
+            ]
+        }
+    },
+    {
+        "start": 26928,
+        "end": 27976,
+        "captions": {
+            "en": "I'm feeling really uneasy",
+            "hanzi": [
+                "好",
+                "不安"
+            ],
+            "pinyin": [
+                "hǎo",
+                "bù​'ān"
+            ]
+        }
+    },
+    {
+        "start": 28416,
+        "end": 29760,
+        "captions": {
+            "en": "You're right here with me",
+            "hanzi": [
+                "明明",
+                "你",
+                "在",
+                "身边"
+            ],
+            "pinyin": [
+                "míng​míng",
+                "nǐ",
+                "zài",
+                "shēn​biān"
+            ]
+        }
+    },
+    {
+        "start": 29784,
+        "end": 31197,
+        "captions": {
+            "en": "But I feel so alone",
+            "hanzi": [
+                "我",
+                "却",
+                "感觉",
+                "孤单"
+            ],
+            "pinyin": [
+                "wǒ",
+                "què",
+                "gǎn​jué",
+                "gū​dān"
+            ]
+        }
+    },
+    {
+        "start": 31240,
+        "end": 34376,
+        "captions": {
+            "en": "The darkness outside is drowning out our love",
+            "hanzi": [
+                "窗外",
+                "的",
+                "黑夜",
+                "淹没",
+                "这份",
+                "爱"
+            ],
+            "pinyin": [
+                "chuāng wài",
+                "de",
+                "hēi​yè",
+                "yān​mò",
+                "zhè fèn",
+                "ài"
+            ]
+        }
+    },
+    {
+        "start": 34821,
+        "end": 38050,
+        "captions": {
+            "en": "I'm losing the excitement in our memories",
+            "hanzi": [
+                "找",
+                "不到",
+                "回忆",
+                "里",
+                "的",
+                "新鲜感"
+            ],
+            "pinyin": [
+                "zhǎo",
+                "bù​dào",
+                "huí​yì",
+                "lǐ",
+                "de",
+                "xīn xiān gǎn"
+            ]
+        }
+    },
+    {
+        "start": 38082,
+        "end": 39744,
+        "captions": {
+            "en": "It's really heartbreaking",
+            "hanzi": [
+                "好",
+                "心酸"
+            ],
+            "pinyin": [
+                "hǎo",
+                "xīn​suān"
+            ]
+        }
+    },
+    {
+        "start": 40224,
+        "end": 44313,
+        "captions": {
+            "en": "When you look at me",
+            "hanzi": [
+                "当",
+                "你",
+                " ",
+                "看着",
+                "我",
+                "的",
+                "时候"
+            ],
+            "pinyin": [
+                "dāng",
+                "nǐ",
+                " ",
+                "kàn zhe",
+                "wǒ",
+                "de",
+                "shí​hou"
+            ]
+        }
+    },
+    {
+        "start": 44404,
+        "end": 47059,
+        "captions": {
+            "en": "What's going through your mind?",
+            "hanzi": [
+                "你会",
+                "想些",
+                "什么",
+                "呢"
+            ],
+            "pinyin": [
+                "nǐ huì",
+                "xiǎng xiē",
+                "shén​me",
+                "ne"
+            ]
+        }
+    },
+    {
+        "start": 47232,
+        "end": 48792,
+        "captions": {
+            "en": "Yeah~ yeah~",
+            "hanzi": [
+                "耶",
+                "~",
+                "耶",
+                "~"
+            ],
+            "pinyin": [
+                "yē",
+                "~",
+                "yē",
+                "~"
+            ]
+        }
+    },
+    {
+        "start": 49059,
+        "end": 52068,
+        "captions": {
+            "en": "I already know, no need to guess",
+            "hanzi": [
+                "不用",
+                "去",
+                "猜",
+                "我",
+                "都",
+                "明",
+                "了"
+            ],
+            "pinyin": [
+                "bù​yòng",
+                "qù",
+                "cāi",
+                "wǒ",
+                "dōu",
+                "míng",
+                "le"
+            ]
+        }
+    },
+    {
+        "start": 52315,
+        "end": 55922,
+        "captions": {
+            "en": "Oh, when you look at me",
+            "hanzi": [
+                "oh",
+                "你",
+                " ",
+                "看着",
+                "我",
+                "的",
+                "时候"
+            ],
+            "pinyin": [
+                "oh",
+                "nǐ",
+                " ",
+                "kàn zhe",
+                "wǒ",
+                "de",
+                "shí​hou"
+            ]
+        }
+    },
+    {
+        "start": 56515,
+        "end": 59229,
+        "captions": {
+            "en": "You're looking for a reason to hold me",
+            "hanzi": [
+                "想",
+                "找个",
+                "拥抱",
+                "的",
+                "理由"
+            ],
+            "pinyin": [
+                "xiǎng",
+                "zhǎo gè",
+                "yōng​bào",
+                "de",
+                "lǐ​yóu"
+            ]
+        }
+    },
+    {
+        "start": 59244,
+        "end": 62748,
+        "captions": {
+            "en": "I know you love me just as much",
+            "hanzi": [
+                "我",
+                "知道",
+                "你",
+                "也",
+                "深爱着",
+                "我"
+            ],
+            "pinyin": [
+                "wǒ",
+                "zhī​dào",
+                "nǐ",
+                "yě",
+                "shēn ài zhe",
+                "wǒ"
+            ]
+        }
+    },
+    {
+        "start": 62809,
+        "end": 65732,
+        "captions": {
+            "en": "I don't want to go back to just being friends",
+            "hanzi": [
+                "不想",
+                "回到",
+                "普通",
+                "朋友"
+            ],
+            "pinyin": [
+                "bù​xiǎng",
+                "huí​dào",
+                "pǔ​tōng",
+                "péng​you"
+            ]
+        }
+    },
+    {
+        "start": 77477,
+        "end": 79015,
+        "captions": {
+            "en": "You're right here with me",
+            "hanzi": [
+                "明明",
+                "你",
+                "在",
+                "身边"
+            ],
+            "pinyin": [
+                "míng​míng",
+                "nǐ",
+                "zài",
+                "shēn​biān"
+            ]
+        }
+    },
+    {
+        "start": 79025,
+        "end": 80511,
+        "captions": {
+            "en": "But I feel so alone",
+            "hanzi": [
+                "我",
+                "却",
+                "感觉",
+                "孤单"
+            ],
+            "pinyin": [
+                "wǒ",
+                "què",
+                "gǎn​jué",
+                "gū​dān"
+            ]
+        }
+    },
+    {
+        "start": 80561,
+        "end": 83665,
+        "captions": {
+            "en": "The darkness outside is drowning out our love",
+            "hanzi": [
+                "窗外",
+                "的",
+                "黑夜",
+                "淹没",
+                "这份",
+                "爱"
+            ],
+            "pinyin": [
+                "chuāng wài",
+                "de",
+                "hēi​yè",
+                "yān​mò",
+                "zhè fèn",
+                "ài"
+            ]
+        }
+    },
+    {
+        "start": 83726,
+        "end": 87400,
+        "captions": {
+            "en": "I'm losing the excitement in our memories",
+            "hanzi": [
+                "找",
+                "不到",
+                "回忆",
+                "里",
+                "的",
+                "新鲜感"
+            ],
+            "pinyin": [
+                "zhǎo",
+                "bù​dào",
+                "huí​yì",
+                "lǐ",
+                "de",
+                "xīn xiān gǎn"
+            ]
+        }
+    },
+    {
+        "start": 87431,
+        "end": 89087,
+        "captions": {
+            "en": "It's really heartbreaking",
+            "hanzi": [
+                "好",
+                "心酸"
+            ],
+            "pinyin": [
+                "hǎo",
+                "xīn​suān"
+            ]
+        }
+    },
+    {
+        "start": 89311,
+        "end": 93669,
+        "captions": {
+            "en": "When you look at me",
+            "hanzi": [
+                "当",
+                "你",
+                " ",
+                "看着",
+                "我",
+                "的",
+                "时候"
+            ],
+            "pinyin": [
+                "dāng",
+                "nǐ",
+                " ",
+                "kàn zhe",
+                "wǒ",
+                "de",
+                "shí​hou"
+            ]
+        }
+    },
+    {
+        "start": 93715,
+        "end": 96269,
+        "captions": {
+            "en": "What's going through your mind?",
+            "hanzi": [
+                "你会",
+                "想些",
+                "什么",
+                "呢"
+            ],
+            "pinyin": [
+                "nǐ huì",
+                "xiǎng xiē",
+                "shén​me",
+                "ne"
+            ]
+        }
+    },
+    {
+        "start": 96287,
+        "end": 98028,
+        "captions": {
+            "en": "Yeah~ yeah~",
+            "hanzi": [
+                "耶",
+                "~",
+                "耶",
+                "~"
+            ],
+            "pinyin": [
+                "yē",
+                "~",
+                "yē",
+                "~"
+            ]
+        }
+    },
+    {
+        "start": 98071,
+        "end": 101458,
+        "captions": {
+            "en": "I already know, no need to guess",
+            "hanzi": [
+                "不用",
+                "去",
+                "猜",
+                "我",
+                "都",
+                "明",
+                "了"
+            ],
+            "pinyin": [
+                "bù​yòng",
+                "qù",
+                "cāi",
+                "wǒ",
+                "dōu",
+                "míng",
+                "le"
+            ]
+        }
+    },
+    {
+        "start": 101542,
+        "end": 105680,
+        "captions": {
+            "en": "Oh, when you look at me",
+            "hanzi": [
+                "oh",
+                "你",
+                " ",
+                "看着",
+                "我",
+                "的",
+                "时候"
+            ],
+            "pinyin": [
+                "oh",
+                "nǐ",
+                " ",
+                "kàn zhe",
+                "wǒ",
+                "de",
+                "shí​hou"
+            ]
+        }
+    },
+    {
+        "start": 105734,
+        "end": 108317,
+        "captions": {
+            "en": "You're looking for a reason to hold me",
+            "hanzi": [
+                "想",
+                "找个",
+                "拥抱",
+                "的",
+                "理由"
+            ],
+            "pinyin": [
+                "xiǎng",
+                "zhǎo gè",
+                "yōng​bào",
+                "de",
+                "lǐ​yóu"
+            ]
+        }
+    },
+    {
+        "start": 108385,
+        "end": 111813,
+        "captions": {
+            "en": "I know you love me just as much",
+            "hanzi": [
+                "我",
+                "知道",
+                "你",
+                "也",
+                "深爱着",
+                "我"
+            ],
+            "pinyin": [
+                "wǒ",
+                "zhī​dào",
+                "nǐ",
+                "yě",
+                "shēn ài zhe",
+                "wǒ"
+            ]
+        }
+    }
+]

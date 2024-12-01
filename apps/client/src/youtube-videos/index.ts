@@ -16,6 +16,7 @@ import _6qfvgVoZG_k from './subtitles-6qfvgVoZG-k.json';
 import oCr5S9f88ic from './subtitles-oCr5S9f88ic.json';
 import tHOAr5GHnT8 from './subtitles-tHOAr5GHnT8.json';
 import _iSRDIaNFNg from './subtitles--iSRDIaNFNg.json';
+import WkIL7BX_1rc from './subtitles-WkIL7BX_1rc.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -94,6 +95,11 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         thumbnailUrl: 'https://i3.ytimg.com/vi/-iSRDIaNFNg/hqdefault.jpg',
         captions: _iSRDIaNFNg,
     },
+    WkIL7BX_1rc: {
+        title: '当你看着我的时候 (1.3X)',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/WkIL7BX_1rc/hqdefault.jpg',
+        captions: WkIL7BX_1rc,
+    }
 };
 
 export default youtubeVideos;
