@@ -25,7 +25,7 @@ const props = defineProps({
 
 let fileUpload: File | null = null
 
-const onFileChange = (event: InputEvent) => {
+const onFileChange = (event: Event) => {
     if (!event.target) {
         return
     }
