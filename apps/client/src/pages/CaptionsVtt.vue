@@ -25,11 +25,11 @@
 </template>
 
 <script setup lang="ts">
-import SophireApiService from '@/services/SophireApiService'
 import { getMergedVideoCaptions } from '@sophire/caption-merger'
 import { reactive } from 'vue'
 
 import { subtitlesToJson } from '@sophire/subtitles-to-json'
+import { getHanziPinyinCaptions } from '@sophire/hanzi-pinyin-captions'
 
 import AppLayout from '@/components/layout/AppLayout.vue'
 import AppSingleUpload from '@/components/ui/AppSingleUpload.vue'
@@ -79,16 +79,11 @@ const onClick = async () => {
         return
     }
 
-    const hanziPinyinCaptionsResult = await SophireApiService.getHanziPinyinCaptions({
+    const hanziPinyinCaptions = getHanziPinyinCaptions({
         languageId: 'hanzi',
         captions: hanziJsonFile.val,
     })
 
-    if (hanziPinyinCaptionsResult.err) {
-        return
-    }
-
-    const hanziPinyinCaptions = hanziPinyinCaptionsResult.val
     const mergedVideoCaptions = getMergedVideoCaptions([
         {languageId: 'en', captions: englishJsonFile.val}, ...hanziPinyinCaptions])
 
