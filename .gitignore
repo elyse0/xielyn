@@ -3,6 +3,7 @@
 **/**/dist
 **/**/bundled
 **/**/.turbo
+**/**/backup
 
 **/**/gcp-function*.zip
 packages/**/**/captions*.json
