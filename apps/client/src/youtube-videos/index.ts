@@ -18,6 +18,7 @@ import tHOAr5GHnT8 from './subtitles-tHOAr5GHnT8.json';
 import _iSRDIaNFNg from './subtitles--iSRDIaNFNg.json';
 import WkIL7BX_1rc from './subtitles-WkIL7BX_1rc.json';
 import SQ23t9YDl_U from './subtitles-SQ23t9YDl_U.json';
+import _VxLOj3TB5k from './subtitles-_VxLOj3TB5k.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -105,6 +106,11 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         title: '汪苏泷-你最近好吗',
         thumbnailUrl: 'https://i3.ytimg.com/vi/SQ23t9YDl_U/hqdefault.jpg',
         captions: SQ23t9YDl_U,
+    },
+    _VxLOj3TB5k: {
+        title: '不該 - Bu Gai (feat. aMEI)',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/_VxLOj3TB5k/hqdefault.jpg',
+        captions: _VxLOj3TB5k,
     }
 };
 
