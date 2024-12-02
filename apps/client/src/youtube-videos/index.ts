@@ -17,6 +17,7 @@ import oCr5S9f88ic from './subtitles-oCr5S9f88ic.json';
 import tHOAr5GHnT8 from './subtitles-tHOAr5GHnT8.json';
 import _iSRDIaNFNg from './subtitles--iSRDIaNFNg.json';
 import WkIL7BX_1rc from './subtitles-WkIL7BX_1rc.json';
+import SQ23t9YDl_U from './subtitles-SQ23t9YDl_U.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -99,6 +100,11 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         title: '当你看着我的时候 (1.3X)',
         thumbnailUrl: 'https://i3.ytimg.com/vi/WkIL7BX_1rc/hqdefault.jpg',
         captions: WkIL7BX_1rc,
+    },
+    SQ23t9YDl_U: {
+        title: '汪苏泷-你最近好吗',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/SQ23t9YDl_U/hqdefault.jpg',
+        captions: SQ23t9YDl_U,
     }
 };
 
